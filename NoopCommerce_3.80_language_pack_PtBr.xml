@@ -127,295 +127,295 @@
     <Value>Endereços</Value>
   </LocaleResource>
   <LocaleResource Name="Account.CustomerAddresses.AddNew">
-    <Value>Add new address</Value>
+    <Value>Adicionar novo endereço</Value>
   </LocaleResource>
   <LocaleResource Name="Account.CustomerAddresses.Edit">
-    <Value>Edit address</Value>
+    <Value>Editar endereço</Value>
   </LocaleResource>
   <LocaleResource Name="Account.CustomerAddresses.NoAddresses">
-    <Value>No addresses</Value>
+    <Value>Nenhum endereço</Value>
   </LocaleResource>
   <LocaleResource Name="Account.CustomerInfo">
-    <Value>Customer info</Value>
+    <Value>Informações do cliente</Value>
   </LocaleResource>
   <LocaleResource Name="Account.CustomerOrders">
-    <Value>Orders</Value>
+    <Value>Pedidos</Value>
   </LocaleResource>
   <LocaleResource Name="Account.CustomerOrders.NoOrders">
-    <Value>No orders</Value>
+    <Value>Sem pedidos</Value>
   </LocaleResource>
   <LocaleResource Name="Account.CustomerOrders.OrderDate">
-    <Value>Order Date</Value>
+    <Value>Data do Pedido</Value>
   </LocaleResource>
   <LocaleResource Name="Account.CustomerOrders.OrderDetails">
-    <Value>Details</Value>
+    <Value>Detalhes</Value>
   </LocaleResource>
   <LocaleResource Name="Account.CustomerOrders.OrderNumber">
-    <Value>Order Number</Value>
+    <Value>Número do Pedido</Value>
   </LocaleResource>
   <LocaleResource Name="Account.CustomerOrders.OrderStatus">
-    <Value>Order status</Value>
+    <Value>Status do pedido</Value>
   </LocaleResource>
   <LocaleResource Name="Account.CustomerOrders.OrderTotal">
-    <Value>Order Total</Value>
+    <Value>Total do pedido</Value>
   </LocaleResource>
   <LocaleResource Name="Account.CustomerOrders.RecurringOrders">
-    <Value>Recurring payments</Value>
+    <Value>Pagamentos recorrentes</Value>
   </LocaleResource>
   <LocaleResource Name="Account.CustomerOrders.RecurringOrders.Cancel">
-    <Value>Cancel payment</Value>
+    <Value>Cancelar pagamento</Value>
   </LocaleResource>
   <LocaleResource Name="Account.CustomerOrders.RecurringOrders.CycleInfo">
-    <Value>Cycle info</Value>
+    <Value>Informação de ciclo</Value>
   </LocaleResource>
   <LocaleResource Name="Account.CustomerOrders.RecurringOrders.CyclesRemaining">
-    <Value>Cycles remaining</Value>
+    <Value>Ciclos restantes</Value>
   </LocaleResource>
   <LocaleResource Name="Account.CustomerOrders.RecurringOrders.InitialOrder">
-    <Value>Initial order</Value>
+    <Value>Pedido inicial</Value>
   </LocaleResource>
   <LocaleResource Name="Account.CustomerOrders.RecurringOrders.NextPayment">
-    <Value>Next payment</Value>
+    <Value>Próximo pagamento</Value>
   </LocaleResource>
   <LocaleResource Name="Account.CustomerOrders.RecurringOrders.StartDate">
-    <Value>Start date</Value>
+    <Value>Data de Início</Value>
   </LocaleResource>
   <LocaleResource Name="Account.CustomerOrders.RecurringOrders.TotalCycles">
-    <Value>Total cycles</Value>
+    <Value>Total de ciclos</Value>
   </LocaleResource>
   <LocaleResource Name="Account.CustomerOrders.RecurringOrders.ViewInitialOrder">
-    <Value>View order (ID - {0})</Value>
+    <Value>Ver pedido (N. - {0})</Value>
   </LocaleResource>
   <LocaleResource Name="Account.CustomerOrders.ReturnItems">
-    <Value>Return Item(s)</Value>
+    <Value>Retornar Item(s)</Value>
   </LocaleResource>
   <LocaleResource Name="Account.CustomerProductReviews">
-    <Value>My product reviews</Value>
+    <Value>Meus produtos avaliados</Value>
   </LocaleResource>
   <LocaleResource Name="Account.CustomerProductReviews.ApprovalStatus.Approved">
-    <Value>Approved</Value>
+    <Value>Aprovado</Value>
   </LocaleResource>
   <LocaleResource Name="Account.CustomerProductReviews.ApprovalStatus.Pending">
-    <Value>Pending</Value>
+    <Value>Pendente</Value>
   </LocaleResource>
   <LocaleResource Name="Account.CustomerProductReviews.NoRecords">
-    <Value>You haven't written any reviews yet</Value>
+    <Value>Você não escreveu nenhum comentário até agora</Value>
   </LocaleResource>
   <LocaleResource Name="Account.CustomerProductReviews.ProductReviewFor">
-    <Value>Product review for</Value>
+    <Value>Comentas produto para</Value>
   </LocaleResource>
   <LocaleResource Name="Account.CustomerReturnRequests">
-    <Value>Return requests</Value>
+    <Value>Pedidos de devolução</Value>
   </LocaleResource>
   <LocaleResource Name="Account.CustomerReturnRequests.Action">
-    <Value>Return Action:</Value>
+    <Value>Ação de retorno:</Value>
   </LocaleResource>
   <LocaleResource Name="Account.CustomerReturnRequests.Comments">
-    <Value>Your Comments:</Value>
+    <Value>Seus comentários:</Value>
   </LocaleResource>
   <LocaleResource Name="Account.CustomerReturnRequests.Date">
-    <Value>Date Requested:</Value>
+    <Value>Data requerida:</Value>
   </LocaleResource>
   <LocaleResource Name="Account.CustomerReturnRequests.Item">
-    <Value>Returned Item:</Value>
+    <Value>Item devolvido:</Value>
   </LocaleResource>
   <LocaleResource Name="Account.CustomerReturnRequests.Reason">
-    <Value>Return Reason:</Value>
+    <Value>Motivo de devolução:</Value>
   </LocaleResource>
   <LocaleResource Name="Account.CustomerReturnRequests.Title">
-    <Value>Return #{0} - {1}</Value>
+    <Value> Devolução #{0} - {1}</Value>
   </LocaleResource>
   <LocaleResource Name="Account.DownloadableProducts">
-    <Value>Downloadable products</Value>
+    <Value>Produtos para download</Value>
   </LocaleResource>
   <LocaleResource Name="Account.EmailUsernameErrors.EmailAlreadyExists">
-    <Value>The e-mail address is already in use</Value>
+    <Value>O e-mail já está em uso</Value>
   </LocaleResource>
   <LocaleResource Name="Account.EmailUsernameErrors.EmailTooLong">
-    <Value>E-mail address is too long</Value>
+    <Value>E-mail muito longo</Value>
   </LocaleResource>
   <LocaleResource Name="Account.EmailUsernameErrors.NewEmailIsNotValid">
-    <Value>New email is not valid</Value>
+    <Value>Novo e-mail não é válido</Value>
   </LocaleResource>
   <LocaleResource Name="Account.EmailUsernameErrors.UsernameAlreadyExists">
-    <Value>The username is already in use</Value>
+    <Value>O nome de usuário já está em uso</Value>
   </LocaleResource>
   <LocaleResource Name="Account.EmailUsernameErrors.UsernameTooLong">
-    <Value>Username is too long</Value>
+    <Value>Nome de usuário é muito grande</Value>
   </LocaleResource>
   <LocaleResource Name="Account.Fields.AcceptPrivacyPolicy">
-    <Value>I accept privacy policy</Value>
+    <Value>Eu aceito a política de privacidade</Value>
   </LocaleResource>
   <LocaleResource Name="Account.Fields.AcceptPrivacyPolicy.Read">
-    <Value>(read)</Value>
+    <Value>(lendo)</Value>
   </LocaleResource>
   <LocaleResource Name="Account.Fields.AcceptPrivacyPolicy.Required">
-    <Value>Please accept privacy policy</Value>
+    <Value>Por favor aceite a política de privacidade</Value>
   </LocaleResource>
   <LocaleResource Name="Account.Fields.City">
-    <Value>City</Value>
+    <Value>Cidade</Value>
   </LocaleResource>
   <LocaleResource Name="Account.Fields.City.Required">
-    <Value>City is required</Value>
+    <Value>Cidade é obrigatório</Value>
   </LocaleResource>
   <LocaleResource Name="Account.Fields.Company">
-    <Value>Company name</Value>
+    <Value>Nome da empresa</Value>
   </LocaleResource>
   <LocaleResource Name="Account.Fields.Company.Required">
-    <Value>Company name is required</Value>
+    <Value>Nome da empresa é obrigatório</Value>
   </LocaleResource>
   <LocaleResource Name="Account.Fields.ConfirmEmail">
-    <Value>Confirm email</Value>
+    <Value>Confirmar e-mail</Value>
   </LocaleResource>
   <LocaleResource Name="Account.Fields.ConfirmEmail.Required">
-    <Value>Email is required.</Value>
+    <Value>E-mail é obrigatório</Value>
   </LocaleResource>
   <LocaleResource Name="Account.Fields.ConfirmPassword">
-    <Value>Confirm password</Value>
+    <Value>Confirme a senha</Value>
   </LocaleResource>
   <LocaleResource Name="Account.Fields.ConfirmPassword.Required">
-    <Value>Password is required.</Value>
+    <Value>Senha é obrigatório</Value>
   </LocaleResource>
   <LocaleResource Name="Account.Fields.Country">
-    <Value>Country</Value>
+    <Value>País</Value>
   </LocaleResource>
   <LocaleResource Name="Account.Fields.Country.Required">
-    <Value>Country is required</Value>
+    <Value>País é obrigatório</Value>
   </LocaleResource>
   <LocaleResource Name="Account.Fields.DateOfBirth">
-    <Value>Date of birth</Value>
+    <Value>Data de aneversário</Value>
   </LocaleResource>
   <LocaleResource Name="Account.Fields.DateOfBirth.MinimumAge">
-    <Value>You have to be {0}</Value>
+    <Value>Você tem que ter {0}</Value>
   </LocaleResource>
   <LocaleResource Name="Account.Fields.DateOfBirth.Required">
-    <Value>Date of birth is required</Value>
+    <Value>Date de aniversário é obrigatório</Value>
   </LocaleResource>
   <LocaleResource Name="Account.Fields.Email">
     <Value>Email</Value>
   </LocaleResource>
   <LocaleResource Name="Account.Fields.Email.EnteredEmailsDoNotMatch">
-    <Value>The email and confirmation email do not match.</Value>
+    <Value>O email de confirmação não é igual ao email</Value>
   </LocaleResource>
   <LocaleResource Name="Account.Fields.Email.Required">
-    <Value>Email is required.</Value>
+    <Value>Email obrigatório</Value>
   </LocaleResource>
   <LocaleResource Name="Account.Fields.Fax">
     <Value>Fax</Value>
   </LocaleResource>
   <LocaleResource Name="Account.Fields.Fax.Required">
-    <Value>Fax is required</Value>
+    <Value>Fax é obrigatório</Value>
   </LocaleResource>
   <LocaleResource Name="Account.Fields.FirstName">
-    <Value>First name</Value>
+    <Value>Primeiro nome</Value>
   </LocaleResource>
   <LocaleResource Name="Account.Fields.FirstName.Required">
-    <Value>First name is required.</Value>
+    <Value>Primeiro nome é obrigatório</Value>
   </LocaleResource>
   <LocaleResource Name="Account.Fields.Gender">
-    <Value>Gender</Value>
+    <Value>Gênero</Value>
   </LocaleResource>
   <LocaleResource Name="Account.Fields.Gender.Female">
-    <Value>Female</Value>
+    <Value>Faminino</Value>
   </LocaleResource>
   <LocaleResource Name="Account.Fields.Gender.Male">
-    <Value>Male</Value>
+    <Value>Masculino</Value>
   </LocaleResource>
   <LocaleResource Name="Account.Fields.LastName">
-    <Value>Last name</Value>
+    <Value>Último nome</Value>
   </LocaleResource>
   <LocaleResource Name="Account.Fields.LastName.Required">
-    <Value>Last name is required.</Value>
+    <Value>Último nome é obrigatório</Value>
   </LocaleResource>
   <LocaleResource Name="Account.Fields.Newsletter">
-    <Value>Newsletter</Value>
+    <Value>Receber novidades no email</Value>
   </LocaleResource>
   <LocaleResource Name="Account.Fields.Password">
-    <Value>Password</Value>
+    <Value>Senha</Value>
   </LocaleResource>
   <LocaleResource Name="Account.Fields.Password.EnteredPasswordsDoNotMatch">
-    <Value>The password and confirmation password do not match.</Value>
+    <Value>A senha de confirmação no coincide com a senha digitada</Value>
   </LocaleResource>
   <LocaleResource Name="Account.Fields.Password.LengthValidation">
-    <Value>The password should have at least {0} characters.</Value>
+    <Value>A senha deve ter pelo menos {0} caracteres</Value>
   </LocaleResource>
   <LocaleResource Name="Account.Fields.Password.Required">
-    <Value>Password is required.</Value>
+    <Value>A senha é obrigatório</Value>
   </LocaleResource>
   <LocaleResource Name="Account.Fields.Phone">
-    <Value>Phone</Value>
+    <Value>Telefone</Value>
   </LocaleResource>
   <LocaleResource Name="Account.Fields.Phone.Required">
-    <Value>Phone is required</Value>
+    <Value>Telefone obrigatório</Value>
   </LocaleResource>
   <LocaleResource Name="Account.Fields.Signature">
-    <Value>Signature</Value>
+    <Value>Assinatura</Value>
   </LocaleResource>
   <LocaleResource Name="Account.Fields.StateProvince">
-    <Value>State / province</Value>
+    <Value>Estado</Value>
   </LocaleResource>
   <LocaleResource Name="Account.Fields.StateProvince.Required">
-    <Value>State / province is required</Value>
+    <Value>Estado obrigatório</Value>
   </LocaleResource>
   <LocaleResource Name="Account.Fields.StreetAddress">
-    <Value>Street address</Value>
+    <Value>Endereço</Value>
   </LocaleResource>
   <LocaleResource Name="Account.Fields.StreetAddress.Required">
-    <Value>Street address is required</Value>
+    <Value>Endereço obrigatório</Value>
   </LocaleResource>
   <LocaleResource Name="Account.Fields.StreetAddress2">
-    <Value>Street address 2</Value>
+    <Value>Endereço complementar</Value>
   </LocaleResource>
   <LocaleResource Name="Account.Fields.StreetAddress2.Required">
-    <Value>Street address 2 is required</Value>
+    <Value>Endereço complementar é obrigatório</Value>
   </LocaleResource>
   <LocaleResource Name="Account.Fields.Timezone">
-    <Value>Time zone</Value>
+    <Value>Fusi horário</Value>
   </LocaleResource>
   <LocaleResource Name="Account.Fields.Username">
-    <Value>Username</Value>
+    <Value>Nome de usuário</Value>
   </LocaleResource>
   <LocaleResource Name="Account.Fields.Username.Required">
-    <Value>Username is required.</Value>
+    <Value>Nome de usuário é obrigatório</Value>
   </LocaleResource>
   <LocaleResource Name="Account.Fields.VatNumber">
-    <Value>VAT number</Value>
+    <Value>Número de IVA</Value>
   </LocaleResource>
   <LocaleResource Name="Account.Fields.VatNumber.Note">
-    <Value>NOTE: Enter VAT number with country code (e.g. GB 111 111 11)</Value>
+    <Value>NOTA: Insira o número do IVA, com código de país</Value>
   </LocaleResource>
   <LocaleResource Name="Account.Fields.VatNumber.Status">
-    <Value>Status</Value>
+    <Value>Estatus</Value>
   </LocaleResource>
   <LocaleResource Name="Account.Fields.VatNumberStatus">
-    <Value>status: {0}</Value>
+    <Value>estatus: {0}</Value>
   </LocaleResource>
   <LocaleResource Name="Account.Fields.ZipPostalCode">
-    <Value>Zip / postal code</Value>
+    <Value>CEP</Value>
   </LocaleResource>
   <LocaleResource Name="Account.Fields.ZipPostalCode.Required">
-    <Value>Zip / postal code is required</Value>
+    <Value>CEP obrigatório</Value>
   </LocaleResource>
   <LocaleResource Name="Account.ForumSubscriptions">
-    <Value>Forum subscriptions</Value>
+    <Value>Assinaturas do Fórum</Value>
   </LocaleResource>
   <LocaleResource Name="Account.ForumSubscriptions.DeleteSelected">
-    <Value>Delete Selected</Value>
+    <Value>Deletar selecionado</Value>
   </LocaleResource>
   <LocaleResource Name="Account.ForumSubscriptions.Description">
-    <Value>You will receive an e-mail when a new forum topic/post is created.</Value>
+    <Value>Você receberá um email quando um novo tópico do forum for creiado</Value>
   </LocaleResource>
   <LocaleResource Name="Account.ForumSubscriptions.InfoColumn">
-    <Value>Forum/Topic</Value>
+    <Value>Fórum / Tópico</Value>
   </LocaleResource>
   <LocaleResource Name="Account.ForumSubscriptions.NoSubscriptions">
-    <Value>You are not currently subscribed to any forums</Value>
+    <Value>Você não está inscrito em nenhum fóruns</Value>
   </LocaleResource>
   <LocaleResource Name="Account.ImpersonatedAs">
-    <Value>Impersonated as {0}</Value>
+    <Value>Representado como {0}</Value>
   </LocaleResource>
   <LocaleResource Name="Account.ImpersonatedAs.Finish">
-    <Value>finish impersonated session</Value>
+    <Value>Final de representação da sessão</Value>
   </LocaleResource>
   <LocaleResource Name="Account.ImpersonatedAs.Finish.Hint">
     <Value>Click here to finish impersonated session</Value>
