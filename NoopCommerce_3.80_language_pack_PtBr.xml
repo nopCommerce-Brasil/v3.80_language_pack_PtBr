@@ -418,167 +418,169 @@
     <Value>Final de representação da sessão</Value>
   </LocaleResource>
   <LocaleResource Name="Account.ImpersonatedAs.Finish.Hint">
-    <Value>Click here to finish impersonated session</Value>
+    <Value>Clique aqui para terminar a sessão</Value>
   </LocaleResource>
   <LocaleResource Name="Account.Login">
-    <Value>Log in</Value>
+    <Value>Entrar</Value>
   </LocaleResource>
   <LocaleResource Name="Account.Login.CheckoutAsGuest">
-    <Value>Checkout as Guest</Value>
+    <Value>Finalizar como convidado</Value>
   </LocaleResource>
   <LocaleResource Name="Account.Login.CheckoutAsGuestOrRegister">
-    <Value>Checkout as a guest or register</Value>
+    <Value>Finalizar como convidado ou registrado</Value>
   </LocaleResource>
   <LocaleResource Name="Account.Login.Fields.Email">
     <Value>Email</Value>
   </LocaleResource>
   <LocaleResource Name="Account.Login.Fields.Email.Required">
-    <Value>Please enter your email</Value>
+    <Value>Por favor digite seu email</Value>
   </LocaleResource>
   <LocaleResource Name="Account.Login.Fields.Password">
-    <Value>Password</Value>
+    <Value>Senha</Value>
   </LocaleResource>
   <LocaleResource Name="Account.Login.Fields.RememberMe">
-    <Value>Remember me?</Value>
+    <Value>Entrar automático?</Value>
   </LocaleResource>
   <LocaleResource Name="Account.Login.Fields.UserName">
-    <Value>Username</Value>
+    <Value>Nome de usuário</Value>
   </LocaleResource>
   <LocaleResource Name="Account.Login.ForgotPassword">
-    <Value>Forgot password?</Value>
+    <Value>Esqueceu a seunha?</Value>
   </LocaleResource>
   <LocaleResource Name="Account.Login.LoginButton">
-    <Value>Log in</Value>
+    <Value>Entrar</Value>
   </LocaleResource>
   <LocaleResource Name="Account.Login.NewCustomer">
-    <Value>New Customer</Value>
+    <Value>Novo cadastro</Value>
   </LocaleResource>
   <LocaleResource Name="Account.Login.NewCustomerText">
-    <Value>By creating an account on our website you will be able to shop faster, be up to date on an orders status, and keep track of the orders you have previously made.</Value>
+    <Value>Ao criar uma conta em nosso site, você será capaz de fazer compras mais rápido, ser atualizado do estado das compras, e manter o controle de suas compras.</Value>
   </LocaleResource>
   <LocaleResource Name="Account.Login.ReturningCustomer">
-    <Value>Returning Customer</Value>
+    <Value>Retorno do cliente</Value>
   </LocaleResource>
   <LocaleResource Name="Account.Login.Unsuccessful">
-    <Value>Login was unsuccessful. Please correct the errors and try again.</Value>
+    <Value>Login sem êxito. Por favor corrija os erros e tente novamente.</Value>
   </LocaleResource>
   <LocaleResource Name="Account.Login.Welcome">
-    <Value>Welcome, Please Sign In!</Value>
+    <Value>Seja bem vindo, por favor entre!</Value>
   </LocaleResource>
   <LocaleResource Name="Account.Login.WrongCredentials">
-    <Value>The credentials provided are incorrect</Value>
+    <Value>As credenciais fornecidas são incorretas</Value>
   </LocaleResource>
   <LocaleResource Name="Account.Login.WrongCredentials.CustomerNotExist">
-    <Value>No customer account found</Value>
+    <Value>Nenhuma conta de cliente encontrada</Value>
   </LocaleResource>
   <LocaleResource Name="Account.Login.WrongCredentials.Deleted">
-    <Value>Customer is deleted</Value>
+    <Value>Cliente está excluido</Value>
   </LocaleResource>
   <LocaleResource Name="Account.Login.WrongCredentials.NotActive">
-    <Value>Account is not active</Value>
+    <Value>Conta não está ativa</Value>
   </LocaleResource>
   <LocaleResource Name="Account.Login.WrongCredentials.NotRegistered">
-    <Value>Account is not registered</Value>
+    <Value>Conta não está registrada</Value>
   </LocaleResource>
   <LocaleResource Name="Account.Logout">
-    <Value>Log out</Value>
+    <Value>Sair</Value>
   </LocaleResource>
   <LocaleResource Name="Account.MyAccount">
-    <Value>My account</Value>
+    <Value>Minha Conta</Value>
   </LocaleResource>
   <LocaleResource Name="Account.Navigation">
-    <Value>My account</Value>
+    <Value>Minha Conta</Value>
   </LocaleResource>
   <LocaleResource Name="Account.Options">
-    <Value>Options</Value>
+    <Value>Opções</Value>
   </LocaleResource>
   <LocaleResource Name="Account.PasswordRecovery">
-    <Value>Password recovery</Value>
+    <Value>Recuperar senha</Value>
   </LocaleResource>
   <LocaleResource Name="Account.PasswordRecovery.ChangePasswordButton">
-    <Value>Recover</Value>
+    <Value>Recuperar</Value>
   </LocaleResource>
   <LocaleResource Name="Account.PasswordRecovery.ConfirmNewPassword">
-    <Value>Confirm password</Value>
+    <Value>Confirme a senha</Value>
   </LocaleResource>
   <LocaleResource Name="Account.PasswordRecovery.ConfirmNewPassword.Required">
-    <Value>Password is required.</Value>
+    <Value>Senha é obrigatória.</Value>
   </LocaleResource>
   <LocaleResource Name="Account.PasswordRecovery.Email">
-    <Value>Your email address</Value>
+    <Value>Seu endereço de email</Value>
   </LocaleResource>
   <LocaleResource Name="Account.PasswordRecovery.Email.Required">
-    <Value>Enter your email</Value>
+    <Value>Insira seu email</Value>
   </LocaleResource>
   <LocaleResource Name="Account.PasswordRecovery.EmailHasBeenSent">
-    <Value>Email with instructions has been sent to you.</Value>
+    <Value>Um email com as instruções foi enviado para você.</Value>
   </LocaleResource>
   <LocaleResource Name="Account.PasswordRecovery.EmailNotFound">
-    <Value>Email not found.</Value>
+    <Value>Email não encontrado</Value>
   </LocaleResource>
   <LocaleResource Name="Account.PasswordRecovery.LinkExpired">
-    <Value>Your password recovery link is expired</Value>
+    <Value>O seu link de recuperação de senha expirou</Value>
   </LocaleResource>
   <LocaleResource Name="Account.PasswordRecovery.NewPassword">
-    <Value>New password</Value>
+    <Value>Nova senha</Value>
   </LocaleResource>
   <LocaleResource Name="Account.PasswordRecovery.NewPassword.EnteredPasswordsDoNotMatch">
-    <Value>The new password and confirmation password do not match.</Value>
+    <Value>A confirmação de senha não confere com a senha.</Value>
   </LocaleResource>
   <LocaleResource Name="Account.PasswordRecovery.NewPassword.LengthValidation">
-    <Value>The password should have at least {0} characters.</Value>
+    <Value>A senha deve ter pelo menos {0} caracteres.</Value>
   </LocaleResource>
   <LocaleResource Name="Account.PasswordRecovery.NewPassword.Required">
-    <Value>New password is required.</Value>
+    <Value>Nova senha é necessária.</Value>
   </LocaleResource>
   <LocaleResource Name="Account.PasswordRecovery.OldPassword">
-    <Value>Old password</Value>
+    <Value>Senha antiga</Value>
   </LocaleResource>
   <LocaleResource Name="Account.PasswordRecovery.OldPassword.Required">
-    <Value>Old password is required.</Value>
+    <Value>Senha antiga é necessária.</Value>
   </LocaleResource>
   <LocaleResource Name="Account.PasswordRecovery.PasswordHasBeenChanged">
-    <Value>Your password has been changed</Value>
+    <Value>Sua senha foi alterada</Value>
   </LocaleResource>
   <LocaleResource Name="Account.PasswordRecovery.RecoverButton">
-    <Value>Recover</Value>
+    <Value>Recuperar</Value>
   </LocaleResource>
   <LocaleResource Name="Account.PasswordRecovery.Tooltip">
-    <Value>Please enter your email address below. You will receive a link to reset your password.</Value>
+    <Value>Por favor, indique o seu email abaixo. Você receberá um link para redefinir sua senha.</Value>
   </LocaleResource>
   <LocaleResource Name="Account.PasswordRecovery.WrongToken">
-    <Value>Wrong password recovery token</Value>
+    <Value>Chave de recuperação de senha errada</Value>
   </LocaleResource>
   <LocaleResource Name="Account.Preferences">
-    <Value>Preferences</Value>
+    <Value>Preferências</Value>
   </LocaleResource>
   <LocaleResource Name="Account.Register">
-    <Value>Register</Value>
+    <Value>Registrar</Value>
   </LocaleResource>
   <LocaleResource Name="Account.Register.Button">
-    <Value>Register</Value>
+    <Value>Registrar</Value>
   </LocaleResource>
   <LocaleResource Name="Account.Register.Errors.EmailAlreadyExists">
-    <Value>The specified email already exists</Value>
+    <Value>O e-mail especificado já existe</Value>
   </LocaleResource>
   <LocaleResource Name="Account.Register.Errors.EmailIsNotProvided">
-    <Value>Email is required.</Value>
+    <Value>E-mail obrigatório.</Value>
   </LocaleResource>
   <LocaleResource Name="Account.Register.Errors.PasswordIsNotProvided">
-    <Value>Password is not provided</Value>
+    <Value>A senha não foi fornecida</Value>
   </LocaleResource>
   <LocaleResource Name="Account.Register.Errors.UsernameAlreadyExists">
-    <Value>The specified username already exists</Value>
+    <Value>O usuário fornecido já existe</Value>
   </LocaleResource>
   <LocaleResource Name="Account.Register.Errors.UsernameIsNotProvided">
-    <Value>Username is required.</Value>
+    <Value>Usuário é requerido.</Value>
   </LocaleResource>
   <LocaleResource Name="Account.Register.Result.AdminApproval">
-    <Value>Your account will be activated after approving by administrator.</Value>
+    <Value>Sua conta será ativada após a aprovação do administrador.</Value>
   </LocaleResource>
   <LocaleResource Name="Account.Register.Result.Continue">
     <Value>Continue</Value>
   </LocaleResource>
+  ---
+  
   <LocaleResource Name="Account.Register.Result.Disabled">
     <Value>Registration not allowed. You can edit this in the admin area.</Value>
   </LocaleResource>
