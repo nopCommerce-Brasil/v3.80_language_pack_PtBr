@@ -579,434 +579,436 @@
   <LocaleResource Name="Account.Register.Result.Continue">
     <Value>Continue</Value>
   </LocaleResource>
-  ---
-  
   <LocaleResource Name="Account.Register.Result.Disabled">
-    <Value>Registration not allowed. You can edit this in the admin area.</Value>
+    <Value>Registro não é permitido. Você pode editar este na área administrativa.</Value>
   </LocaleResource>
   <LocaleResource Name="Account.Register.Result.EmailValidation">
-    <Value>Your registration has been successfully completed. You have just been sent an email containing membership activation instructions.</Value>
+    <Value>O seu registo foi concluída com êxito. Acabamos de enviar um e-mail contendo as instruções de ativação de adesão.</Value>
   </LocaleResource>
   <LocaleResource Name="Account.Register.Result.Standard">
-    <Value>Your registration completed</Value>
+    <Value>Seu registro foi concluido</Value>
   </LocaleResource>
   <LocaleResource Name="Account.Register.Unsuccessful">
-    <Value>Registration was not complete. Please correct the errors and try again.</Value>
+    <Value>O registro não foi completado. Por favor corrija os erros e tente novamente.</Value>
   </LocaleResource>
   <LocaleResource Name="Account.RewardPoints">
-    <Value>Reward points</Value>
+    <Value>Pontos de reconpensa</Value>
   </LocaleResource>
   <LocaleResource Name="Account.ShoppingCart">
-    <Value>Shopping Cart</Value>
+    <Value>Carrinho de compras</Value>
   </LocaleResource>
   <LocaleResource Name="Account.VendorInfo">
-    <Value>Vendor info</Value>
+    <Value>Informação fornecedor</Value>
   </LocaleResource>
   <LocaleResource Name="Account.VendorInfo.Description">
-    <Value>Description</Value>
+    <Value>Descrição</Value>
   </LocaleResource>
   <LocaleResource Name="Account.VendorInfo.Email">
-    <Value>Email</Value>
+    <Value>E-mail</Value>
   </LocaleResource>
   <LocaleResource Name="Account.VendorInfo.Email.Required">
-    <Value>Email is required.</Value>
+    <Value>E-mail é obrigatório.</Value>
   </LocaleResource>
   <LocaleResource Name="Account.VendorInfo.Name">
-    <Value>Name</Value>
+    <Value>Nome</Value>
   </LocaleResource>
   <LocaleResource Name="Account.VendorInfo.Name.Required">
-    <Value>Vendor name is required.</Value>
+    <Value>Nome do fornecedor é obrigatório.</Value>
   </LocaleResource>
   <LocaleResource Name="Account.VendorInfo.Picture">
-    <Value>Picture</Value>
+    <Value>Foto</Value>
   </LocaleResource>
   <LocaleResource Name="Account.VendorInfo.Picture.ErrorMessage">
-    <Value>You can add only picture file</Value>
+    <Value>Você pode adicionar apenas arquivo de imagem</Value>
   </LocaleResource>
   <LocaleResource Name="Account.VendorInfo.Picture.Remove">
-    <Value>Remove picture</Value>
+    <Value>Remover imagem</Value>
   </LocaleResource>
   <LocaleResource Name="Account.YourAddress">
-    <Value>Your Address</Value>
+    <Value>Seu endereço</Value>
   </LocaleResource>
   <LocaleResource Name="Account.YourContactInformation">
-    <Value>Your Contact Information</Value>
+    <Value>Seus dados de contato</Value>
   </LocaleResource>
   <LocaleResource Name="Account.YourPassword">
-    <Value>Your Password</Value>
+    <Value>Sua senha</Value>
   </LocaleResource>
   <LocaleResource Name="Account.YourPersonalDetails">
-    <Value>Your Personal Details</Value>
+    <Value>Sua dados pessoais</Value>
   </LocaleResource>
   <LocaleResource Name="ActivityLog.AddNewCategory">
-    <Value>Added a new category ('{0}')</Value>
+    <Value>Adicionar uma nova categoria ('{0}')</Value>
   </LocaleResource>
   <LocaleResource Name="ActivityLog.AddNewCheckoutAttribute">
-    <Value>Added a new checkout attribute ('{0}')</Value>
+    <Value>Adicionado um novo atributo de checkout ('{0}')</Value>
   </LocaleResource>
   <LocaleResource Name="ActivityLog.AddNewCustomer">
-    <Value>Added a new customer (ID = {0})</Value>
+    <Value>Adicionado um novo cliente (ID = {0})</Value>
   </LocaleResource>
   <LocaleResource Name="ActivityLog.AddNewCustomerRole">
-    <Value>Added a new customer role ('{0}')</Value>
+    <Value>Adicionado nova função de cliente ('{0}')</Value>
   </LocaleResource>
   <LocaleResource Name="ActivityLog.AddNewDiscount">
-    <Value>Added a new discount ('{0}')</Value>
+    <Value>Adicionar novo desconto ('{0}')</Value>
   </LocaleResource>
   <LocaleResource Name="ActivityLog.AddNewGiftCard">
-    <Value>Added a new gift card ('{0}')</Value>
+    <Value>Adicionar no cartão de presente ('{0}')</Value>
   </LocaleResource>
   <LocaleResource Name="ActivityLog.AddNewManufacturer">
-    <Value>Added a new manufacturer ('{0}')</Value>
+    <Value>Adicionado um novo fabricante ('{0}')</Value>
   </LocaleResource>
   <LocaleResource Name="ActivityLog.AddNewProduct">
-    <Value>Added a new product ('{0}')</Value>
+    <Value>Adicionar um novo produto ('{0}')</Value>
   </LocaleResource>
   <LocaleResource Name="ActivityLog.AddNewProductAttribute">
-    <Value>Added a new product attribute ('{0}')</Value>
+    <Value>Adicionar um novo atributo de produto ('{0}')</Value>
   </LocaleResource>
   <LocaleResource Name="ActivityLog.AddNewSetting">
-    <Value>Added a new setting ('{0}')</Value>
+    <Value>Adicionado uma nova configuração ('{0}')</Value>
   </LocaleResource>
   <LocaleResource Name="ActivityLog.AddNewSpecAttribute">
-    <Value>Added a new specification attribute ('{0}')</Value>
+    <Value>Adicionar um novo atributo de especificação ('{0}')</Value>
   </LocaleResource>
   <LocaleResource Name="ActivityLog.AddNewTopic">
-    <Value>Added a new topic ('{0}')</Value>
+    <Value>Adicionar novo tópico ('{0}')</Value>
   </LocaleResource>
   <LocaleResource Name="ActivityLog.AddNewWidget">
-    <Value>Added a new widget (ID = {0})</Value>
+    <Value>Adicionado um novo widget (ID = {0})</Value>
   </LocaleResource>
   <LocaleResource Name="ActivityLog.DeleteActivityLog">
-    <Value>Deleted activity log</Value>
+    <Value>Deletar log de atividade</Value>
   </LocaleResource>
   <LocaleResource Name="ActivityLog.DeleteCategory">
-    <Value>Deleted a category ('{0}')</Value>
+    <Value>Deletar a categoria ('{0}')</Value>
   </LocaleResource>
   <LocaleResource Name="ActivityLog.DeleteCheckoutAttribute">
-    <Value>Deleted a checkout attribute ('{0}')</Value>
+    <Value>Deletado um atributo de carrinho ('{0}')</Value>
   </LocaleResource>
   <LocaleResource Name="ActivityLog.DeleteCustomer">
-    <Value>Deleted a customer (ID = {0})</Value>
+    <Value>Cliente  (ID = {0})</Value>
   </LocaleResource>
   <LocaleResource Name="ActivityLog.DeleteCustomerRole">
-    <Value>Deleted a customer role ('{0}')</Value>
+    <Value>Deletado uma regra de cliente ('{0}')</Value>
   </LocaleResource>
   <LocaleResource Name="ActivityLog.DeleteDiscount">
-    <Value>Deleted a discount ('{0}')</Value>
+    <Value>Disconto deletado ('{0}')</Value>
   </LocaleResource>
   <LocaleResource Name="ActivityLog.DeleteGiftCard">
-    <Value>Deleted a gift card ('{0}')</Value>
+    <Value>Catão de presente deletado ('{0}')</Value>
   </LocaleResource>
   <LocaleResource Name="ActivityLog.DeleteManufacturer">
-    <Value>Deleted a manufacturer ('{0}')</Value>
+    <Value>Fornecedor deletado ('{0}')</Value>
   </LocaleResource>
   <LocaleResource Name="ActivityLog.DeleteOrder">
-    <Value>Deleted an order (ID = {0})</Value>
+    <Value>Pedido deletado (ID = {0})</Value>
   </LocaleResource>
   <LocaleResource Name="ActivityLog.DeleteProduct">
-    <Value>Deleted a product ('{0}')</Value>
+    <Value>Produto deletado ('{0}')</Value>
   </LocaleResource>
   <LocaleResource Name="ActivityLog.DeleteProductAttribute">
-    <Value>Deleted a product attribute ('{0}')</Value>
+    <Value>Atributo de produto deletado ('{0}')</Value>
   </LocaleResource>
   <LocaleResource Name="ActivityLog.DeleteReturnRequest">
-    <Value>Deleted a return request (ID = {0})</Value>
+    <Value>Excluída uma solicitação de retorno (ID = {0})</Value>
   </LocaleResource>
   <LocaleResource Name="ActivityLog.DeleteSetting">
-    <Value>Deleted a setting ('{0}')</Value>
+    <Value>Excluída uma configuração ('{0}')</Value>
   </LocaleResource>
   <LocaleResource Name="ActivityLog.DeleteSpecAttribute">
-    <Value>Deleted a specification attribute ('{0}')</Value>
+    <Value>Deletado um atributo específico ('{0}')</Value>
   </LocaleResource>
   <LocaleResource Name="ActivityLog.DeleteTopic">
-    <Value>Deleted a topic ('{0}')</Value>
+    <Value>Tópico deletado ('{0}')</Value>
   </LocaleResource>
   <LocaleResource Name="ActivityLog.DeleteWidget">
-    <Value>Deleted a widget (ID = {0})</Value>
+    <Value>Widget deletado (ID = {0})</Value>
   </LocaleResource>
   <LocaleResource Name="ActivityLog.EditActivityLogTypes">
-    <Value>Edited activity log types</Value>
+    <Value>Editar atividades de tipos de log</Value>
   </LocaleResource>
   <LocaleResource Name="ActivityLog.EditCategory">
-    <Value>Edited a category ('{0}')</Value>
+    <Value>Categoria editada ('{0}')</Value>
   </LocaleResource>
   <LocaleResource Name="ActivityLog.EditCheckoutAttribute">
-    <Value>Edited a checkout attribute ('{0}')</Value>
+    <Value>Atributo de carrinho editado ('{0}')</Value>
   </LocaleResource>
   <LocaleResource Name="ActivityLog.EditCustomer">
-    <Value>Edited a customer (ID = {0})</Value>
+    <Value>Cliente editado (ID = {0})</Value>
   </LocaleResource>
   <LocaleResource Name="ActivityLog.EditCustomerRole">
-    <Value>Edited a customer role ('{0}')</Value>
+    <Value>Função de cliente editado ('{0}')</Value>
   </LocaleResource>
   <LocaleResource Name="ActivityLog.EditDiscount">
-    <Value>Edited a discount ('{0}')</Value>
+    <Value>Disconto editado ('{0}')</Value>
   </LocaleResource>
   <LocaleResource Name="ActivityLog.EditGiftCard">
-    <Value>Edited a gift card ('{0}')</Value>
+    <Value>Cartão de presente editado ('{0}')</Value>
   </LocaleResource>
   <LocaleResource Name="ActivityLog.EditManufacturer">
-    <Value>Edited a manufacturer ('{0}')</Value>
+    <Value>Fornecedor editado ('{0}')</Value>
   </LocaleResource>
   <LocaleResource Name="ActivityLog.EditOrder">
-    <Value>Edited an order (ID = {0}). See order notes for details</Value>
+    <Value>Pedido editado (ID = {0}). Veja os detalhes do pedido</Value>
   </LocaleResource>
   <LocaleResource Name="ActivityLog.EditProduct">
-    <Value>Edited a product ('{0}')</Value>
+    <Value>Produto editado ('{0}')</Value>
   </LocaleResource>
   <LocaleResource Name="ActivityLog.EditProductAttribute">
-    <Value>Edited a product attribute ('{0}')</Value>
+    <Value>Atributo de produto editado ('{0}')</Value>
   </LocaleResource>
   <LocaleResource Name="ActivityLog.EditReturnRequest">
-    <Value>Edited a return request (ID = {0})</Value>
+    <Value>Pedido de devolução editado (ID = {0})</Value>
   </LocaleResource>
   <LocaleResource Name="ActivityLog.EditSettings">
-    <Value>Edited settings</Value>
+    <Value>Configurações editada</Value>
   </LocaleResource>
   <LocaleResource Name="ActivityLog.EditSpecAttribute">
-    <Value>Edited a specification attribute ('{0}')</Value>
+    <Value>Especificação de atributo editada ('{0}')</Value>
   </LocaleResource>
   <LocaleResource Name="ActivityLog.EditTopic">
-    <Value>Edited a topic ('{0}')</Value>
+    <Value>Tópico editado ('{0}')</Value>
   </LocaleResource>
   <LocaleResource Name="ActivityLog.EditWidget">
-    <Value>Edited a widget (ID = {0})</Value>
+    <Value>Widget Editado (ID = {0})</Value>
   </LocaleResource>
   <LocaleResource Name="ActivityLog.Impersonation.Finished.Customer">
-    <Value>Impersonation by store owner was finished (Email: {0}, ID = {1})</Value>
+    <Value>Representação pelo proprietário da loja foi concluído (E-mail: {0}, ID = {1})</Value>
   </LocaleResource>
   <LocaleResource Name="ActivityLog.Impersonation.Finished.StoreOwner">
-    <Value>Finished customer impersonation (Email: {0}, ID = {1})</Value>
+    <Value>Acabou a representação do cliente (Email: {0}, ID = {1})</Value>
   </LocaleResource>
   <LocaleResource Name="ActivityLog.Impersonation.Started.Customer">
-    <Value>Impersonated by store owner (Email: {0}, ID = {1})</Value>
+    <Value>Representacão pelo proprietário de loja (Email: {0}, ID = {1})</Value>
   </LocaleResource>
   <LocaleResource Name="ActivityLog.Impersonation.Started.StoreOwner">
-    <Value>Started customer impersonation (Email: {0}, ID = {1})</Value>
+    <Value>Inicio de representação do cliente (Email: {0}, ID = {1})</Value>
   </LocaleResource>
   <LocaleResource Name="ActivityLog.PublicStore.AddBlogComment">
-    <Value>Added a blog comment</Value>
+    <Value>Adicionado um comentário no blog</Value>
   </LocaleResource>
   <LocaleResource Name="ActivityLog.PublicStore.AddNewsComment">
-    <Value>Added a news comment</Value>
+    <Value>Adicionado um novo comentário</Value>
   </LocaleResource>
   <LocaleResource Name="ActivityLog.PublicStore.AddProductReview">
-    <Value>Added a product review ('{0}')</Value>
+    <Value>Adicionado uma avaliação de produto ('{0}')</Value>
   </LocaleResource>
   <LocaleResource Name="ActivityLog.PublicStore.AddToCompareList">
-    <Value>Added a product to compare list ('{0}')</Value>
+    <Value>Adicionado um produto na lista de comparação ('{0}')</Value>
   </LocaleResource>
   <LocaleResource Name="ActivityLog.PublicStore.AddToShoppingCart">
-    <Value>Added a product to shopping cart ('{0}')</Value>
+    <Value>Adicionado um produto no carrinho de compras ('{0}')</Value>
   </LocaleResource>
   <LocaleResource Name="ActivityLog.PublicStore.AddToWishlist">
-    <Value>Added a product to wishlist ('{0}')</Value>
+    <Value>Adicionado um produto na lista de desejos ('{0}')</Value>
   </LocaleResource>
   <LocaleResource Name="ActivityLog.PublicStore.ContactUs">
-    <Value>Used contact us form</Value>
+    <Value>Usado formulário de contado </Value>
   </LocaleResource>
   <LocaleResource Name="ActivityLog.PublicStore.Login">
-    <Value>Login</Value>
+    <Value>Entrar</Value>
   </LocaleResource>
   <LocaleResource Name="ActivityLog.PublicStore.Logout">
-    <Value>Logout</Value>
+    <Value>Sair</Value>
   </LocaleResource>
   <LocaleResource Name="ActivityLog.PublicStore.PlaceOrder">
-    <Value>Placed a new order (ID = {0})</Value>
+    <Value>Novo pedido colocado (ID = {0})</Value>
   </LocaleResource>
   <LocaleResource Name="ActivityLog.PublicStore.SendPM">
-    <Value>Sent PM to customer ('{0}')</Value>
+    <Value>Enviar mensagem privado para o cliente ('{0}')</Value>
   </LocaleResource>
   <LocaleResource Name="ActivityLog.PublicStore.ViewCategory">
-    <Value>Public store. Viewed a category details page ('{0}')</Value>
+    <Value>Loja pública. Exibido uma página de detalhes da categoria ('{0}')</Value>
   </LocaleResource>
   <LocaleResource Name="ActivityLog.PublicStore.ViewManufacturer">
-    <Value>Public store. Viewed a manufacturer details page ('{0}')</Value>
+    <Value>Loja pública. Exibido uma página de detalhes de fornecedor ('{0}')</Value>
   </LocaleResource>
   <LocaleResource Name="ActivityLog.PublicStore.ViewProduct">
-    <Value>Public store. Viewed a product details page ('{0}')</Value>
+    <Value>Loja pública. Exibido uma página de detalhes do produto ('{0}')</Value>
   </LocaleResource>
   <LocaleResource Name="Address">
-    <Value>Address</Value>
+    <Value>Endereço</Value>
   </LocaleResource>
   <LocaleResource Name="Address.Fields.Address1">
-    <Value>Address 1</Value>
+    <Value>Endereço 1</Value>
   </LocaleResource>
   <LocaleResource Name="Address.Fields.Address1.Required">
-    <Value>Address 1 is required.</Value>
+    <Value>Endereço 1 é obrigatório.</Value>
   </LocaleResource>
   <LocaleResource Name="Address.Fields.Address2">
-    <Value>Address 2</Value>
+    <Value>Endereço 2</Value>
   </LocaleResource>
   <LocaleResource Name="Address.Fields.Address2.Required">
-    <Value>Address 2 is required.</Value>
+    <Value>Endereço 2 é obrigatório.</Value>
   </LocaleResource>
   <LocaleResource Name="Address.Fields.City">
-    <Value>City</Value>
+    <Value>Cidade</Value>
   </LocaleResource>
   <LocaleResource Name="Address.Fields.City.Required">
-    <Value>City is required.</Value>
+    <Value>Cidade é obrigatório.</Value>
   </LocaleResource>
   <LocaleResource Name="Address.Fields.Company">
-    <Value>Company</Value>
+    <Value>Empresa</Value>
   </LocaleResource>
   <LocaleResource Name="Address.Fields.Company.Required">
-    <Value>Company is required.</Value>
+    <Value>Empresa é obrigatório.</Value>
   </LocaleResource>
   <LocaleResource Name="Address.Fields.Country">
-    <Value>Country</Value>
+    <Value>País</Value>
   </LocaleResource>
   <LocaleResource Name="Address.Fields.Country.Required">
-    <Value>Country is required.</Value>
+    <Value>País é obrigatório.</Value>
   </LocaleResource>
   <LocaleResource Name="Address.Fields.Email">
-    <Value>Email</Value>
+    <Value>E-mail</Value>
   </LocaleResource>
   <LocaleResource Name="Address.Fields.Email.Required">
-    <Value>Email is required.</Value>
+    <Value>E-mail é obrigatório.</Value>
   </LocaleResource>
   <LocaleResource Name="Address.Fields.FaxNumber">
-    <Value>Fax number</Value>
+    <Value>Númeor do fax</Value>
   </LocaleResource>
   <LocaleResource Name="Address.Fields.FaxNumber.Required">
-    <Value>Fax number is required.</Value>
+    <Value>Númeor do fax é obrigatório.</Value>
   </LocaleResource>
   <LocaleResource Name="Address.Fields.FirstName">
-    <Value>First name</Value>
+    <Value>Primeiro nome</Value>
   </LocaleResource>
   <LocaleResource Name="Address.Fields.FirstName.Required">
-    <Value>First name is required.</Value>
+    <Value>Primeiro nome é obrigatório.</Value>
   </LocaleResource>
   <LocaleResource Name="Address.Fields.LastName">
-    <Value>Last name</Value>
+    <Value>Último nome</Value>
   </LocaleResource>
   <LocaleResource Name="Address.Fields.LastName.Required">
-    <Value>Last name is required.</Value>
+    <Value>Último nome é obrigatório.</Value>
   </LocaleResource>
   <LocaleResource Name="Address.Fields.PhoneNumber">
-    <Value>Phone number</Value>
+    <Value>Número de telefone</Value>
   </LocaleResource>
   <LocaleResource Name="Address.Fields.PhoneNumber.Required">
-    <Value>Phone number is required.</Value>
+    <Value>Número de telefone é obrigatório.</Value>
   </LocaleResource>
   <LocaleResource Name="Address.Fields.StateProvince">
-    <Value>State / province</Value>
+    <Value>Estado</Value>
   </LocaleResource>
   <LocaleResource Name="Address.Fields.StateProvince.Required">
-    <Value>State / province is required.</Value>
+    <Value>Estado é obrigatório.</Value>
   </LocaleResource>
   <LocaleResource Name="Address.Fields.ZipPostalCode">
-    <Value>Zip / postal code</Value>
+    <Value>CEP</Value>
   </LocaleResource>
   <LocaleResource Name="Address.Fields.ZipPostalCode.Required">
-    <Value>Zip / postal code is required.</Value>
+    <Value>CEP é obrigatório.</Value>
   </LocaleResource>
   <LocaleResource Name="Address.OtherNonUS">
-    <Value>Other (Non US)</Value>
+    <Value>Complemento</Value>
   </LocaleResource>
   <LocaleResource Name="Address.SelectCountry">
-    <Value>Select country</Value>
+    <Value>Selecione o país</Value>
   </LocaleResource>
   <LocaleResource Name="Address.SelectState">
-    <Value>Select state</Value>
+    <Value>Selecione o estado</Value>
   </LocaleResource>
   <LocaleResource Name="Admin">
     <Value>Admin</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.AccessDenied.Description">
-    <Value>You do not have permission to perform the selected operation.</Value>
+    <Value>Você não tem permissão para executar a operação selecionada.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.AccessDenied.Title">
-    <Value>Access denied.</Value>
+    <Value>Acesso negado.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Address">
-    <Value>Address</Value>
+    <Value>Endereço</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Address.AddressAttributes">
-    <Value>Custom address attributes</Value>
+    <Value>Atributo de endereço customizado</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Address.AddressAttributes.Added">
-    <Value>The new attribute has been added successfully.</Value>
+    <Value>O novo atributo foi adicionado com sucesso.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Address.AddressAttributes.AddNew">
-    <Value>Add a new address attribute</Value>
+    <Value>Adicionado um novo atributo de endereço</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Address.AddressAttributes.BackToList">
-    <Value>back to address attribute list</Value>
+    <Value>Voltar para a lista de atributos de endereço</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Address.AddressAttributes.Deleted">
-    <Value>The attribute has been deleted successfully.</Value>
+    <Value>O atributo foi deletado com sucesso.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Address.AddressAttributes.Description">
-    <Value>If the default form fields are not enough for your needs, then you can manage additional address attributes below.</Value>
+    <Value>Se os campos padrões do formulário não forem suficiente para suas necessidades, então você pode gerenciar os atributos adicionais de endereço abaixo.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Address.AddressAttributes.EditAttributeDetails">
-    <Value>Edit address attribute details</Value>
+    <Value>Editar detalhes de atributo de endereço</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Address.AddressAttributes.Fields.AttributeControlType">
-    <Value>Control type</Value>
+    <Value>Tipo de controle</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Address.AddressAttributes.Fields.AttributeControlType.Hint">
-    <Value>Choose how to display your attribute values.</Value>
+    <Value>Escolha como mostrar seu valor de atributo.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Address.AddressAttributes.Fields.DisplayOrder">
-    <Value>Display order</Value>
+    <Value>mostrar pedido</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Address.AddressAttributes.Fields.DisplayOrder.Hint">
-    <Value>The address attribute display order. 1 represents the first item in the list.</Value>
+    <Value>O atributo de endereço na ordem de exibição. 1 representa o primeiro item na lista.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Address.AddressAttributes.Fields.IsRequired">
-    <Value>Required</Value>
+    <Value>Obrigatório</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Address.AddressAttributes.Fields.IsRequired.Hint">
-    <Value>When an attribute is required, the customer must choose an appropriate attribute value before they can continue.</Value>
+    <Value>Quando um atributo é obrigatório, o cliente deve escolher um valor de atributo apropriado antes de continuar.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Address.AddressAttributes.Fields.Name">
-    <Value>Name</Value>
+    <Value>Nome</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Address.AddressAttributes.Fields.Name.Hint">
-    <Value>The name of the address attribute.</Value>
+    <Value>O nome do atributo de endereço.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Address.AddressAttributes.Fields.Name.Required">
-    <Value>Please provide a name.</Value>
+    <Value>Pro favor informe o nome.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Address.AddressAttributes.Info">
-    <Value>Attribute info</Value>
+    <Value>Informação de atributo</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Address.AddressAttributes.Updated">
-    <Value>The attribute has been updated successfully.</Value>
+    <Value>O atributo foi atualizado com sucesso.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Address.AddressAttributes.Values">
-    <Value>Attribute values</Value>
+    <Value>Valor do atributo</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Address.AddressAttributes.Values.AddNew">
-    <Value>Add a new address value</Value>
+    <Value>Adicionar um novo endereço</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Address.AddressAttributes.Values.EditValueDetails">
-    <Value>Edit address value details</Value>
+    <Value>Editar detalhes do endereço</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Address.AddressAttributes.Values.Fields.DisplayOrder">
-    <Value>Display order</Value>
+    <Value>Ordem de exibição</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Address.AddressAttributes.Values.Fields.DisplayOrder.Hint">
-    <Value>The display order of the attribute value. 1 represents the first item in attribute value list.</Value>
+    <Value>A ordem de exibição do valor do atributo. 1 representa o primeiro item na lista do atributo.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Address.AddressAttributes.Values.Fields.IsPreSelected">
-    <Value>Pre-selected</Value>
+    <Value>Pre-selecionado</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Address.AddressAttributes.Values.Fields.IsPreSelected.Hint">
-    <Value>Determines whether this attribute value is pre selected for the address.</Value>
+    <Value>Determina se este valor do atributo é pré selecionada para o endereço.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Address.AddressAttributes.Values.Fields.Name">
-    <Value>Name</Value>
+    <Value>Nome</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Address.AddressAttributes.Values.Fields.Name.Hint">
-    <Value>The name of the address value.</Value>
+    <Value>Nome para este endereço.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Address.AddressAttributes.Values.Fields.Name.Required">
-    <Value>Please provide a name.</Value>
+    <Value>Por favor informe um nome.</Value>
   </LocaleResource>
+  
+  ------
+  
+  
   <LocaleResource Name="Admin.Address.AddressAttributes.Values.SaveBeforeEdit">
     <Value>You need to save the address attribute before you can add values for this address attribute page.</Value>
   </LocaleResource>
