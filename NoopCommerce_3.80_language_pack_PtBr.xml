@@ -1005,172 +1005,174 @@
   <LocaleResource Name="Admin.Address.AddressAttributes.Values.Fields.Name.Required">
     <Value>Por favor informe um nome.</Value>
   </LocaleResource>
-  
-  ------
-  
-  
   <LocaleResource Name="Admin.Address.AddressAttributes.Values.SaveBeforeEdit">
-    <Value>You need to save the address attribute before you can add values for this address attribute page.</Value>
+    <Value>Você precisa salvar o endereço antes de adicionar atributos.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Address.Fields.Address1">
-    <Value>Address 1</Value>
+    <Value>Endereço 1</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Address.Fields.Address1.Hint">
-    <Value>Enter address 1</Value>
+    <Value>Inclua o endereço 1</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Address.Fields.Address1.Required">
-    <Value>Address 1 is required.</Value>
+    <Value>Endereço 1 é obrigatório</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Address.Fields.Address2">
-    <Value>Address 2</Value>
+    <Value>Endereço 2</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Address.Fields.Address2.Hint">
-    <Value>Enter address 2</Value>
+    <Value>Inclua o endereço 2</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Address.Fields.Address2.Required">
-    <Value>Address 2 is required.</Value>
+    <Value>Endereço 2 é obrigatório</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Address.Fields.City">
-    <Value>City</Value>
+    <Value>Cidade</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Address.Fields.City.Hint">
-    <Value>Enter city</Value>
+    <Value>Inclua a cidade</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Address.Fields.City.Required">
-    <Value>City is required.</Value>
+    <Value>Cidade é obrigatório</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Address.Fields.Company">
-    <Value>Company</Value>
+    <Value>Empresa</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Address.Fields.Company.Hint">
-    <Value>Enter company</Value>
+    <Value>Adicione a empresa</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Address.Fields.Company.Required">
-    <Value>Company is required.</Value>
+    <Value>Empresa é obrigatório</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Address.Fields.Country">
-    <Value>Country</Value>
+    <Value>País</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Address.Fields.Country.Hint">
-    <Value>Select country</Value>
+    <Value>Selecione o país</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Address.Fields.Country.Required">
-    <Value>Country is required.</Value>
+    <Value>País é obrigatório</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Address.Fields.Email">
-    <Value>Email</Value>
+    <Value>E-mail</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Address.Fields.Email.Hint">
-    <Value>Enter email</Value>
+    <Value>Adicione o e-mail</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Address.Fields.Email.Required">
-    <Value>Email is required.</Value>
+    <Value>E-mail é obrigatório.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Address.Fields.FaxNumber">
-    <Value>Fax number</Value>
+    <Value>Número do Fax</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Address.Fields.FaxNumber.Hint">
-    <Value>Enter fax number</Value>
+    <Value>Adicione o número do Fax</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Address.Fields.FaxNumber.Required">
-    <Value>Fax number is required.</Value>
+    <Value>Número do Fax é obrigatório</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Address.Fields.FirstName">
-    <Value>First name</Value>
+    <Value>Primeiro nome</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Address.Fields.FirstName.Hint">
-    <Value>Enter first name</Value>
+    <Value>Adicione o primeiro nome</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Address.Fields.FirstName.Required">
-    <Value>First name is required.</Value>
+    <Value>Primeiro nome é obrigatório</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Address.Fields.LastName">
-    <Value>Last name</Value>
+    <Value>Último nome</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Address.Fields.LastName.Hint">
-    <Value>Enter last name</Value>
+    <Value>Adicione o último nome</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Address.Fields.LastName.Required">
-    <Value>Last name is required.</Value>
+    <Value>Último nome é obrigatório</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Address.Fields.PhoneNumber">
-    <Value>Phone number</Value>
+    <Value>Número de telefone</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Address.Fields.PhoneNumber.Hint">
-    <Value>Enter phone number</Value>
+    <Value>Adicione o número de telefone</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Address.Fields.PhoneNumber.Required">
-    <Value>Phone number is required.</Value>
+    <Value>Número de telefone é obrigatório</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Address.Fields.StateProvince">
-    <Value>State / province</Value>
+    <Value>Estado</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Address.Fields.StateProvince.Hint">
-    <Value>Select state / province</Value>
+    <Value>Selecione o estado</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Address.Fields.StateProvince.Required">
-    <Value>State / province is required.</Value>
+    <Value>Estado í obrigatório</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Address.Fields.ZipPostalCode">
-    <Value>Zip / postal code</Value>
+    <Value>CEP</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Address.Fields.ZipPostalCode.Hint">
-    <Value>Enter zip / postal code</Value>
+    <Value>Adicione o CEP</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Address.Fields.ZipPostalCode.Required">
-    <Value>Zip / postal code is required.</Value>
+    <Value>CEP é obrigatório</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Address.OtherNonUS">
-    <Value>Other (Non US)</Value>
+    <Value>Complemento</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Address.SelectCountry">
-    <Value>Select country</Value>
+    <Value>Selecione o país</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Address.SelectState">
-    <Value>Select state</Value>
+    <Value>Selecione o estado</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Affiliates">
-    <Value>Affiliates</Value>
+    <Value>Afiliados</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Affiliates.Added">
-    <Value>The new affiliate has been added successfully.</Value>
+    <Value>O novo afiliado foi adicionado com sucesso</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Affiliates.AddNew">
-    <Value>Add a new affiliate</Value>
+    <Value>Adicione um novo afiliado</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Affiliates.BackToList">
-    <Value>back to affiliate list</Value>
+    <Value>Volte à lista de afiliado</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Affiliates.Customers">
-    <Value>Affiliated customers</Value>
+    <Value>Clientes afiliados</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Affiliates.Customers.Name">
-    <Value>Name</Value>
+    <Value>Nome</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Affiliates.Deleted">
-    <Value>The affiliate has been deleted successfully.</Value>
+    <Value>O afiliado foi deletado com sucesso</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Affiliates.Description">
-    <Value>Affiliate is an Internet-based marketing practice in which a business rewards one or more affiliates for each visitor or customer. It is a web-based pay-for-performance program designed to compensate affiliate partner for driving qualified leads or sales to a merchant web site.</Value>
+    <Value>Afiliado é uma prática de marketing na Internet em que uma empresa premeia um ou mais afiliados por cada visitante ou cliente.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Affiliates.EditAffiliateDetails">
-    <Value>Edit affiliate details</Value>
+    <Value>Editar detalhes de afiliado</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Affiliates.Fields.Active">
-    <Value>Active</Value>
+    <Value>Ativar</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Affiliates.Fields.Active.Hint">
-    <Value>A value indicating whether the affiliate is active.</Value>
+    <Value>Um valor que indica se o afiliado está ativo</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Affiliates.Fields.AdminComment">
-    <Value>Admin comment</Value>
+    <Value>Comentário do administrador</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Affiliates.Fields.AdminComment.Hint">
-    <Value>Admin comment. For internal use.</Value>
+    <Value>Comentário do administrador. Para uso interno</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Affiliates.Fields.FriendlyUrlName">
-    <Value>Friendly URL name</Value>
+    <Value>URL amigável</Value>
   </LocaleResource>
+  
+  
+  -----------
+  
+  
+  
   <LocaleResource Name="Admin.Affiliates.Fields.FriendlyUrlName.Hint">
     <Value>A friendly name for generated affiliate URL (by default affiliate ID is used). It's more friendly for marketing purposes. Leave empty to use affiliate identifier.</Value>
   </LocaleResource>
