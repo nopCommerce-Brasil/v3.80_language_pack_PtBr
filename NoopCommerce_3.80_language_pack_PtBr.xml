@@ -1,1171 +1,1178 @@
-<Language Name="English" SupportedVersion="3.80">
+<?xml version="1.0" encoding="utf-8"?>
+<Language Name="Português Brasil" SupportedVersion="3.80">
   <LocaleResource Name="Account.AccountActivation">
-    <Value>Account activation</Value>
+    <Value>Ativação de conta</Value>
   </LocaleResource>
   <LocaleResource Name="Account.AccountActivation.Activated">
-    <Value>Your account has been activated</Value>
+    <Value>Sua conta foi ativada</Value>
   </LocaleResource>
   <LocaleResource Name="Account.Administration">
-    <Value>Administration</Value>
+    <Value>Administração</Value>
   </LocaleResource>
   <LocaleResource Name="Account.AssociatedExternalAuth">
-    <Value>External authentication</Value>
+    <Value>Autenticação externa</Value>
   </LocaleResource>
   <LocaleResource Name="Account.AssociatedExternalAuth.AddMoreRecords">
-    <Value>You can associate your account with some external authentication systems on the following page (login once using them):</Value>
+    <Value>Você pode associar sua conta com alguns sistemas de autenticação externos na página seguinte (logar uma vez usando):</Value>
   </LocaleResource>
   <LocaleResource Name="Account.AssociatedExternalAuth.AuthMethodName">
-    <Value>Authentication method</Value>
+    <Value>Método de autenticação</Value>
   </LocaleResource>
   <LocaleResource Name="Account.AssociatedExternalAuth.Email">
     <Value>Email</Value>
   </LocaleResource>
   <LocaleResource Name="Account.AssociatedExternalAuth.ExternalIdentifier">
-    <Value>External identifier</Value>
+    <Value>Identificador externo</Value>
   </LocaleResource>
   <LocaleResource Name="Account.AssociatedExternalAuth.Remove">
-    <Value>Remove</Value>
+    <Value>Remover</Value>
   </LocaleResource>
   <LocaleResource Name="Account.AssociatedExternalAuth.YourAccountWillBeLinkedTo">
-    <Value>Account Association: Your new user account will be linked to</Value>
+    <Value>Associação da conta: A sua nova conta de usuário será ligado ao</Value>
   </LocaleResource>
   <LocaleResource Name="Account.AssociatedExternalAuth.YourAccountWillBeLinkedTo.Remove">
-    <Value>(remove)</Value>
+    <Value>(remover)</Value>
   </LocaleResource>
   <LocaleResource Name="Account.Avatar">
     <Value>Avatar</Value>
   </LocaleResource>
   <LocaleResource Name="Account.Avatar.MaximumUploadedFileSize">
-    <Value>Maximum avatar size is {0} bytes</Value>
+    <Value>O tamanho máximo do avatar é {0} bytes</Value>
   </LocaleResource>
   <LocaleResource Name="Account.Avatar.RemoveAvatar">
-    <Value>Remove avatar</Value>
+    <Value>Remover avatar</Value>
   </LocaleResource>
   <LocaleResource Name="Account.Avatar.UploadRules">
-    <Value>Avatar must be in GIF or JPEG format with the maximum size of 20 KB</Value>
+    <Value>Avatar deve estar no formato GIF ou JPEG com o tamanho máximo de 20 KB</Value>
   </LocaleResource>
   <LocaleResource Name="Account.BackInStockSubscriptions">
-    <Value>Back in stock subscriptions</Value>
+    <Value>Voltar para subscrições de ações</Value>
   </LocaleResource>
   <LocaleResource Name="Account.BackInStockSubscriptions.DeleteSelected">
-    <Value>Delete selected</Value>
+    <Value>excluir selecionados</Value>
   </LocaleResource>
   <LocaleResource Name="Account.BackInStockSubscriptions.Description">
-    <Value>You will receive an e-mail when a particular product is back in stock.</Value>
+    <Value>Você receberá um e-mail quando um determinado produto estiver novamente em estoque.</Value>
   </LocaleResource>
   <LocaleResource Name="Account.BackInStockSubscriptions.NoSubscriptions">
-    <Value>You are not currently subscribed to any Back In Stock notification lists</Value>
+    <Value>Você não está inscrito em nenhuma lista de notificação de Volta em Estoque</Value>
   </LocaleResource>
   <LocaleResource Name="Account.BackInStockSubscriptions.ProductColumn">
-    <Value>Product</Value>
+    <Value>Produto</Value>
   </LocaleResource>
   <LocaleResource Name="Account.ChangePassword">
-    <Value>Change password</Value>
+    <Value>Mudar senha</Value>
   </LocaleResource>
   <LocaleResource Name="Account.ChangePassword.Button">
-    <Value>Change password</Value>
+    <Value>Mudar senha</Value>
   </LocaleResource>
   <LocaleResource Name="Account.ChangePassword.Errors.EmailIsNotProvided">
-    <Value>Email is not entered</Value>
+    <Value>E-mail não for inserido</Value>
   </LocaleResource>
   <LocaleResource Name="Account.ChangePassword.Errors.EmailNotFound">
-    <Value>The specified email could not be found</Value>
+    <Value>A e-mail especificado não pôde ser encontrado</Value>
   </LocaleResource>
   <LocaleResource Name="Account.ChangePassword.Errors.OldPasswordDoesntMatch">
-    <Value>Old password doesn't match</Value>
+    <Value>A senha antiga não corresponde</Value>
   </LocaleResource>
   <LocaleResource Name="Account.ChangePassword.Errors.PasswordIsNotProvided">
-    <Value>Password is not entered</Value>
+    <Value>A senha não for inserida</Value>
   </LocaleResource>
   <LocaleResource Name="Account.ChangePassword.Fields.ConfirmNewPassword">
-    <Value>Confirm password</Value>
+    <Value>Confirme a Senha</Value>
   </LocaleResource>
   <LocaleResource Name="Account.ChangePassword.Fields.ConfirmNewPassword.Required">
-    <Value>Password is required.</Value>
+    <Value>Senha requerida.</Value>
   </LocaleResource>
   <LocaleResource Name="Account.ChangePassword.Fields.NewPassword">
-    <Value>New password</Value>
+    <Value>Nova senha</Value>
   </LocaleResource>
   <LocaleResource Name="Account.ChangePassword.Fields.NewPassword.EnteredPasswordsDoNotMatch">
-    <Value>The new password and confirmation password do not match.</Value>
+    <Value>A nova senha e confirmação de senha não coincidem.</Value>
   </LocaleResource>
   <LocaleResource Name="Account.ChangePassword.Fields.NewPassword.LengthValidation">
-    <Value>The password should have at least {0} characters.</Value>
+    <Value>A senha deve ter pelo menos {0} caracteres.</Value>
   </LocaleResource>
   <LocaleResource Name="Account.ChangePassword.Fields.NewPassword.Required">
-    <Value>New password is required.</Value>
+    <Value>Nova senha é necessária.</Value>
   </LocaleResource>
   <LocaleResource Name="Account.ChangePassword.Fields.OldPassword">
-    <Value>Old password</Value>
+    <Value>Senha antiga</Value>
   </LocaleResource>
   <LocaleResource Name="Account.ChangePassword.Fields.OldPassword.Required">
-    <Value>Old password is required.</Value>
+    <Value>Senha antiga é necessária.</Value>
   </LocaleResource>
   <LocaleResource Name="Account.ChangePassword.Success">
-    <Value>Password was changed</Value>
+    <Value>Senha foi alterada</Value>
   </LocaleResource>
   <LocaleResource Name="Account.CheckUsernameAvailability.Available">
-    <Value>Username available</Value>
+    <Value>Nome de usuário disponível</Value>
   </LocaleResource>
   <LocaleResource Name="Account.CheckUsernameAvailability.Button">
-    <Value>Check Availability</Value>
+    <Value>Verificar disponibilidade</Value>
   </LocaleResource>
   <LocaleResource Name="Account.CheckUsernameAvailability.CurrentUsername">
-    <Value>Current username</Value>
+    <Value>Nome de usuário atual</Value>
   </LocaleResource>
   <LocaleResource Name="Account.CheckUsernameAvailability.EnterUsername">
-    <Value>Please enter username</Value>
+    <Value>Por favor, entre com o nome do usuário</Value>
   </LocaleResource>
   <LocaleResource Name="Account.CheckUsernameAvailability.NotAvailable">
-    <Value>Username not available</Value>
+    <Value>Nome de usuário não disponível</Value>
   </LocaleResource>
   <LocaleResource Name="Account.CompanyDetails">
-    <Value>Company Details</Value>
+    <Value>Detalhes da Companhia</Value>
   </LocaleResource>
   <LocaleResource Name="Account.CustomerAddresses">
-    <Value>Addresses</Value>
+    <Value>Endereços</Value>
   </LocaleResource>
   <LocaleResource Name="Account.CustomerAddresses.AddNew">
-    <Value>Add new address</Value>
+    <Value>Adicionar novo endereço</Value>
   </LocaleResource>
   <LocaleResource Name="Account.CustomerAddresses.Edit">
-    <Value>Edit address</Value>
+    <Value>Editar endereço</Value>
   </LocaleResource>
   <LocaleResource Name="Account.CustomerAddresses.NoAddresses">
-    <Value>No addresses</Value>
+    <Value>Nenhum endereço</Value>
   </LocaleResource>
   <LocaleResource Name="Account.CustomerInfo">
-    <Value>Customer info</Value>
+    <Value>Informações do cliente</Value>
   </LocaleResource>
   <LocaleResource Name="Account.CustomerOrders">
-    <Value>Orders</Value>
+    <Value>Pedidos</Value>
   </LocaleResource>
   <LocaleResource Name="Account.CustomerOrders.NoOrders">
-    <Value>No orders</Value>
+    <Value>Sem pedidos</Value>
   </LocaleResource>
   <LocaleResource Name="Account.CustomerOrders.OrderDate">
-    <Value>Order Date</Value>
+    <Value>Data do Pedido</Value>
   </LocaleResource>
   <LocaleResource Name="Account.CustomerOrders.OrderDetails">
-    <Value>Details</Value>
+    <Value>Detalhes</Value>
   </LocaleResource>
   <LocaleResource Name="Account.CustomerOrders.OrderNumber">
-    <Value>Order Number</Value>
+    <Value>Número do Pedido</Value>
   </LocaleResource>
   <LocaleResource Name="Account.CustomerOrders.OrderStatus">
-    <Value>Order status</Value>
+    <Value>Status do pedido</Value>
   </LocaleResource>
   <LocaleResource Name="Account.CustomerOrders.OrderTotal">
-    <Value>Order Total</Value>
+    <Value>Total do pedido</Value>
   </LocaleResource>
   <LocaleResource Name="Account.CustomerOrders.RecurringOrders">
-    <Value>Recurring payments</Value>
+    <Value>Pagamentos recorrentes</Value>
   </LocaleResource>
   <LocaleResource Name="Account.CustomerOrders.RecurringOrders.Cancel">
-    <Value>Cancel payment</Value>
+    <Value>Cancelar pagamento</Value>
   </LocaleResource>
   <LocaleResource Name="Account.CustomerOrders.RecurringOrders.CycleInfo">
-    <Value>Cycle info</Value>
+    <Value>Informação de ciclo</Value>
   </LocaleResource>
   <LocaleResource Name="Account.CustomerOrders.RecurringOrders.CyclesRemaining">
-    <Value>Cycles remaining</Value>
+    <Value>Ciclos restantes</Value>
   </LocaleResource>
   <LocaleResource Name="Account.CustomerOrders.RecurringOrders.InitialOrder">
-    <Value>Initial order</Value>
+    <Value>Pedido inicial</Value>
   </LocaleResource>
   <LocaleResource Name="Account.CustomerOrders.RecurringOrders.NextPayment">
-    <Value>Next payment</Value>
+    <Value>Próximo pagamento</Value>
   </LocaleResource>
   <LocaleResource Name="Account.CustomerOrders.RecurringOrders.StartDate">
-    <Value>Start date</Value>
+    <Value>Data de Início</Value>
   </LocaleResource>
   <LocaleResource Name="Account.CustomerOrders.RecurringOrders.TotalCycles">
-    <Value>Total cycles</Value>
+    <Value>Total de ciclos</Value>
   </LocaleResource>
   <LocaleResource Name="Account.CustomerOrders.RecurringOrders.ViewInitialOrder">
-    <Value>View order (ID - {0})</Value>
+    <Value>Ver pedido (N. - {0})</Value>
   </LocaleResource>
   <LocaleResource Name="Account.CustomerOrders.ReturnItems">
-    <Value>Return Item(s)</Value>
+    <Value>Retornar Item(s)</Value>
   </LocaleResource>
   <LocaleResource Name="Account.CustomerProductReviews">
-    <Value>My product reviews</Value>
+    <Value>Meus produtos avaliados</Value>
   </LocaleResource>
   <LocaleResource Name="Account.CustomerProductReviews.ApprovalStatus.Approved">
-    <Value>Approved</Value>
+    <Value>Aprovado</Value>
   </LocaleResource>
   <LocaleResource Name="Account.CustomerProductReviews.ApprovalStatus.Pending">
-    <Value>Pending</Value>
+    <Value>Pendente</Value>
   </LocaleResource>
   <LocaleResource Name="Account.CustomerProductReviews.NoRecords">
-    <Value>You haven't written any reviews yet</Value>
+    <Value>Você não escreveu nenhum comentário até agora</Value>
   </LocaleResource>
   <LocaleResource Name="Account.CustomerProductReviews.ProductReviewFor">
-    <Value>Product review for</Value>
+    <Value>Comentas produto para</Value>
   </LocaleResource>
   <LocaleResource Name="Account.CustomerReturnRequests">
-    <Value>Return requests</Value>
+    <Value>Pedidos de devolução</Value>
   </LocaleResource>
   <LocaleResource Name="Account.CustomerReturnRequests.Action">
-    <Value>Return Action:</Value>
+    <Value>Ação de retorno:</Value>
   </LocaleResource>
   <LocaleResource Name="Account.CustomerReturnRequests.Comments">
-    <Value>Your Comments:</Value>
+    <Value>Seus comentários:</Value>
   </LocaleResource>
   <LocaleResource Name="Account.CustomerReturnRequests.Date">
-    <Value>Date Requested:</Value>
+    <Value>Data requerida:</Value>
   </LocaleResource>
   <LocaleResource Name="Account.CustomerReturnRequests.Item">
-    <Value>Returned Item:</Value>
+    <Value>Item devolvido:</Value>
   </LocaleResource>
   <LocaleResource Name="Account.CustomerReturnRequests.Reason">
-    <Value>Return Reason:</Value>
+    <Value>Motivo de devolução:</Value>
   </LocaleResource>
   <LocaleResource Name="Account.CustomerReturnRequests.Title">
-    <Value>Return #{0} - {1}</Value>
+    <Value> Devolução #{0} - {1}</Value>
   </LocaleResource>
   <LocaleResource Name="Account.DownloadableProducts">
-    <Value>Downloadable products</Value>
+    <Value>Produtos para download</Value>
   </LocaleResource>
   <LocaleResource Name="Account.EmailUsernameErrors.EmailAlreadyExists">
-    <Value>The e-mail address is already in use</Value>
+    <Value>O e-mail já está em uso</Value>
   </LocaleResource>
   <LocaleResource Name="Account.EmailUsernameErrors.EmailTooLong">
-    <Value>E-mail address is too long</Value>
+    <Value>E-mail muito longo</Value>
   </LocaleResource>
   <LocaleResource Name="Account.EmailUsernameErrors.NewEmailIsNotValid">
-    <Value>New email is not valid</Value>
+    <Value>Novo e-mail não é válido</Value>
   </LocaleResource>
   <LocaleResource Name="Account.EmailUsernameErrors.UsernameAlreadyExists">
-    <Value>The username is already in use</Value>
+    <Value>O nome de usuário já está em uso</Value>
   </LocaleResource>
   <LocaleResource Name="Account.EmailUsernameErrors.UsernameTooLong">
-    <Value>Username is too long</Value>
+    <Value>Nome de usuário é muito grande</Value>
   </LocaleResource>
   <LocaleResource Name="Account.Fields.AcceptPrivacyPolicy">
-    <Value>I accept privacy policy</Value>
+    <Value>Eu aceito a política de privacidade</Value>
   </LocaleResource>
   <LocaleResource Name="Account.Fields.AcceptPrivacyPolicy.Read">
-    <Value>(read)</Value>
+    <Value>(lendo)</Value>
   </LocaleResource>
   <LocaleResource Name="Account.Fields.AcceptPrivacyPolicy.Required">
-    <Value>Please accept privacy policy</Value>
+    <Value>Por favor aceite a política de privacidade</Value>
   </LocaleResource>
   <LocaleResource Name="Account.Fields.City">
-    <Value>City</Value>
+    <Value>Cidade</Value>
   </LocaleResource>
   <LocaleResource Name="Account.Fields.City.Required">
-    <Value>City is required</Value>
+    <Value>Cidade é obrigatório</Value>
   </LocaleResource>
   <LocaleResource Name="Account.Fields.Company">
-    <Value>Company name</Value>
+    <Value>Nome da empresa</Value>
   </LocaleResource>
   <LocaleResource Name="Account.Fields.Company.Required">
-    <Value>Company name is required</Value>
+    <Value>Nome da empresa é obrigatório</Value>
   </LocaleResource>
   <LocaleResource Name="Account.Fields.ConfirmEmail">
-    <Value>Confirm email</Value>
+    <Value>Confirmar e-mail</Value>
   </LocaleResource>
   <LocaleResource Name="Account.Fields.ConfirmEmail.Required">
-    <Value>Email is required.</Value>
+    <Value>E-mail é obrigatório</Value>
   </LocaleResource>
   <LocaleResource Name="Account.Fields.ConfirmPassword">
-    <Value>Confirm password</Value>
+    <Value>Confirme a senha</Value>
   </LocaleResource>
   <LocaleResource Name="Account.Fields.ConfirmPassword.Required">
-    <Value>Password is required.</Value>
+    <Value>Senha é obrigatório</Value>
   </LocaleResource>
   <LocaleResource Name="Account.Fields.Country">
-    <Value>Country</Value>
+    <Value>País</Value>
   </LocaleResource>
   <LocaleResource Name="Account.Fields.Country.Required">
-    <Value>Country is required</Value>
+    <Value>País é obrigatório</Value>
   </LocaleResource>
   <LocaleResource Name="Account.Fields.DateOfBirth">
-    <Value>Date of birth</Value>
+    <Value>Data de aneversário</Value>
   </LocaleResource>
   <LocaleResource Name="Account.Fields.DateOfBirth.MinimumAge">
-    <Value>You have to be {0}</Value>
+    <Value>Você tem que ter {0}</Value>
   </LocaleResource>
   <LocaleResource Name="Account.Fields.DateOfBirth.Required">
-    <Value>Date of birth is required</Value>
+    <Value>Date de aniversário é obrigatório</Value>
   </LocaleResource>
   <LocaleResource Name="Account.Fields.Email">
     <Value>Email</Value>
   </LocaleResource>
   <LocaleResource Name="Account.Fields.Email.EnteredEmailsDoNotMatch">
-    <Value>The email and confirmation email do not match.</Value>
+    <Value>O email de confirmação não é igual ao email</Value>
   </LocaleResource>
   <LocaleResource Name="Account.Fields.Email.Required">
-    <Value>Email is required.</Value>
+    <Value>Email obrigatório</Value>
   </LocaleResource>
   <LocaleResource Name="Account.Fields.Fax">
     <Value>Fax</Value>
   </LocaleResource>
   <LocaleResource Name="Account.Fields.Fax.Required">
-    <Value>Fax is required</Value>
+    <Value>Fax é obrigatório</Value>
   </LocaleResource>
   <LocaleResource Name="Account.Fields.FirstName">
-    <Value>First name</Value>
+    <Value>Primeiro nome</Value>
   </LocaleResource>
   <LocaleResource Name="Account.Fields.FirstName.Required">
-    <Value>First name is required.</Value>
+    <Value>Primeiro nome é obrigatório</Value>
   </LocaleResource>
   <LocaleResource Name="Account.Fields.Gender">
-    <Value>Gender</Value>
+    <Value>Gênero</Value>
   </LocaleResource>
   <LocaleResource Name="Account.Fields.Gender.Female">
-    <Value>Female</Value>
+    <Value>Faminino</Value>
   </LocaleResource>
   <LocaleResource Name="Account.Fields.Gender.Male">
-    <Value>Male</Value>
+    <Value>Masculino</Value>
   </LocaleResource>
   <LocaleResource Name="Account.Fields.LastName">
-    <Value>Last name</Value>
+    <Value>Último nome</Value>
   </LocaleResource>
   <LocaleResource Name="Account.Fields.LastName.Required">
-    <Value>Last name is required.</Value>
+    <Value>Último nome é obrigatório</Value>
   </LocaleResource>
   <LocaleResource Name="Account.Fields.Newsletter">
-    <Value>Newsletter</Value>
+    <Value>Receber novidades no email</Value>
   </LocaleResource>
   <LocaleResource Name="Account.Fields.Password">
-    <Value>Password</Value>
+    <Value>Senha</Value>
   </LocaleResource>
   <LocaleResource Name="Account.Fields.Password.EnteredPasswordsDoNotMatch">
-    <Value>The password and confirmation password do not match.</Value>
+    <Value>A senha de confirmação no coincide com a senha digitada</Value>
   </LocaleResource>
   <LocaleResource Name="Account.Fields.Password.LengthValidation">
-    <Value>The password should have at least {0} characters.</Value>
+    <Value>A senha deve ter pelo menos {0} caracteres</Value>
   </LocaleResource>
   <LocaleResource Name="Account.Fields.Password.Required">
-    <Value>Password is required.</Value>
+    <Value>A senha é obrigatório</Value>
   </LocaleResource>
   <LocaleResource Name="Account.Fields.Phone">
-    <Value>Phone</Value>
+    <Value>Telefone</Value>
   </LocaleResource>
   <LocaleResource Name="Account.Fields.Phone.Required">
-    <Value>Phone is required</Value>
+    <Value>Telefone obrigatório</Value>
   </LocaleResource>
   <LocaleResource Name="Account.Fields.Signature">
-    <Value>Signature</Value>
+    <Value>Assinatura</Value>
   </LocaleResource>
   <LocaleResource Name="Account.Fields.StateProvince">
-    <Value>State / province</Value>
+    <Value>Estado</Value>
   </LocaleResource>
   <LocaleResource Name="Account.Fields.StateProvince.Required">
-    <Value>State / province is required</Value>
+    <Value>Estado obrigatório</Value>
   </LocaleResource>
   <LocaleResource Name="Account.Fields.StreetAddress">
-    <Value>Street address</Value>
+    <Value>Endereço</Value>
   </LocaleResource>
   <LocaleResource Name="Account.Fields.StreetAddress.Required">
-    <Value>Street address is required</Value>
+    <Value>Endereço obrigatório</Value>
   </LocaleResource>
   <LocaleResource Name="Account.Fields.StreetAddress2">
-    <Value>Street address 2</Value>
+    <Value>Endereço complementar</Value>
   </LocaleResource>
   <LocaleResource Name="Account.Fields.StreetAddress2.Required">
-    <Value>Street address 2 is required</Value>
+    <Value>Endereço complementar é obrigatório</Value>
   </LocaleResource>
   <LocaleResource Name="Account.Fields.Timezone">
-    <Value>Time zone</Value>
+    <Value>Fusi horário</Value>
   </LocaleResource>
   <LocaleResource Name="Account.Fields.Username">
-    <Value>Username</Value>
+    <Value>Nome de usuário</Value>
   </LocaleResource>
   <LocaleResource Name="Account.Fields.Username.Required">
-    <Value>Username is required.</Value>
+    <Value>Nome de usuário é obrigatório</Value>
   </LocaleResource>
   <LocaleResource Name="Account.Fields.VatNumber">
-    <Value>VAT number</Value>
+    <Value>Número de IVA</Value>
   </LocaleResource>
   <LocaleResource Name="Account.Fields.VatNumber.Note">
-    <Value>NOTE: Enter VAT number with country code (e.g. GB 111 111 11)</Value>
+    <Value>NOTA: Insira o número do IVA, com código de país</Value>
   </LocaleResource>
   <LocaleResource Name="Account.Fields.VatNumber.Status">
-    <Value>Status</Value>
+    <Value>Estatus</Value>
   </LocaleResource>
   <LocaleResource Name="Account.Fields.VatNumberStatus">
-    <Value>status: {0}</Value>
+    <Value>estatus: {0}</Value>
   </LocaleResource>
   <LocaleResource Name="Account.Fields.ZipPostalCode">
-    <Value>Zip / postal code</Value>
+    <Value>CEP</Value>
   </LocaleResource>
   <LocaleResource Name="Account.Fields.ZipPostalCode.Required">
-    <Value>Zip / postal code is required</Value>
+    <Value>CEP obrigatório</Value>
   </LocaleResource>
   <LocaleResource Name="Account.ForumSubscriptions">
-    <Value>Forum subscriptions</Value>
+    <Value>Assinaturas do Fórum</Value>
   </LocaleResource>
   <LocaleResource Name="Account.ForumSubscriptions.DeleteSelected">
-    <Value>Delete Selected</Value>
+    <Value>Deletar selecionado</Value>
   </LocaleResource>
   <LocaleResource Name="Account.ForumSubscriptions.Description">
-    <Value>You will receive an e-mail when a new forum topic/post is created.</Value>
+    <Value>Você receberá um email quando um novo tópico do forum for creiado</Value>
   </LocaleResource>
   <LocaleResource Name="Account.ForumSubscriptions.InfoColumn">
-    <Value>Forum/Topic</Value>
+    <Value>Fórum / Tópico</Value>
   </LocaleResource>
   <LocaleResource Name="Account.ForumSubscriptions.NoSubscriptions">
-    <Value>You are not currently subscribed to any forums</Value>
+    <Value>Você não está inscrito em nenhum fóruns</Value>
   </LocaleResource>
   <LocaleResource Name="Account.ImpersonatedAs">
-    <Value>Impersonated as {0}</Value>
+    <Value>Representado como {0}</Value>
   </LocaleResource>
   <LocaleResource Name="Account.ImpersonatedAs.Finish">
-    <Value>finish impersonated session</Value>
+    <Value>Final de representação da sessão</Value>
   </LocaleResource>
   <LocaleResource Name="Account.ImpersonatedAs.Finish.Hint">
-    <Value>Click here to finish impersonated session</Value>
+    <Value>Clique aqui para terminar a sessão</Value>
   </LocaleResource>
   <LocaleResource Name="Account.Login">
-    <Value>Log in</Value>
+    <Value>Entrar</Value>
   </LocaleResource>
   <LocaleResource Name="Account.Login.CheckoutAsGuest">
-    <Value>Checkout as Guest</Value>
+    <Value>Finalizar como convidado</Value>
   </LocaleResource>
   <LocaleResource Name="Account.Login.CheckoutAsGuestOrRegister">
-    <Value>Checkout as a guest or register</Value>
+    <Value>Finalizar como convidado ou registrado</Value>
   </LocaleResource>
   <LocaleResource Name="Account.Login.Fields.Email">
     <Value>Email</Value>
   </LocaleResource>
   <LocaleResource Name="Account.Login.Fields.Email.Required">
-    <Value>Please enter your email</Value>
+    <Value>Por favor digite seu email</Value>
   </LocaleResource>
   <LocaleResource Name="Account.Login.Fields.Password">
-    <Value>Password</Value>
+    <Value>Senha</Value>
   </LocaleResource>
   <LocaleResource Name="Account.Login.Fields.RememberMe">
-    <Value>Remember me?</Value>
+    <Value>Entrar automático?</Value>
   </LocaleResource>
   <LocaleResource Name="Account.Login.Fields.UserName">
-    <Value>Username</Value>
+    <Value>Nome de usuário</Value>
   </LocaleResource>
   <LocaleResource Name="Account.Login.ForgotPassword">
-    <Value>Forgot password?</Value>
+    <Value>Esqueceu a seunha?</Value>
   </LocaleResource>
   <LocaleResource Name="Account.Login.LoginButton">
-    <Value>Log in</Value>
+    <Value>Entrar</Value>
   </LocaleResource>
   <LocaleResource Name="Account.Login.NewCustomer">
-    <Value>New Customer</Value>
+    <Value>Novo cadastro</Value>
   </LocaleResource>
   <LocaleResource Name="Account.Login.NewCustomerText">
-    <Value>By creating an account on our website you will be able to shop faster, be up to date on an orders status, and keep track of the orders you have previously made.</Value>
+    <Value>Ao criar uma conta em nosso site, você será capaz de fazer compras mais rápido, ser atualizado do estado das compras, e manter o controle de suas compras.</Value>
   </LocaleResource>
   <LocaleResource Name="Account.Login.ReturningCustomer">
-    <Value>Returning Customer</Value>
+    <Value>Retorno do cliente</Value>
   </LocaleResource>
   <LocaleResource Name="Account.Login.Unsuccessful">
-    <Value>Login was unsuccessful. Please correct the errors and try again.</Value>
+    <Value>Login sem êxito. Por favor corrija os erros e tente novamente.</Value>
   </LocaleResource>
   <LocaleResource Name="Account.Login.Welcome">
-    <Value>Welcome, Please Sign In!</Value>
+    <Value>Seja bem vindo, por favor entre!</Value>
   </LocaleResource>
   <LocaleResource Name="Account.Login.WrongCredentials">
-    <Value>The credentials provided are incorrect</Value>
+    <Value>As credenciais fornecidas são incorretas</Value>
   </LocaleResource>
   <LocaleResource Name="Account.Login.WrongCredentials.CustomerNotExist">
-    <Value>No customer account found</Value>
+    <Value>Nenhuma conta de cliente encontrada</Value>
   </LocaleResource>
   <LocaleResource Name="Account.Login.WrongCredentials.Deleted">
-    <Value>Customer is deleted</Value>
+    <Value>Cliente está excluido</Value>
   </LocaleResource>
   <LocaleResource Name="Account.Login.WrongCredentials.NotActive">
-    <Value>Account is not active</Value>
+    <Value>Conta não está ativa</Value>
   </LocaleResource>
   <LocaleResource Name="Account.Login.WrongCredentials.NotRegistered">
-    <Value>Account is not registered</Value>
+    <Value>Conta não está registrada</Value>
   </LocaleResource>
   <LocaleResource Name="Account.Logout">
-    <Value>Log out</Value>
+    <Value>Sair</Value>
   </LocaleResource>
   <LocaleResource Name="Account.MyAccount">
-    <Value>My account</Value>
+    <Value>Minha Conta</Value>
   </LocaleResource>
   <LocaleResource Name="Account.Navigation">
-    <Value>My account</Value>
+    <Value>Minha Conta</Value>
   </LocaleResource>
   <LocaleResource Name="Account.Options">
-    <Value>Options</Value>
+    <Value>Opções</Value>
   </LocaleResource>
   <LocaleResource Name="Account.PasswordRecovery">
-    <Value>Password recovery</Value>
+    <Value>Recuperar senha</Value>
   </LocaleResource>
   <LocaleResource Name="Account.PasswordRecovery.ChangePasswordButton">
-    <Value>Recover</Value>
+    <Value>Recuperar</Value>
   </LocaleResource>
   <LocaleResource Name="Account.PasswordRecovery.ConfirmNewPassword">
-    <Value>Confirm password</Value>
+    <Value>Confirme a senha</Value>
   </LocaleResource>
   <LocaleResource Name="Account.PasswordRecovery.ConfirmNewPassword.Required">
-    <Value>Password is required.</Value>
+    <Value>Senha é obrigatória.</Value>
   </LocaleResource>
   <LocaleResource Name="Account.PasswordRecovery.Email">
-    <Value>Your email address</Value>
+    <Value>Seu endereço de email</Value>
   </LocaleResource>
   <LocaleResource Name="Account.PasswordRecovery.Email.Required">
-    <Value>Enter your email</Value>
+    <Value>Insira seu email</Value>
   </LocaleResource>
   <LocaleResource Name="Account.PasswordRecovery.EmailHasBeenSent">
-    <Value>Email with instructions has been sent to you.</Value>
+    <Value>Um email com as instruções foi enviado para você.</Value>
   </LocaleResource>
   <LocaleResource Name="Account.PasswordRecovery.EmailNotFound">
-    <Value>Email not found.</Value>
+    <Value>Email não encontrado</Value>
   </LocaleResource>
   <LocaleResource Name="Account.PasswordRecovery.LinkExpired">
-    <Value>Your password recovery link is expired</Value>
+    <Value>O seu link de recuperação de senha expirou</Value>
   </LocaleResource>
   <LocaleResource Name="Account.PasswordRecovery.NewPassword">
-    <Value>New password</Value>
+    <Value>Nova senha</Value>
   </LocaleResource>
   <LocaleResource Name="Account.PasswordRecovery.NewPassword.EnteredPasswordsDoNotMatch">
-    <Value>The new password and confirmation password do not match.</Value>
+    <Value>A confirmação de senha não confere com a senha.</Value>
   </LocaleResource>
   <LocaleResource Name="Account.PasswordRecovery.NewPassword.LengthValidation">
-    <Value>The password should have at least {0} characters.</Value>
+    <Value>A senha deve ter pelo menos {0} caracteres.</Value>
   </LocaleResource>
   <LocaleResource Name="Account.PasswordRecovery.NewPassword.Required">
-    <Value>New password is required.</Value>
+    <Value>Nova senha é necessária.</Value>
   </LocaleResource>
   <LocaleResource Name="Account.PasswordRecovery.OldPassword">
-    <Value>Old password</Value>
+    <Value>Senha antiga</Value>
   </LocaleResource>
   <LocaleResource Name="Account.PasswordRecovery.OldPassword.Required">
-    <Value>Old password is required.</Value>
+    <Value>Senha antiga é necessária.</Value>
   </LocaleResource>
   <LocaleResource Name="Account.PasswordRecovery.PasswordHasBeenChanged">
-    <Value>Your password has been changed</Value>
+    <Value>Sua senha foi alterada</Value>
   </LocaleResource>
   <LocaleResource Name="Account.PasswordRecovery.RecoverButton">
-    <Value>Recover</Value>
+    <Value>Recuperar</Value>
   </LocaleResource>
   <LocaleResource Name="Account.PasswordRecovery.Tooltip">
-    <Value>Please enter your email address below. You will receive a link to reset your password.</Value>
+    <Value>Por favor, indique o seu email abaixo. Você receberá um link para redefinir sua senha.</Value>
   </LocaleResource>
   <LocaleResource Name="Account.PasswordRecovery.WrongToken">
-    <Value>Wrong password recovery token</Value>
+    <Value>Chave de recuperação de senha errada</Value>
   </LocaleResource>
   <LocaleResource Name="Account.Preferences">
-    <Value>Preferences</Value>
+    <Value>Preferências</Value>
   </LocaleResource>
   <LocaleResource Name="Account.Register">
-    <Value>Register</Value>
+    <Value>Registrar</Value>
   </LocaleResource>
   <LocaleResource Name="Account.Register.Button">
-    <Value>Register</Value>
+    <Value>Registrar</Value>
   </LocaleResource>
   <LocaleResource Name="Account.Register.Errors.EmailAlreadyExists">
-    <Value>The specified email already exists</Value>
+    <Value>O e-mail especificado já existe</Value>
   </LocaleResource>
   <LocaleResource Name="Account.Register.Errors.EmailIsNotProvided">
-    <Value>Email is required.</Value>
+    <Value>E-mail obrigatório.</Value>
   </LocaleResource>
   <LocaleResource Name="Account.Register.Errors.PasswordIsNotProvided">
-    <Value>Password is not provided</Value>
+    <Value>A senha não foi fornecida</Value>
   </LocaleResource>
   <LocaleResource Name="Account.Register.Errors.UsernameAlreadyExists">
-    <Value>The specified username already exists</Value>
+    <Value>O usuário fornecido já existe</Value>
   </LocaleResource>
   <LocaleResource Name="Account.Register.Errors.UsernameIsNotProvided">
-    <Value>Username is required.</Value>
+    <Value>Usuário é requerido.</Value>
   </LocaleResource>
   <LocaleResource Name="Account.Register.Result.AdminApproval">
-    <Value>Your account will be activated after approving by administrator.</Value>
+    <Value>Sua conta será ativada após a aprovação do administrador.</Value>
   </LocaleResource>
   <LocaleResource Name="Account.Register.Result.Continue">
     <Value>Continue</Value>
   </LocaleResource>
   <LocaleResource Name="Account.Register.Result.Disabled">
-    <Value>Registration not allowed. You can edit this in the admin area.</Value>
+    <Value>Registro não é permitido. Você pode editar este na área administrativa.</Value>
   </LocaleResource>
   <LocaleResource Name="Account.Register.Result.EmailValidation">
-    <Value>Your registration has been successfully completed. You have just been sent an email containing membership activation instructions.</Value>
+    <Value>O seu registo foi concluída com êxito. Acabamos de enviar um e-mail contendo as instruções de ativação de adesão.</Value>
   </LocaleResource>
   <LocaleResource Name="Account.Register.Result.Standard">
-    <Value>Your registration completed</Value>
+    <Value>Seu registro foi concluido</Value>
   </LocaleResource>
   <LocaleResource Name="Account.Register.Unsuccessful">
-    <Value>Registration was not complete. Please correct the errors and try again.</Value>
+    <Value>O registro não foi completado. Por favor corrija os erros e tente novamente.</Value>
   </LocaleResource>
   <LocaleResource Name="Account.RewardPoints">
-    <Value>Reward points</Value>
+    <Value>Pontos de reconpensa</Value>
   </LocaleResource>
   <LocaleResource Name="Account.ShoppingCart">
-    <Value>Shopping Cart</Value>
+    <Value>Carrinho de compras</Value>
   </LocaleResource>
   <LocaleResource Name="Account.VendorInfo">
-    <Value>Vendor info</Value>
+    <Value>Informação fornecedor</Value>
   </LocaleResource>
   <LocaleResource Name="Account.VendorInfo.Description">
-    <Value>Description</Value>
+    <Value>Descrição</Value>
   </LocaleResource>
   <LocaleResource Name="Account.VendorInfo.Email">
-    <Value>Email</Value>
+    <Value>E-mail</Value>
   </LocaleResource>
   <LocaleResource Name="Account.VendorInfo.Email.Required">
-    <Value>Email is required.</Value>
+    <Value>E-mail é obrigatório.</Value>
   </LocaleResource>
   <LocaleResource Name="Account.VendorInfo.Name">
-    <Value>Name</Value>
+    <Value>Nome</Value>
   </LocaleResource>
   <LocaleResource Name="Account.VendorInfo.Name.Required">
-    <Value>Vendor name is required.</Value>
+    <Value>Nome do fornecedor é obrigatório.</Value>
   </LocaleResource>
   <LocaleResource Name="Account.VendorInfo.Picture">
-    <Value>Picture</Value>
+    <Value>Foto</Value>
   </LocaleResource>
   <LocaleResource Name="Account.VendorInfo.Picture.ErrorMessage">
-    <Value>You can add only picture file</Value>
+    <Value>Você pode adicionar apenas arquivo de imagem</Value>
   </LocaleResource>
   <LocaleResource Name="Account.VendorInfo.Picture.Remove">
-    <Value>Remove picture</Value>
+    <Value>Remover imagem</Value>
   </LocaleResource>
   <LocaleResource Name="Account.YourAddress">
-    <Value>Your Address</Value>
+    <Value>Seu endereço</Value>
   </LocaleResource>
   <LocaleResource Name="Account.YourContactInformation">
-    <Value>Your Contact Information</Value>
+    <Value>Seus dados de contato</Value>
   </LocaleResource>
   <LocaleResource Name="Account.YourPassword">
-    <Value>Your Password</Value>
+    <Value>Sua senha</Value>
   </LocaleResource>
   <LocaleResource Name="Account.YourPersonalDetails">
-    <Value>Your Personal Details</Value>
+    <Value>Sua dados pessoais</Value>
   </LocaleResource>
   <LocaleResource Name="ActivityLog.AddNewCategory">
-    <Value>Added a new category ('{0}')</Value>
+    <Value>Adicionado uma nova categoria ('{0}')</Value>
   </LocaleResource>
   <LocaleResource Name="ActivityLog.AddNewCheckoutAttribute">
-    <Value>Added a new checkout attribute ('{0}')</Value>
+    <Value>Adicionado um novo atributo de checkout ('{0}')</Value>
   </LocaleResource>
   <LocaleResource Name="ActivityLog.AddNewCustomer">
-    <Value>Added a new customer (ID = {0})</Value>
+    <Value>Adicionado um novo cliente (ID = {0})</Value>
   </LocaleResource>
   <LocaleResource Name="ActivityLog.AddNewCustomerRole">
-    <Value>Added a new customer role ('{0}')</Value>
+    <Value>Adicionado nova função de cliente ('{0}')</Value>
   </LocaleResource>
   <LocaleResource Name="ActivityLog.AddNewDiscount">
-    <Value>Added a new discount ('{0}')</Value>
+    <Value>Adicionar novo desconto ('{0}')</Value>
   </LocaleResource>
   <LocaleResource Name="ActivityLog.AddNewGiftCard">
-    <Value>Added a new gift card ('{0}')</Value>
+    <Value>Adicionado um novo cartão de presente ('{0}')</Value>
   </LocaleResource>
   <LocaleResource Name="ActivityLog.AddNewManufacturer">
-    <Value>Added a new manufacturer ('{0}')</Value>
+    <Value>Adicionado um novo fabricante ('{0}')</Value>
   </LocaleResource>
   <LocaleResource Name="ActivityLog.AddNewProduct">
-    <Value>Added a new product ('{0}')</Value>
+    <Value>Adicionado um novo produto ('{0}')</Value>
   </LocaleResource>
   <LocaleResource Name="ActivityLog.AddNewProductAttribute">
-    <Value>Added a new product attribute ('{0}')</Value>
+    <Value>Adicionado um novo atributo de produto ('{0}')</Value>
   </LocaleResource>
   <LocaleResource Name="ActivityLog.AddNewSetting">
-    <Value>Added a new setting ('{0}')</Value>
+    <Value>Adicionado uma nova configuração ('{0}')</Value>
   </LocaleResource>
   <LocaleResource Name="ActivityLog.AddNewSpecAttribute">
-    <Value>Added a new specification attribute ('{0}')</Value>
+    <Value>Adicionado um novo atributo de especificação ('{0}')</Value>
   </LocaleResource>
   <LocaleResource Name="ActivityLog.AddNewTopic">
-    <Value>Added a new topic ('{0}')</Value>
+    <Value>Adicionado novo tópico ('{0}')</Value>
   </LocaleResource>
   <LocaleResource Name="ActivityLog.AddNewWidget">
-    <Value>Added a new widget (ID = {0})</Value>
+    <Value>Adicionado um novo widget (ID = {0})</Value>
   </LocaleResource>
   <LocaleResource Name="ActivityLog.DeleteActivityLog">
-    <Value>Deleted activity log</Value>
+    <Value>Log de atividade deletado</Value>
   </LocaleResource>
   <LocaleResource Name="ActivityLog.DeleteCategory">
-    <Value>Deleted a category ('{0}')</Value>
+    <Value>Deletado a Categoria  ('{0}')</Value>
   </LocaleResource>
   <LocaleResource Name="ActivityLog.DeleteCheckoutAttribute">
-    <Value>Deleted a checkout attribute ('{0}')</Value>
+    <Value>Deletado um atributo de carrinho ('{0}')</Value>
   </LocaleResource>
   <LocaleResource Name="ActivityLog.DeleteCustomer">
-    <Value>Deleted a customer (ID = {0})</Value>
+    <Value>Deletado o Cliente  (ID = {0})</Value>
   </LocaleResource>
   <LocaleResource Name="ActivityLog.DeleteCustomerRole">
-    <Value>Deleted a customer role ('{0}')</Value>
+    <Value>Deletado uma regra de cliente ('{0}')</Value>
   </LocaleResource>
   <LocaleResource Name="ActivityLog.DeleteDiscount">
-    <Value>Deleted a discount ('{0}')</Value>
+    <Value>Deletado o desconto ('{0}')</Value>
   </LocaleResource>
   <LocaleResource Name="ActivityLog.DeleteGiftCard">
-    <Value>Deleted a gift card ('{0}')</Value>
+    <Value>Deletado o catão de presente ('{0}')</Value>
   </LocaleResource>
   <LocaleResource Name="ActivityLog.DeleteManufacturer">
-    <Value>Deleted a manufacturer ('{0}')</Value>
+    <Value>Deletado o fornecedor ('{0}')</Value>
   </LocaleResource>
   <LocaleResource Name="ActivityLog.DeleteOrder">
-    <Value>Deleted an order (ID = {0})</Value>
+    <Value>Deletado o pedido (ID = {0})</Value>
   </LocaleResource>
   <LocaleResource Name="ActivityLog.DeleteProduct">
-    <Value>Deleted a product ('{0}')</Value>
+    <Value>Deletado o produto ('{0}')</Value>
   </LocaleResource>
   <LocaleResource Name="ActivityLog.DeleteProductAttribute">
-    <Value>Deleted a product attribute ('{0}')</Value>
+    <Value>Deletado  o atributo de produto ('{0}')</Value>
   </LocaleResource>
   <LocaleResource Name="ActivityLog.DeleteReturnRequest">
-    <Value>Deleted a return request (ID = {0})</Value>
+    <Value>Deletado uma solicitação de devolução (ID = {0})</Value>
   </LocaleResource>
   <LocaleResource Name="ActivityLog.DeleteSetting">
-    <Value>Deleted a setting ('{0}')</Value>
+    <Value>Deletado uma configuração ('{0}')</Value>
   </LocaleResource>
   <LocaleResource Name="ActivityLog.DeleteSpecAttribute">
-    <Value>Deleted a specification attribute ('{0}')</Value>
+    <Value>Deletado um atributo específico ('{0}')</Value>
   </LocaleResource>
   <LocaleResource Name="ActivityLog.DeleteTopic">
-    <Value>Deleted a topic ('{0}')</Value>
+    <Value>Deletado  o tópico ('{0}')</Value>
   </LocaleResource>
   <LocaleResource Name="ActivityLog.DeleteWidget">
-    <Value>Deleted a widget (ID = {0})</Value>
+    <Value>Deletado o Widget (ID = {0})</Value>
   </LocaleResource>
   <LocaleResource Name="ActivityLog.EditActivityLogTypes">
-    <Value>Edited activity log types</Value>
+    <Value>Editado atividades de tipos de log</Value>
   </LocaleResource>
   <LocaleResource Name="ActivityLog.EditCategory">
-    <Value>Edited a category ('{0}')</Value>
+    <Value>Editado categoria ('{0}')</Value>
   </LocaleResource>
   <LocaleResource Name="ActivityLog.EditCheckoutAttribute">
-    <Value>Edited a checkout attribute ('{0}')</Value>
+    <Value>Editado atributo de carrinho ('{0}')</Value>
   </LocaleResource>
   <LocaleResource Name="ActivityLog.EditCustomer">
-    <Value>Edited a customer (ID = {0})</Value>
+    <Value>Editado cliente (ID = {0})</Value>
   </LocaleResource>
   <LocaleResource Name="ActivityLog.EditCustomerRole">
-    <Value>Edited a customer role ('{0}')</Value>
+    <Value>Editado função de cliente ('{0}')</Value>
   </LocaleResource>
   <LocaleResource Name="ActivityLog.EditDiscount">
-    <Value>Edited a discount ('{0}')</Value>
+    <Value>Editado desconto ('{0}')</Value>
   </LocaleResource>
   <LocaleResource Name="ActivityLog.EditGiftCard">
-    <Value>Edited a gift card ('{0}')</Value>
+    <Value>Editado cartão de presente ('{0}')</Value>
   </LocaleResource>
   <LocaleResource Name="ActivityLog.EditManufacturer">
-    <Value>Edited a manufacturer ('{0}')</Value>
+    <Value>Editado fornecedor ('{0}')</Value>
   </LocaleResource>
   <LocaleResource Name="ActivityLog.EditOrder">
-    <Value>Edited an order (ID = {0}). See order notes for details</Value>
+    <Value>Editado pedido (ID = {0}). Veja os detalhes do pedido</Value>
   </LocaleResource>
   <LocaleResource Name="ActivityLog.EditProduct">
-    <Value>Edited a product ('{0}')</Value>
+    <Value>Editado produto ('{0}')</Value>
   </LocaleResource>
   <LocaleResource Name="ActivityLog.EditProductAttribute">
-    <Value>Edited a product attribute ('{0}')</Value>
+    <Value>Editado atributo de produto ('{0}')</Value>
   </LocaleResource>
   <LocaleResource Name="ActivityLog.EditReturnRequest">
-    <Value>Edited a return request (ID = {0})</Value>
+    <Value>Editado pedido de devolução (ID = {0})</Value>
   </LocaleResource>
   <LocaleResource Name="ActivityLog.EditSettings">
-    <Value>Edited settings</Value>
+    <Value>Editado Configurações </Value>
   </LocaleResource>
   <LocaleResource Name="ActivityLog.EditSpecAttribute">
-    <Value>Edited a specification attribute ('{0}')</Value>
+    <Value>Editado especificação de atributo ('{0}')</Value>
   </LocaleResource>
   <LocaleResource Name="ActivityLog.EditTopic">
-    <Value>Edited a topic ('{0}')</Value>
+    <Value>Editado tópico ('{0}')</Value>
   </LocaleResource>
   <LocaleResource Name="ActivityLog.EditWidget">
-    <Value>Edited a widget (ID = {0})</Value>
+    <Value>Editado widget (ID = {0})</Value>
   </LocaleResource>
   <LocaleResource Name="ActivityLog.Impersonation.Finished.Customer">
-    <Value>Impersonation by store owner was finished (Email: {0}, ID = {1})</Value>
+    <Value>Representação pelo proprietário da loja foi concluído (E-mail: {0}, ID = {1})</Value>
   </LocaleResource>
   <LocaleResource Name="ActivityLog.Impersonation.Finished.StoreOwner">
-    <Value>Finished customer impersonation (Email: {0}, ID = {1})</Value>
+    <Value>Acabou a representação do cliente (Email: {0}, ID = {1})</Value>
   </LocaleResource>
   <LocaleResource Name="ActivityLog.Impersonation.Started.Customer">
-    <Value>Impersonated by store owner (Email: {0}, ID = {1})</Value>
+    <Value>Representacão pelo proprietário de loja (Email: {0}, ID = {1})</Value>
   </LocaleResource>
   <LocaleResource Name="ActivityLog.Impersonation.Started.StoreOwner">
-    <Value>Started customer impersonation (Email: {0}, ID = {1})</Value>
+    <Value>Inicio de representação do cliente (Email: {0}, ID = {1})</Value>
   </LocaleResource>
   <LocaleResource Name="ActivityLog.PublicStore.AddBlogComment">
-    <Value>Added a blog comment</Value>
+    <Value>Adicionado um comentário no blog</Value>
   </LocaleResource>
   <LocaleResource Name="ActivityLog.PublicStore.AddNewsComment">
-    <Value>Added a news comment</Value>
+    <Value>Adicionado um novo comentário</Value>
   </LocaleResource>
   <LocaleResource Name="ActivityLog.PublicStore.AddProductReview">
-    <Value>Added a product review ('{0}')</Value>
+    <Value>Adicionado uma avaliação de produto ('{0}')</Value>
   </LocaleResource>
   <LocaleResource Name="ActivityLog.PublicStore.AddToCompareList">
-    <Value>Added a product to compare list ('{0}')</Value>
+    <Value>Adicionado um produto na lista de comparação ('{0}')</Value>
   </LocaleResource>
   <LocaleResource Name="ActivityLog.PublicStore.AddToShoppingCart">
-    <Value>Added a product to shopping cart ('{0}')</Value>
+    <Value>Adicionado um produto no carrinho de compras ('{0}')</Value>
   </LocaleResource>
   <LocaleResource Name="ActivityLog.PublicStore.AddToWishlist">
-    <Value>Added a product to wishlist ('{0}')</Value>
+    <Value>Adicionado um produto na lista de desejos ('{0}')</Value>
   </LocaleResource>
   <LocaleResource Name="ActivityLog.PublicStore.ContactUs">
-    <Value>Used contact us form</Value>
+    <Value>Usado formulário de contado </Value>
   </LocaleResource>
   <LocaleResource Name="ActivityLog.PublicStore.Login">
-    <Value>Login</Value>
+    <Value>Entrar</Value>
   </LocaleResource>
   <LocaleResource Name="ActivityLog.PublicStore.Logout">
-    <Value>Logout</Value>
+    <Value>Sair</Value>
   </LocaleResource>
   <LocaleResource Name="ActivityLog.PublicStore.PlaceOrder">
-    <Value>Placed a new order (ID = {0})</Value>
+    <Value>Novo pedido colocado (ID = {0})</Value>
   </LocaleResource>
   <LocaleResource Name="ActivityLog.PublicStore.SendPM">
-    <Value>Sent PM to customer ('{0}')</Value>
+    <Value>Enviar mensagem privado para o cliente ('{0}')</Value>
   </LocaleResource>
   <LocaleResource Name="ActivityLog.PublicStore.ViewCategory">
-    <Value>Public store. Viewed a category details page ('{0}')</Value>
+    <Value>Loja pública. Exibido uma página de detalhes da categoria ('{0}')</Value>
   </LocaleResource>
   <LocaleResource Name="ActivityLog.PublicStore.ViewManufacturer">
-    <Value>Public store. Viewed a manufacturer details page ('{0}')</Value>
+    <Value>Loja pública. Exibido uma página de detalhes de fornecedor ('{0}')</Value>
   </LocaleResource>
   <LocaleResource Name="ActivityLog.PublicStore.ViewProduct">
-    <Value>Public store. Viewed a product details page ('{0}')</Value>
+    <Value>Loja pública. Exibido uma página de detalhes do produto ('{0}')</Value>
   </LocaleResource>
   <LocaleResource Name="Address">
-    <Value>Address</Value>
+    <Value>Endereço</Value>
   </LocaleResource>
   <LocaleResource Name="Address.Fields.Address1">
-    <Value>Address 1</Value>
+    <Value>Endereço 1</Value>
   </LocaleResource>
   <LocaleResource Name="Address.Fields.Address1.Required">
-    <Value>Address 1 is required.</Value>
+    <Value>Endereço 1 é obrigatório.</Value>
   </LocaleResource>
   <LocaleResource Name="Address.Fields.Address2">
-    <Value>Address 2</Value>
+    <Value>Endereço 2</Value>
   </LocaleResource>
   <LocaleResource Name="Address.Fields.Address2.Required">
-    <Value>Address 2 is required.</Value>
+    <Value>Endereço 2 é obrigatório.</Value>
   </LocaleResource>
   <LocaleResource Name="Address.Fields.City">
-    <Value>City</Value>
+    <Value>Cidade</Value>
   </LocaleResource>
   <LocaleResource Name="Address.Fields.City.Required">
-    <Value>City is required.</Value>
+    <Value>Cidade é obrigatório.</Value>
   </LocaleResource>
   <LocaleResource Name="Address.Fields.Company">
-    <Value>Company</Value>
+    <Value>Empresa</Value>
   </LocaleResource>
   <LocaleResource Name="Address.Fields.Company.Required">
-    <Value>Company is required.</Value>
+    <Value>Empresa é obrigatório.</Value>
   </LocaleResource>
   <LocaleResource Name="Address.Fields.Country">
-    <Value>Country</Value>
+    <Value>País</Value>
   </LocaleResource>
   <LocaleResource Name="Address.Fields.Country.Required">
-    <Value>Country is required.</Value>
+    <Value>País é obrigatório.</Value>
   </LocaleResource>
   <LocaleResource Name="Address.Fields.Email">
-    <Value>Email</Value>
+    <Value>E-mail</Value>
   </LocaleResource>
   <LocaleResource Name="Address.Fields.Email.Required">
-    <Value>Email is required.</Value>
+    <Value>E-mail é obrigatório.</Value>
   </LocaleResource>
   <LocaleResource Name="Address.Fields.FaxNumber">
-    <Value>Fax number</Value>
+    <Value>Númeor do fax</Value>
   </LocaleResource>
   <LocaleResource Name="Address.Fields.FaxNumber.Required">
-    <Value>Fax number is required.</Value>
+    <Value>Númeor do fax é obrigatório.</Value>
   </LocaleResource>
   <LocaleResource Name="Address.Fields.FirstName">
-    <Value>First name</Value>
+    <Value>Primeiro nome</Value>
   </LocaleResource>
   <LocaleResource Name="Address.Fields.FirstName.Required">
-    <Value>First name is required.</Value>
+    <Value>Primeiro nome é obrigatório.</Value>
   </LocaleResource>
   <LocaleResource Name="Address.Fields.LastName">
-    <Value>Last name</Value>
+    <Value>Último nome</Value>
   </LocaleResource>
   <LocaleResource Name="Address.Fields.LastName.Required">
-    <Value>Last name is required.</Value>
+    <Value>Último nome é obrigatório.</Value>
   </LocaleResource>
   <LocaleResource Name="Address.Fields.PhoneNumber">
-    <Value>Phone number</Value>
+    <Value>Número de telefone</Value>
   </LocaleResource>
   <LocaleResource Name="Address.Fields.PhoneNumber.Required">
-    <Value>Phone number is required.</Value>
+    <Value>Número de telefone é obrigatório.</Value>
   </LocaleResource>
   <LocaleResource Name="Address.Fields.StateProvince">
-    <Value>State / province</Value>
+    <Value>Estado</Value>
   </LocaleResource>
   <LocaleResource Name="Address.Fields.StateProvince.Required">
-    <Value>State / province is required.</Value>
+    <Value>Estado é obrigatório.</Value>
   </LocaleResource>
   <LocaleResource Name="Address.Fields.ZipPostalCode">
-    <Value>Zip / postal code</Value>
+    <Value>CEP</Value>
   </LocaleResource>
   <LocaleResource Name="Address.Fields.ZipPostalCode.Required">
-    <Value>Zip / postal code is required.</Value>
+    <Value>CEP é obrigatório.</Value>
   </LocaleResource>
   <LocaleResource Name="Address.OtherNonUS">
-    <Value>Other (Non US)</Value>
+    <Value>Complemento</Value>
   </LocaleResource>
   <LocaleResource Name="Address.SelectCountry">
-    <Value>Select country</Value>
+    <Value>Selecione o país</Value>
   </LocaleResource>
   <LocaleResource Name="Address.SelectState">
-    <Value>Select state</Value>
+    <Value>Selecione o estado</Value>
   </LocaleResource>
   <LocaleResource Name="Admin">
     <Value>Admin</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.AccessDenied.Description">
-    <Value>You do not have permission to perform the selected operation.</Value>
+    <Value>Você não tem permissão para executar a operação selecionada.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.AccessDenied.Title">
-    <Value>Access denied.</Value>
+    <Value>Acesso negado.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Address">
-    <Value>Address</Value>
+    <Value>Endereço</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Address.AddressAttributes">
-    <Value>Custom address attributes</Value>
+    <Value>Atributo de endereço customizado</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Address.AddressAttributes.Added">
-    <Value>The new attribute has been added successfully.</Value>
+    <Value>O novo atributo foi adicionado com sucesso.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Address.AddressAttributes.AddNew">
-    <Value>Add a new address attribute</Value>
+    <Value>Adicionado um novo atributo de endereço</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Address.AddressAttributes.BackToList">
-    <Value>back to address attribute list</Value>
+    <Value>Voltar para a lista de atributos de endereço</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Address.AddressAttributes.Deleted">
-    <Value>The attribute has been deleted successfully.</Value>
+    <Value>O atributo foi deletado com sucesso.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Address.AddressAttributes.Description">
-    <Value>If the default form fields are not enough for your needs, then you can manage additional address attributes below.</Value>
+    <Value>Se os campos padrões do formulário não forem suficiente para suas necessidades, então você pode gerenciar os atributos adicionais de endereço abaixo.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Address.AddressAttributes.EditAttributeDetails">
-    <Value>Edit address attribute details</Value>
+    <Value>Editar detalhes de atributo de endereço</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Address.AddressAttributes.Fields.AttributeControlType">
-    <Value>Control type</Value>
+    <Value>Tipo de controle</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Address.AddressAttributes.Fields.AttributeControlType.Hint">
-    <Value>Choose how to display your attribute values.</Value>
+    <Value>Escolha como mostrar seu valor de atributo.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Address.AddressAttributes.Fields.DisplayOrder">
-    <Value>Display order</Value>
+    <Value>mostrar pedido</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Address.AddressAttributes.Fields.DisplayOrder.Hint">
-    <Value>The address attribute display order. 1 represents the first item in the list.</Value>
+    <Value>O atributo de endereço na ordem de exibição. 1 representa o primeiro item na lista.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Address.AddressAttributes.Fields.IsRequired">
-    <Value>Required</Value>
+    <Value>Obrigatório</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Address.AddressAttributes.Fields.IsRequired.Hint">
-    <Value>When an attribute is required, the customer must choose an appropriate attribute value before they can continue.</Value>
+    <Value>Quando um atributo é obrigatório, o cliente deve escolher um valor de atributo apropriado antes de continuar.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Address.AddressAttributes.Fields.Name">
-    <Value>Name</Value>
+    <Value>Nome</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Address.AddressAttributes.Fields.Name.Hint">
-    <Value>The name of the address attribute.</Value>
+    <Value>O nome do atributo de endereço.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Address.AddressAttributes.Fields.Name.Required">
-    <Value>Please provide a name.</Value>
+    <Value>Pro favor informe o nome.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Address.AddressAttributes.Info">
-    <Value>Attribute info</Value>
+    <Value>Informação de atributo</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Address.AddressAttributes.Updated">
-    <Value>The attribute has been updated successfully.</Value>
+    <Value>O atributo foi atualizado com sucesso.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Address.AddressAttributes.Values">
-    <Value>Attribute values</Value>
+    <Value>Valor do atributo</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Address.AddressAttributes.Values.AddNew">
-    <Value>Add a new address value</Value>
+    <Value>Adicionar um novo endereço</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Address.AddressAttributes.Values.EditValueDetails">
-    <Value>Edit address value details</Value>
+    <Value>Editar detalhes do endereço</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Address.AddressAttributes.Values.Fields.DisplayOrder">
-    <Value>Display order</Value>
+    <Value>Ordem de exibição</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Address.AddressAttributes.Values.Fields.DisplayOrder.Hint">
-    <Value>The display order of the attribute value. 1 represents the first item in attribute value list.</Value>
+    <Value>A ordem de exibição do valor do atributo. 1 representa o primeiro item na lista do atributo.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Address.AddressAttributes.Values.Fields.IsPreSelected">
-    <Value>Pre-selected</Value>
+    <Value>Pre-selecionado</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Address.AddressAttributes.Values.Fields.IsPreSelected.Hint">
-    <Value>Determines whether this attribute value is pre selected for the address.</Value>
+    <Value>Determina se este valor do atributo é pré selecionada para o endereço.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Address.AddressAttributes.Values.Fields.Name">
-    <Value>Name</Value>
+    <Value>Nome</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Address.AddressAttributes.Values.Fields.Name.Hint">
-    <Value>The name of the address value.</Value>
+    <Value>Nome para este endereço.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Address.AddressAttributes.Values.Fields.Name.Required">
-    <Value>Please provide a name.</Value>
+    <Value>Por favor informe um nome.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Address.AddressAttributes.Values.SaveBeforeEdit">
-    <Value>You need to save the address attribute before you can add values for this address attribute page.</Value>
+    <Value>Você precisa salvar o endereço antes de adicionar atributos.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Address.Fields.Address1">
-    <Value>Address 1</Value>
+    <Value>Endereço 1</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Address.Fields.Address1.Hint">
-    <Value>Enter address 1</Value>
+    <Value>Inclua o endereço 1</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Address.Fields.Address1.Required">
-    <Value>Address 1 is required.</Value>
+    <Value>Endereço 1 é obrigatório</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Address.Fields.Address2">
-    <Value>Address 2</Value>
+    <Value>Endereço 2</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Address.Fields.Address2.Hint">
-    <Value>Enter address 2</Value>
+    <Value>Inclua o endereço 2</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Address.Fields.Address2.Required">
-    <Value>Address 2 is required.</Value>
+    <Value>Endereço 2 é obrigatório</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Address.Fields.City">
-    <Value>City</Value>
+    <Value>Cidade</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Address.Fields.City.Hint">
-    <Value>Enter city</Value>
+    <Value>Inclua a cidade</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Address.Fields.City.Required">
-    <Value>City is required.</Value>
+    <Value>Cidade é obrigatório</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Address.Fields.Company">
-    <Value>Company</Value>
+    <Value>Empresa</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Address.Fields.Company.Hint">
-    <Value>Enter company</Value>
+    <Value>Adicione a empresa</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Address.Fields.Company.Required">
-    <Value>Company is required.</Value>
+    <Value>Empresa é obrigatório</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Address.Fields.Country">
-    <Value>Country</Value>
+    <Value>País</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Address.Fields.Country.Hint">
-    <Value>Select country</Value>
+    <Value>Selecione o país</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Address.Fields.Country.Required">
-    <Value>Country is required.</Value>
+    <Value>País é obrigatório</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Address.Fields.Email">
-    <Value>Email</Value>
+    <Value>E-mail</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Address.Fields.Email.Hint">
-    <Value>Enter email</Value>
+    <Value>Adicione o e-mail</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Address.Fields.Email.Required">
-    <Value>Email is required.</Value>
+    <Value>E-mail é obrigatório.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Address.Fields.FaxNumber">
-    <Value>Fax number</Value>
+    <Value>Número do Fax</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Address.Fields.FaxNumber.Hint">
-    <Value>Enter fax number</Value>
+    <Value>Adicione o número do Fax</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Address.Fields.FaxNumber.Required">
-    <Value>Fax number is required.</Value>
+    <Value>Número do Fax é obrigatório</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Address.Fields.FirstName">
-    <Value>First name</Value>
+    <Value>Primeiro nome</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Address.Fields.FirstName.Hint">
-    <Value>Enter first name</Value>
+    <Value>Adicione o primeiro nome</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Address.Fields.FirstName.Required">
-    <Value>First name is required.</Value>
+    <Value>Primeiro nome é obrigatório</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Address.Fields.LastName">
-    <Value>Last name</Value>
+    <Value>Último nome</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Address.Fields.LastName.Hint">
-    <Value>Enter last name</Value>
+    <Value>Adicione o último nome</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Address.Fields.LastName.Required">
-    <Value>Last name is required.</Value>
+    <Value>Último nome é obrigatório</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Address.Fields.PhoneNumber">
-    <Value>Phone number</Value>
+    <Value>Número de telefone</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Address.Fields.PhoneNumber.Hint">
-    <Value>Enter phone number</Value>
+    <Value>Adicione o número de telefone</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Address.Fields.PhoneNumber.Required">
-    <Value>Phone number is required.</Value>
+    <Value>Número de telefone é obrigatório</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Address.Fields.StateProvince">
-    <Value>State / province</Value>
+    <Value>Estado</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Address.Fields.StateProvince.Hint">
-    <Value>Select state / province</Value>
+    <Value>Selecione o estado</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Address.Fields.StateProvince.Required">
-    <Value>State / province is required.</Value>
+    <Value>Estado í obrigatório</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Address.Fields.ZipPostalCode">
-    <Value>Zip / postal code</Value>
+    <Value>CEP</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Address.Fields.ZipPostalCode.Hint">
-    <Value>Enter zip / postal code</Value>
+    <Value>Adicione o CEP</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Address.Fields.ZipPostalCode.Required">
-    <Value>Zip / postal code is required.</Value>
+    <Value>CEP é obrigatório</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Address.OtherNonUS">
-    <Value>Other (Non US)</Value>
+    <Value>Complemento</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Address.SelectCountry">
-    <Value>Select country</Value>
+    <Value>Selecione o país</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Address.SelectState">
-    <Value>Select state</Value>
+    <Value>Selecione o estado</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Affiliates">
-    <Value>Affiliates</Value>
+    <Value>Afiliados</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Affiliates.Added">
-    <Value>The new affiliate has been added successfully.</Value>
+    <Value>O novo afiliado foi adicionado com sucesso</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Affiliates.AddNew">
-    <Value>Add a new affiliate</Value>
+    <Value>Adicione um novo afiliado</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Affiliates.BackToList">
-    <Value>back to affiliate list</Value>
+    <Value>Volte à lista de afiliado</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Affiliates.Customers">
-    <Value>Affiliated customers</Value>
+    <Value>Clientes afiliados</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Affiliates.Customers.Name">
-    <Value>Name</Value>
+    <Value>Nome</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Affiliates.Deleted">
-    <Value>The affiliate has been deleted successfully.</Value>
+    <Value>O afiliado foi deletado com sucesso</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Affiliates.Description">
-    <Value>Affiliate is an Internet-based marketing practice in which a business rewards one or more affiliates for each visitor or customer. It is a web-based pay-for-performance program designed to compensate affiliate partner for driving qualified leads or sales to a merchant web site.</Value>
+    <Value>Afiliado é uma prática de marketing na Internet em que uma empresa premeia um ou mais afiliados por cada visitante ou cliente.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Affiliates.EditAffiliateDetails">
-    <Value>Edit affiliate details</Value>
+    <Value>Editar detalhes de afiliado</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Affiliates.Fields.Active">
-    <Value>Active</Value>
+    <Value>Ativar</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Affiliates.Fields.Active.Hint">
-    <Value>A value indicating whether the affiliate is active.</Value>
+    <Value>Um valor que indica se o afiliado está ativo</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Affiliates.Fields.AdminComment">
-    <Value>Admin comment</Value>
+    <Value>Comentário do administrador</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Affiliates.Fields.AdminComment.Hint">
-    <Value>Admin comment. For internal use.</Value>
+    <Value>Comentário do administrador. Para uso interno</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Affiliates.Fields.FriendlyUrlName">
-    <Value>Friendly URL name</Value>
+    <Value>URL amigável</Value>
   </LocaleResource>
+  
+  
+  -----------
+  
+  
+  
   <LocaleResource Name="Admin.Affiliates.Fields.FriendlyUrlName.Hint">
     <Value>A friendly name for generated affiliate URL (by default affiliate ID is used). It's more friendly for marketing purposes. Leave empty to use affiliate identifier.</Value>
   </LocaleResource>
@@ -14501,42 +14508,6 @@
   <LocaleResource Name="Plugins.Payments.PayPalStandard.Fields.UseSandbox.Hint">
     <Value>Check to enable Sandbox (testing environment).</Value>
   </LocaleResource>
-  <LocaleResource Name="Plugins.Pickup.PickupInStore.AddNew">
-    <Value>Add a new pickup point</Value>
-  </LocaleResource>
-  <LocaleResource Name="Plugins.Pickup.PickupInStore.Fields.Description">
-    <Value>Description</Value>
-  </LocaleResource>
-  <LocaleResource Name="Plugins.Pickup.PickupInStore.Fields.Description.Hint">
-    <Value>Specify a description of the pickup point.</Value>
-  </LocaleResource>
-  <LocaleResource Name="Plugins.Pickup.PickupInStore.Fields.Name">
-    <Value>Name</Value>
-  </LocaleResource>
-  <LocaleResource Name="Plugins.Pickup.PickupInStore.Fields.Name.Hint">
-    <Value>Specify a name of the pickup point.</Value>
-  </LocaleResource>
-  <LocaleResource Name="Plugins.Pickup.PickupInStore.Fields.OpeningHours">
-    <Value>Opening hours</Value>
-  </LocaleResource>
-  <LocaleResource Name="Plugins.Pickup.PickupInStore.Fields.OpeningHours.Hint">
-    <Value>Specify an openning hours of the pickup point (Monday - Friday: 09:00 - 19:00 for example).</Value>
-  </LocaleResource>
-  <LocaleResource Name="Plugins.Pickup.PickupInStore.Fields.PickupFee">
-    <Value>Pickup fee</Value>
-  </LocaleResource>
-  <LocaleResource Name="Plugins.Pickup.PickupInStore.Fields.PickupFee.Hint">
-    <Value>Specify a fee for the shipping to the pickup point.</Value>
-  </LocaleResource>
-  <LocaleResource Name="Plugins.Pickup.PickupInStore.Fields.Store">
-    <Value>Store</Value>
-  </LocaleResource>
-  <LocaleResource Name="Plugins.Pickup.PickupInStore.Fields.Store.Hint">
-    <Value>A store name for which this pickup point will be available.</Value>
-  </LocaleResource>
-  <LocaleResource Name="Plugins.Pickup.PickupInStore.NoPickupPoints">
-    <Value>No pickup points are available</Value>
-  </LocaleResource>
   <LocaleResource Name="Plugins.Shipping.AustraliaPost.Fields.AdditionalHandlingCharge">
     <Value>Additional handling charge.</Value>
   </LocaleResource>
@@ -14959,12 +14930,6 @@
   </LocaleResource>
   <LocaleResource Name="Plugins.Tax.FixedRate.Fields.TaxCategoryName">
     <Value>Tax category</Value>
-  </LocaleResource>
-  <LocaleResource Name="Plugins.Widgets.BsLiveChat.TrackingScript">
-    <Value> Live Chat Script code from chat provider: </Value>
-  </LocaleResource>
-  <LocaleResource Name="Plugins.Widgets.BsLiveChat.TrackingScript.Hint">
-    <Value>Paste the tracking code generated from chat provider</Value>
   </LocaleResource>
   <LocaleResource Name="Plugins.Widgets.GoogleAnalytics.EcommerceDetailScript">
     <Value>Tracking code for {DETAILS} part</Value>
