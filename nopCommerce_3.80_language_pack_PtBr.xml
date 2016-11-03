@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Language Name="Português Br" SupportedVersion="3.80">
+<Language Name="Português Brasil" SupportedVersion="3.80">
   <LocaleResource Name="AboutUs">
     <Value>Quem somos</Value>
   </LocaleResource>
@@ -600,8 +600,8 @@
   <LocaleResource Name="Account.RewardPoints">
     <Value>Pontos de reconpensa</Value>
   </LocaleResource>
-  <LocaleResource Name="Account.ShoppingCart">
-    <Value>Carrinho de compras</Value>
+  <LocaleResource Name="account.shoppingcart">
+    <Value>Meu Carrinho</Value>
   </LocaleResource>
   <LocaleResource Name="Account.VendorInfo">
     <Value>Informação fornecedor</Value>
@@ -774,8 +774,8 @@
   <LocaleResource Name="ActivityLog.EditReturnRequest">
     <Value>Editado pedido de devolução (ID = {0})</Value>
   </LocaleResource>
-  <LocaleResource Name="ActivityLog.EditSettings">
-    <Value>Editado Configurações </Value>
+  <LocaleResource Name="activitylog.editsettings">
+    <Value>Editando Configurações</Value>
   </LocaleResource>
   <LocaleResource Name="ActivityLog.EditSpecAttribute">
     <Value>Editado especificação de atributo ('{0}')</Value>
@@ -1203,8 +1203,8 @@
   <LocaleResource Name="Admin.Affiliates.List.LoadOnlyWithOrders">
     <Value>Carregue apenas com ordens</Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.Affiliates.List.LoadOnlyWithOrders.Hint">
-    <Value>Verifique para carregar afiliadas apenas com encomendas feitas (pelos clientes filiados).</Value>
+  <LocaleResource Name="admin.affiliates.list.loadonlywithorders.hint">
+    <Value>Marcar para carregar afiliadas apenas com encomendas feitas (pelos clientes filiados).</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Affiliates.List.OrdersCreatedFromUtc">
     <Value>Pedidos data de início</Value>
@@ -1257,8 +1257,8 @@
   <LocaleResource Name="Admin.Affiliates.Orders.OrderStatus.Hint">
     <Value>Pesquisar por um estado de ordem específica, por exemplo, completa.</Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.Affiliates.Orders.OrderTotal">
-    <Value>Total de pedidos</Value>
+  <LocaleResource Name="admin.affiliates.orders.ordertotal">
+    <Value>Total do pedido</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Affiliates.Orders.PaymentStatus">
     <Value>Status do pagamento</Value>
@@ -1311,8 +1311,8 @@
   <LocaleResource Name="Admin.Catalog.Attributes.CheckoutAttributes.Condition.EnableCondition">
     <Value>Ativar condição</Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.Catalog.Attributes.CheckoutAttributes.Condition.EnableCondition.Hint">
-    <Value>Verifique para especificar uma condição (dependendo do outro atributo) quando este atributo deve ser ativado (visível).</Value>
+  <LocaleResource Name="admin.catalog.attributes.checkoutattributes.condition.enablecondition.hint">
+    <Value>Marcar para especificar uma condição (dependendo do outro atributo) quando este atributo deve ser ativado (visível).</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Catalog.Attributes.CheckoutAttributes.Condition.NoAttributeExists">
     <Value>Não existe qualquer atributo que pode ser utilizado como condição.</Value>
@@ -2343,8 +2343,8 @@
   <LocaleResource Name="Admin.Catalog.Products.Copy.CopyImages">
     <Value>imagens de cópia</Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.Catalog.Products.Copy.CopyImages.Hint">
-    <Value>Verifique para copiar as imagens.</Value>
+  <LocaleResource Name="admin.catalog.products.copy.copyimages.hint">
+    <Value>Marcar para copiar as imagens.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Catalog.Products.Copy.Name">
     <Value>Nome do produto Novo</Value>
@@ -2355,8 +2355,8 @@
   <LocaleResource Name="Admin.Catalog.Products.Copy.Published">
     <Value>Publicados</Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.Catalog.Products.Copy.Published.Hint">
-    <Value>Verifique para marcar um produto como publicado.</Value>
+  <LocaleResource Name="admin.catalog.products.copy.published.hint">
+    <Value>Marcar para um produto como publicado.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Catalog.Products.CrossSells">
     <Value>Cross-vende</Value>
@@ -2443,7 +2443,7 @@
     <Value>Automaticamente adicionar estes produtos para o carro</Value>
   </LocaleResource>
   <LocaleResource Name="admin.catalog.products.fields.automaticallyaddrequiredproducts.hint">
-    <Value>Verifique para adicionar automaticamente estes produtos ao carrinho.</Value>
+    <Value>Marcar para adicionar automaticamente estes produtos ao carrinho.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Catalog.Products.Fields.AvailableEndDateTime">
     <Value>Data final disponível</Value>
@@ -2497,7 +2497,7 @@
     <Value>PAngV (preço base) habilitado</Value>
   </LocaleResource>
   <LocaleResource Name="admin.catalog.products.fields.basepriceenabled.hint">
-    <Value>. Verifique para exibir preçoBase de um produto Isto é necessário de acordo com a lei alemã (PAngV) Se você vender 500ml de cerveja para 1,50 euros, então você tem que mostrar preçoBase:. 3,00 euros por 1L.</Value>
+    <Value>Marcar para exibir preço base de um produto. Isto é necessário de acordo com a lei alemã (PAngV) Se você vender 500ml de cerveja por 1,50 euros, então você tem que mostrar preço Base: 3,00 euros por 1L.</Value>
   </LocaleResource>
   <LocaleResource Name="admin.catalog.products.fields.basepriceunit">
     <Value>Unidade de produto</Value>
@@ -2508,8 +2508,8 @@
   <LocaleResource Name="Admin.Catalog.Products.Fields.CallForPrice">
     <Value>Chamada de preço</Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.Catalog.Products.Fields.CallForPrice.Hint">
-    <Value>Verifique para mostrar" Call for Pricing "ou" Orçamento por telefone "ao invés de preço</Value>
+  <LocaleResource Name="admin.catalog.products.fields.callforprice.hint">
+    <Value>Marcar para mostrar" Call for Pricing "ou" Orçamento por telefone "ao invés de preço</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Catalog.Products.Fields.Categories">
     <Value>Categorias</Value>
@@ -2730,8 +2730,8 @@
   <LocaleResource Name="Admin.Catalog.Products.Fields.MarkAsNew">
     <Value>Marcar como nova</Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.Catalog.Products.Fields.MarkAsNew.Hint">
-    <Value>Verifique para marcar o produto como novo. Utilize esta opção para promover novos produtos.</Value>
+  <LocaleResource Name="admin.catalog.products.fields.markasnew.hint">
+    <Value>Marcar para o produto como novo. Utilize esta opção para promover novos produtos.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Catalog.Products.Fields.MarkAsNewEndDateTimeUtc">
     <Value>Marcar como nova. Data de término</Value>
@@ -3096,8 +3096,8 @@
   <LocaleResource Name="Admin.Catalog.Products.List.SearchIncludeSubCategories">
     <Value>Pesquisar sub-categorias</Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.Catalog.Products.List.SearchIncludeSubCategories.Hint">
-    <Value>Verifique para pesquisar em sub-categorias.</Value>
+  <LocaleResource Name="admin.catalog.products.list.searchincludesubcategories.hint">
+    <Value>Marcar para pesquisar em sub-categorias.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Catalog.Products.List.SearchManufacturer">
     <Value>Fabricante</Value>
@@ -3300,8 +3300,8 @@
   <LocaleResource Name="Admin.Catalog.Products.ProductAttributes.Attributes.Condition.EnableCondition">
     <Value>Ativar condição</Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.Catalog.Products.ProductAttributes.Attributes.Condition.EnableCondition.Hint">
-    <Value>Verifique para especificar uma condição (dependendo do outro atributo) quando este atributo deve ser ativado (visível).</Value>
+  <LocaleResource Name="admin.catalog.products.productattributes.attributes.condition.enablecondition.hint">
+    <Value>Marcar para especificar uma condição (dependendo do outro atributo) quando este atributo deve ser ativado (visível).</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Catalog.Products.ProductAttributes.Attributes.Condition.ViewLink">
     <Value>Condição de Ver / Editar</Value>
@@ -3540,8 +3540,8 @@
   <LocaleResource Name="Admin.Catalog.Products.Security">
     <Value>Lista de controle de acesso</Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.Catalog.Products.Shipping">
-    <Value>Remessa</Value>
+  <LocaleResource Name="admin.catalog.products.shipping">
+    <Value>Forma de envio</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Catalog.Products.SpecificationAttributes">
     <Value>Especificação de atributos</Value>
@@ -3666,8 +3666,8 @@
   <LocaleResource Name="Admin.Catalog.Products.Variants.Copy.Published">
     <Value>	Publicado	</Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.Catalog.Products.Variants.Copy.Published.Hint">
-    <Value>	Verifique para marcar uma variante do produto como publicado.	</Value>
+  <LocaleResource Name="admin.catalog.products.variants.copy.published.hint">
+    <Value>Marcar para marcar uma variante do produto como publicado.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Catalog.Products.Variants.Deleted">
     <Value>A variante de produto foi excluída com sucesso.</Value>
@@ -4275,8 +4275,8 @@
   <LocaleResource Name="Admin.Common.Check">
     <Value>Verifica</Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.Common.Clear">
-    <Value>Claro</Value>
+  <LocaleResource Name="admin.common.clear">
+    <Value>Excluir</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Common.ConfigurationNotRequired">
     <Value>A configuração não é necessária</Value>
@@ -4377,8 +4377,8 @@
   <LocaleResource Name="Admin.Common.SEO">
     <Value>SEO</Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.Common.Show">
-    <Value>Exposição</Value>
+  <LocaleResource Name="admin.common.show">
+    <Value>Mostrar</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Common.Standard">
     <Value>Padrão</Value>
@@ -4815,11 +4815,11 @@
   <LocaleResource Name="Admin.Configuration.EmailAccounts.Fields.EnableSsl">
     <Value>SSL</Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.Configuration.EmailAccounts.Fields.EnableSsl.Hint">
-    <Value>Verifique para usar Secure Sockets Layer (SSL) para criptografar a conexão SMTP.</Value>
+  <LocaleResource Name="admin.configuration.emailaccounts.fields.enablessl.hint">
+    <Value>Marcar para usar Secure Sockets Layer (SSL) para criptografar a conexão SMTP.</Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.Configuration.EmailAccounts.Fields.Host">
-    <Value>Anfitrião</Value>
+  <LocaleResource Name="admin.configuration.emailaccounts.fields.host">
+    <Value>Nomo do Host</Value>
   </LocaleResource>
   <LocaleResource Name="admin.configuration.emailaccounts.fields.host.hint">
     <Value>Este é o nome do host ou endereço IP do servidor de e-mail. Normalmente você pode descobrir isso a partir do seu ISP ou host.</Value>
@@ -4881,8 +4881,8 @@
   <LocaleResource Name="Admin.Configuration.EmailAccounts.Updated">
     <Value>A conta de e-mail foi atualizado com sucesso.</Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.Configuration.ExternalAuthenticationMethods">
-    <Value>A autenticação externa</Value>
+  <LocaleResource Name="admin.configuration.externalauthenticationmethods">
+    <Value>Autenticação externa</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.ExternalAuthenticationMethods.BackToList">
     <Value>Back to extenal lista método de autenticação</Value>
@@ -4983,8 +4983,8 @@
   <LocaleResource Name="Admin.Configuration.Languages.Fields.Rtl">
     <Value>Direita para esquerda</Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.Configuration.Languages.Fields.Rtl.Hint">
-    <Value>Verificar para ativar o suporte da direita para a esquerda para este idioma. O tema ativo deve apoiar RTL (tem arquivo de estilo CSS apropriado). E isso afeta somente armazenamento público.</Value>
+  <LocaleResource Name="admin.configuration.languages.fields.rtl.hint">
+    <Value>Marcar para para ativar o suporte da direita para a esquerda para este idioma. O tema ativo deve suportar RTL (ter arquivo de estilo CSS apropriado). E isso afeta somente armazenamento público.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Languages.Fields.UniqueSeoCode">
     <Value>Código de SEO única</Value>
@@ -5418,8 +5418,8 @@
   <LocaleResource Name="Admin.Configuration.Settings.Blog.NotifyAboutNewBlogComments">
     <Value>Notificar sobre novos comentários do blog</Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.Configuration.Settings.Blog.NotifyAboutNewBlogComments.Hint">
-    <Value>Verifique para notificar o proprietário da loja sobre novos comentários do blog.</Value>
+  <LocaleResource Name="admin.configuration.settings.blog.notifyaboutnewblogcomments.hint">
+    <Value>Marcar para notificar o proprietário da loja sobre novos comentários do blog.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Settings.Blog.NumberOfTags">
     <Value>Número de etiquetas (nuvem)</Value>
@@ -5436,8 +5436,8 @@
   <LocaleResource Name="Admin.Configuration.Settings.Blog.ShowHeaderRSSUrl">
     <Value>RSS link do feed de exibição blog na barra de endereço do navegador</Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.Configuration.Settings.Blog.ShowHeaderRSSUrl.Hint">
-    <Value>Verificar para ativar o link do feed RSS do blog na barra de endereços do navegador clientes</Value>
+  <LocaleResource Name="admin.configuration.settings.blog.showheaderrssurl.hint">
+    <Value>Marcar para ativar o link do feed RSS do blog na barra de endereços do navegador do cliente</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Settings.Catalog">
     <Value>Configurações de catálogo</Value>
@@ -5475,8 +5475,8 @@
   <LocaleResource Name="Admin.Configuration.Settings.Catalog.CacheProductPrices">
     <Value>cache preços dos produtos</Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.Configuration.Settings.Catalog.CacheProductPrices.Hint">
-    <Value>Verifique para armazenar em cache os preços dos produtos. Ele pode melhorar significativamente o desempenho. Mas você não deve permitir-se usar alguns descontos complexas, regras de exigência de desconto, ou códigos de cupom.</Value>
+  <LocaleResource Name="admin.configuration.settings.catalog.cacheproductprices.hint">
+    <Value>Marcar para armazenar em cache os preços dos produtos. Ele pode melhorar significativamente o desempenho. Mas você não deve permitir-se usar alguns descontos complexos, regras de exigência de desconto, ou códigos de cupom.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Settings.Catalog.CategoryBreadcrumbEnabled">
     <Value>Categoria breadcrumb habilitado</Value>
@@ -5493,8 +5493,8 @@
   <LocaleResource Name="Admin.Configuration.Settings.Catalog.DisplayDiscontinuedMessageForUnpublishedProducts">
     <Value>Mensagem de Discontinued de produtos inéditos</Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.Configuration.Settings.Catalog.DisplayDiscontinuedMessageForUnpublishedProducts.Hint">
-    <Value>Verifique para apresentar" um produto foi descontinuado "Mensagem ao visualizar detalhes páginas de produtos inéditos.</Value>
+  <LocaleResource Name="admin.configuration.settings.catalog.displaydiscontinuedmessageforunpublishedproducts.hint">
+    <Value>Marcar para apresentar "um produto foi descontinuado". Mensagem ao visualizar detalhes da página de produtos inéditos.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Settings.Catalog.DisplayTaxShippingInfoFooter">
     <Value>Imposto de exibição / info transporte (rodapé)</Value>
@@ -5607,8 +5607,8 @@
   <LocaleResource Name="Admin.Configuration.Settings.Catalog.NotifyStoreOwnerAboutNewProductReviews">
     <Value>Notificar sobre novos produtos avaliados</Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.Configuration.Settings.Catalog.NotifyStoreOwnerAboutNewProductReviews.Hint">
-    <Value>Verifique para notificar o proprietário da loja sobre as novas análises de produtos.</Value>
+  <LocaleResource Name="admin.configuration.settings.catalog.notifystoreowneraboutnewproductreviews.hint">
+    <Value>Marcar para notificar o proprietário da loja sobre as novas análises de produtos.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Settings.Catalog.NumberOfBestsellersOnHomepage">
     <Value>Número de melhores vendedores no home page</Value>
@@ -5715,8 +5715,8 @@
   <LocaleResource Name="Admin.Configuration.Settings.Catalog.SearchPageAllowCustomersToSelectPageSize">
     <Value>Página de pesquisa. Permitir que os clientes para selecionar o tamanho da página</Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.Configuration.Settings.Catalog.SearchPageAllowCustomersToSelectPageSize.Hint">
-    <Value>Página de pesquisa. Verifique para permitir aos clientes para selecionar o tamanho da página a partir de uma lista predefinida de opções.</Value>
+  <LocaleResource Name="admin.configuration.settings.catalog.searchpageallowcustomerstoselectpagesize.hint">
+    <Value>Página de pesquisa. Marcar para permitir aos clientes selecionar o tamanho da página a partir de uma lista predefinida de opções.</Value>
   </LocaleResource>
   <LocaleResource Name="admin.configuration.settings.catalog.searchpagepagesizeoptions">
     <Value>Pesquisar página. Opções de tamanho de página (separados por vírgula)</Value>
@@ -5739,8 +5739,8 @@
   <LocaleResource Name="Admin.Configuration.Settings.Catalog.ShowCategoryProductNumber">
     <Value>Mostrar o número de produtos distintos, além de cada categoria</Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.Configuration.Settings.Catalog.ShowCategoryProductNumber.Hint">
-    <Value>Verifique para mostrar o número de produtos, além de cada categoria (categoria bloco de navegação).</Value>
+  <LocaleResource Name="admin.configuration.settings.catalog.showcategoryproductnumber.hint">
+    <Value>Marcar para mostrar o número de produtos, além de cada categoria (categoria bloco de navegação).</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Settings.Catalog.ShowCategoryProductNumberIncludingSubcategories">
     <Value>Incluir subcategorias (número de produtos distintos)</Value>
@@ -5751,20 +5751,20 @@
   <LocaleResource Name="Admin.Configuration.Settings.Catalog.ShowFreeShippingNotification">
     <Value>Show" "ícone" frete grátis</Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.Configuration.Settings.Catalog.ShowFreeShippingNotification.Hint">
-    <Value>Verifique para mostrar" frete grátis "notificação para produtos com esta opção habilitada.</Value>
+  <LocaleResource Name="admin.configuration.settings.catalog.showfreeshippingnotification.hint">
+    <Value>Marcar para mostrar "frete grátis" notificação para produtos com esta opção habilitada.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Settings.Catalog.ShowGtin">
     <Value>Mostrar GTIN</Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.Configuration.Settings.Catalog.ShowGtin.Hint">
-    <Value>Verifique para mostrar GTIN no arquivo público.</Value>
+  <LocaleResource Name="admin.configuration.settings.catalog.showgtin.hint">
+    <Value>Marcar para mostrar GTIN no arquivo público.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Settings.Catalog.ShowManufacturerPartNumber">
     <Value>Part number Mostrar fabricante</Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.Configuration.Settings.Catalog.ShowManufacturerPartNumber.Hint">
-    <Value>Verifique para mostrar números de peça do fabricante no arquivo público.</Value>
+  <LocaleResource Name="admin.configuration.settings.catalog.showmanufacturerpartnumber.hint">
+    <Value>Marcar para mostrar números da peça do fabricante no arquivo público.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Settings.Catalog.ShowProductImagesInSearchAutoComplete">
     <Value>imagens de produtos, na casa autocomplete</Value>
@@ -5781,8 +5781,8 @@
   <LocaleResource Name="Admin.Configuration.Settings.Catalog.ShowProductReviewsTabOnAccountPage">
     <Value>Mostrar produtos avaliados guia na página" Minha conta </Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.Configuration.Settings.Catalog.ShowProductReviewsTabOnAccountPage.Hint">
-    <Value>Verifique para mostrar produtos avaliados guia em" Minha conta "página".</Value>
+  <LocaleResource Name="admin.configuration.settings.catalog.showproductreviewstabonaccountpage.hint">
+    <Value>Marcar para mostrar produtos avaliados na guia da página "Minha conta".</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Settings.Catalog.ShowProductsFromSubcategories">
     <Value>Incluir produtos de subcategorias</Value>
@@ -5799,8 +5799,8 @@
   <LocaleResource Name="Admin.Configuration.Settings.Catalog.ShowShareButton">
     <Value>Mostrar um botão de compartilhamento</Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.Configuration.Settings.Catalog.ShowShareButton.Hint">
-    <Value>Verifique para mostrar botão de compartilhamento na página de detalhes do produto.</Value>
+  <LocaleResource Name="admin.configuration.settings.catalog.showsharebutton.hint">
+    <Value>Marcar para mostrar botão de compartilhamento na página de detalhes do produto.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Settings.Catalog.SortOptions.DisplayOrder">
     <Value>Ordem de exibição</Value>
@@ -5826,8 +5826,8 @@
   <LocaleResource Name="Admin.Configuration.Settings.CustomerUser.AcceptPrivacyPolicyEnabled.Hint">
     <Value>Pergunte aos clientes a aceitar a política de privacidade durante o registro.</Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.Configuration.Settings.CustomerUser.AddressFormFields">
-    <Value>formulário de endereço campos</Value>
+  <LocaleResource Name="admin.configuration.settings.customeruser.addressformfields">
+    <Value>Campos da página de endereço</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Settings.CustomerUser.AddressFormFields.CityEnabled">
     <Value> 'City' habilitado</Value>
@@ -6000,8 +6000,8 @@
   <LocaleResource Name="Admin.Configuration.Settings.CustomerUser.CountryRequired.Hint">
     <Value>Verifique se é necessária 'País'.</Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.Configuration.Settings.CustomerUser.CustomerFormFields">
-    <Value>campos do formulário ao Cliente</Value>
+  <LocaleResource Name="admin.configuration.settings.customeruser.customerformfields">
+    <Value>Campos da página de Cliente</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Settings.CustomerUser.CustomerFormFields.Description">
     <Value>Você pode criar e gerenciar os campos do formulário cliente disponíveis durante o registo abaixo.</Value>
@@ -6321,8 +6321,8 @@
   <LocaleResource Name="Admin.Configuration.Settings.Forums.ForumsEnabled">
     <Value>Fóruns habilitado</Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.Configuration.Settings.Forums.ForumsEnabled.Hint">
-    <Value>Verificar a permitir fóruns.</Value>
+  <LocaleResource Name="admin.configuration.settings.forums.forumsenabled.hint">
+    <Value>Verificar permissão de fórums.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Settings.Forums.MaxVotesPerDay">
     <Value>votos máximas por dia</Value>
@@ -6408,68 +6408,68 @@
   <LocaleResource Name="Admin.Configuration.Settings.GeneralCommon.CaptchaEnabled">
     <Value>CAPTCHA habilitado</Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.Configuration.Settings.GeneralCommon.CaptchaEnabled.Hint">
-    <Value>Verificar a permitir CAPTCHA</Value>
+  <LocaleResource Name="admin.configuration.settings.generalcommon.captchaenabled.hint">
+    <Value>Marcar para permitir CAPTCHA</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Settings.GeneralCommon.CaptchaShowOnApplyVendorPage">
     <Value>Mostrar em candidatar-se a página conta do fornecedor</Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.Configuration.Settings.GeneralCommon.CaptchaShowOnApplyVendorPage.Hint">
-    <Value>Verifique para mostrar CAPTCHA em candidatar-se a página conta do fornecedor.</Value>
+  <LocaleResource Name="admin.configuration.settings.generalcommon.captchashowonapplyvendorpage.hint">
+    <Value>Marcar para mostrar CAPTCHA em candidatar-se na página de conta do fornecedor.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Settings.GeneralCommon.CaptchaShowOnBlogCommentPage">
     <Value>Mostrar na página do blog (comentários)</Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.Configuration.Settings.GeneralCommon.CaptchaShowOnBlogCommentPage.Hint">
-    <Value>Verifique para mostrar CAPTCHA na página do blog ao escrever um comentário.</Value>
+  <LocaleResource Name="admin.configuration.settings.generalcommon.captchashowonblogcommentpage.hint">
+    <Value>Marcar para mostrar CAPTCHA na página do blog ao escrever um comentário.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Settings.GeneralCommon.CaptchaShowOnContactUsPage">
     <Value>Mostrar na página contacte-nos</Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.Configuration.Settings.GeneralCommon.CaptchaShowOnContactUsPage.Hint">
-    <Value>Verifique para mostrar CAPTCHA em contato conosco página.</Value>
+  <LocaleResource Name="admin.configuration.settings.generalcommon.captchashowoncontactuspage.hint">
+    <Value>Marcar para mostrar CAPTCHA na página de contato.</Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.Configuration.Settings.GeneralCommon.CaptchaShowOnEmailProductToFriendPage">
-    <Value>Mostrar no" produto de e-mail a um amigo "página</Value>
+  <LocaleResource Name="admin.configuration.settings.generalcommon.captchashowonemailproducttofriendpage">
+    <Value>Mostrar na página de "produto de e-mail a um amigo"</Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.Configuration.Settings.GeneralCommon.CaptchaShowOnEmailProductToFriendPage.Hint">
-    <Value>Verifique para mostrar CAPTCHA em" produto de e-mail a um amigo "página".</Value>
+  <LocaleResource Name="admin.configuration.settings.generalcommon.captchashowonemailproducttofriendpage.hint">
+    <Value>Marcar para mostrar CAPTCHA na página "enviar produto por e-mail a um amigo".</Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.Configuration.Settings.GeneralCommon.CaptchaShowOnEmailWishlistToFriendPage">
-    <Value>Mostrar na 'lista de e-mail a um amigo" página </Value>
+  <LocaleResource Name="admin.configuration.settings.generalcommon.captchashowonemailwishlisttofriendpage">
+    <Value>Mostrar na "lista de e-mail a um amigo" página</Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.Configuration.Settings.GeneralCommon.CaptchaShowOnEmailWishlistToFriendPage.Hint">
-    <Value>Verifique para mostrar CAPTCHA em" e-mail lista a um amigo "página".</Value>
+  <LocaleResource Name="admin.configuration.settings.generalcommon.captchashowonemailwishlisttofriendpage.hint">
+    <Value>Marcar para mostrar CAPTCHA na página "enviar e-mail de lista a um amigo ".</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Settings.GeneralCommon.CaptchaShowOnLoginPage">
     <Value>Mostrar na página de login</Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.Configuration.Settings.GeneralCommon.CaptchaShowOnLoginPage.Hint">
-    <Value>Verifique para mostrar CAPTCHA na página de login.</Value>
+  <LocaleResource Name="admin.configuration.settings.generalcommon.captchashowonloginpage.hint">
+    <Value>Marcar para mostrar CAPTCHA na página de login.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Settings.GeneralCommon.CaptchaShowOnNewsCommentPage">
     <Value>Mostrar na página de notícias (comentários)</Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.Configuration.Settings.GeneralCommon.CaptchaShowOnNewsCommentPage.Hint">
-    <Value>Verifique para mostrar CAPTCHA na página de notícias ao escrever um comentário.</Value>
+  <LocaleResource Name="admin.configuration.settings.generalcommon.captchashowonnewscommentpage.hint">
+    <Value>Marcar para mostrar CAPTCHA na página de notícias ao escrever um comentário.</Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.Configuration.Settings.GeneralCommon.CaptchaShowOnProductReviewPage">
-    <Value>Show em revisões do produto página</Value>
+  <LocaleResource Name="admin.configuration.settings.generalcommon.captchashowonproductreviewpage">
+    <Value>Mostrar na página de revisões do produto</Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.Configuration.Settings.GeneralCommon.CaptchaShowOnProductReviewPage.Hint">
-    <Value>Verifique para mostrar CAPTCHA na página do produto comentários ao escrever um comentário.</Value>
+  <LocaleResource Name="admin.configuration.settings.generalcommon.captchashowonproductreviewpage.hint">
+    <Value>Marcar para mostrar CAPTCHA na página do produto comentários ao escrever um comentário.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Settings.GeneralCommon.CaptchaShowOnRegistrationPage">
     <Value>Mostrar na página de registo</Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.Configuration.Settings.GeneralCommon.CaptchaShowOnRegistrationPage.Hint">
-    <Value>Verifique para mostrar CAPTCHA na página de registo.</Value>
+  <LocaleResource Name="admin.configuration.settings.generalcommon.captchashowonregistrationpage.hint">
+    <Value>Marcar para mostrar CAPTCHA na página de registo.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Settings.GeneralCommon.ConvertNonWesternChars">
     <Value>Converter caracteres não-ocidentais</Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.Configuration.Settings.GeneralCommon.ConvertNonWesternChars.Hint">
-    <Value>Verifique para tirar os acentos nas letras dos nomes de SEO, mantendo a letra.</Value>
+  <LocaleResource Name="admin.configuration.settings.generalcommon.convertnonwesternchars.hint">
+    <Value>Marcar para tirar os acentos nas letras dos nomes de SEO, mantendo a letra.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Settings.GeneralCommon.CustomHeadTags">
     <Value>Tag personalizado &lt;head&gt;</Value>
@@ -6477,14 +6477,14 @@
   <LocaleResource Name="Admin.Configuration.Settings.GeneralCommon.CustomHeadTags.Hint">
     <Value>&lt;Head&gt; tag (s) Introduza um costume aqui. Por exemplo, alguns custom tag &lt;meta&gt;. Ou deixe vazio se ignorar essa configuração.</Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.Configuration.Settings.GeneralCommon.DefaultMetaDescription">
-    <Value>Descrição meta Default</Value>
+  <LocaleResource Name="admin.configuration.settings.generalcommon.defaultmetadescription">
+    <Value>Descrição META padrão</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Settings.GeneralCommon.DefaultMetaDescription.Hint">
     <Value>A descrição meta padrão para páginas em sua loja. Você pode substituir isso por categorias / produtos / páginas fabricante individuais.</Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.Configuration.Settings.GeneralCommon.DefaultMetaKeywords">
-    <Value>Default meta palavras-chave</Value>
+  <LocaleResource Name="admin.configuration.settings.generalcommon.defaultmetakeywords">
+    <Value>Palavras-chave META padrão</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Settings.GeneralCommon.DefaultMetaKeywords.Hint">
     <Value>As palavras-chave meta padrão para páginas em sua loja. Você pode substituir estes por categorias / produtos / páginas fabricante individuais.</Value>
@@ -6522,14 +6522,14 @@
   <LocaleResource Name="Admin.Configuration.Settings.GeneralCommon.DisablePdfInvoicesForPendingOrders.Hint">
     <Value>Se marcado, os clientes não será permitido para imprimir faturas PDF para encomendas pendentes.</Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.Configuration.Settings.GeneralCommon.DisplayEuCookieLawWarning">
-    <Value>Mostrar o aviso lei bolinho da UE</Value>
+  <LocaleResource Name="admin.configuration.settings.generalcommon.displayeucookielawwarning">
+    <Value>Mostrar o aviso de lei cookie da UE</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Settings.GeneralCommon.DisplayEuCookieLawWarning.Hint">
     <Value>Tornar o site compatível com o direito da UE de cookie. Quando ativado, os novos clientes verá uma caixa de aviso apropriado.</Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.Configuration.Settings.GeneralCommon.EnableCssBundling">
-    <Value>Bundling CSS e minification</Value>
+  <LocaleResource Name="admin.configuration.settings.generalcommon.enablecssbundling">
+    <Value>Criar CSS em minification</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Settings.GeneralCommon.EnableCssBundling.Hint">
     <Value>Ativar a combinar (bundle) de vários arquivos CSS em um único arquivo. Não permitir que se você estiver executando nopCommerce no diretório virtual do IIS. Observe que esta funcionalidade exige recursos significativos do servidor (não recomendado para uso com planos de hospedagem compartilhada baratos).</Value>
@@ -6543,14 +6543,14 @@
   <LocaleResource Name="Admin.Configuration.Settings.GeneralCommon.EnableXSRFProtectionForAdminArea">
     <Value>Habilitar proteção XSRF para a área admin</Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.Configuration.Settings.GeneralCommon.EnableXSRFProtectionForAdminArea.Hint">
-    <Value>Verificar para ativar a proteção XSRF para a área de administração.</Value>
+  <LocaleResource Name="admin.configuration.settings.generalcommon.enablexsrfprotectionforadminarea.hint">
+    <Value>Marcar para ativar a proteção XSRF para a área de administração.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Settings.GeneralCommon.EnableXSRFProtectionForPublicStore">
     <Value>Habilitar proteção XSRF para arquivo público</Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.Configuration.Settings.GeneralCommon.EnableXSRFProtectionForPublicStore.Hint">
-    <Value>Verificar para ativar a proteção XSRF para armazenamento público.</Value>
+  <LocaleResource Name="admin.configuration.settings.generalcommon.enablexsrfprotectionforpublicstore.hint">
+    <Value>Marcar para ativar a proteção XSRF para o armazenamento público.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Settings.GeneralCommon.EncryptionKey">
     <Value>Criptografia de chave privada</Value>
@@ -6576,8 +6576,8 @@
   <LocaleResource Name="admin.configuration.settings.generalcommon.forcesslforallpages">
     <Value>Forçar SSL para todas as páginas do site</Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.Configuration.Settings.GeneralCommon.ForceSslForAllPages.Hint">
-    <Value>Por padrão nem todas as páginas do site são protegido por SSL. Verifique para forçar SSL para o site inteiro. Essa configuração é útil somente quando você tem SSL ativado em sua loja páginas de detalhes.</Value>
+  <LocaleResource Name="admin.configuration.settings.generalcommon.forcesslforallpages.hint">
+    <Value>Por padrão nem todas as páginas do site são protegido por SSL. Marcar para forçar SSL para o site inteiro. Essa configuração é útil somente quando você tem SSL ativado em sua loja páginas de detalhes.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Settings.GeneralCommon.FullTextSettings">
     <Value>Configurações de Full-Text</Value>
@@ -6615,8 +6615,8 @@
   <LocaleResource Name="Admin.Configuration.Settings.GeneralCommon.FullTextSettings.Supported">
     <Value>Full-Text é suportado pelo seu banco de dados</Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.Configuration.Settings.GeneralCommon.GenerateProductMetaDescription">
-    <Value>Gerar produto descrição META</Value>
+  <LocaleResource Name="admin.configuration.settings.generalcommon.generateproductmetadescription">
+    <Value>Gerar descrição do produto em META</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Settings.GeneralCommon.GenerateProductMetaDescription.Hint">
     <Value>Quando ativado, descrições META produto será gerado automaticamente (se não for especificado na página de detalhes do produto) com base no produto breve descrição.</Value>
@@ -6636,17 +6636,17 @@
   <LocaleResource Name="Admin.Configuration.Settings.GeneralCommon.HoneypotEnabled">
     <Value>Ativar honeypot</Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.Configuration.Settings.GeneralCommon.HoneypotEnabled.Hint">
-    <Value>Verificar a permitir técnica honeypot para página de registo.</Value>
+  <LocaleResource Name="admin.configuration.settings.generalcommon.honeypotenabled.hint">
+    <Value>Marcar para permitir técnica honeypot para página de registo.</Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.Configuration.Settings.GeneralCommon.InvoiceFooterTextColumn1">
-    <Value>Texto de rodapé da factura (coluna da esquerda)</Value>
+  <LocaleResource Name="admin.configuration.settings.generalcommon.invoicefootertextcolumn1">
+    <Value>Texto de rodapé da coluna da esquerda (Exibido no comprovante do pedido do cliente)</Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.Configuration.Settings.GeneralCommon.InvoiceFooterTextColumn1.Hint">
-    <Value>Digite o texto que aparece na parte inferior da faturas geradas (coluna da esquerda).</Value>
+  <LocaleResource Name="admin.configuration.settings.generalcommon.invoicefootertextcolumn1.hint">
+    <Value>Digite o texto que aparece na parte inferior do comprovante de venda gerado para o cliente (coluna da esquerda).</Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.Configuration.Settings.GeneralCommon.InvoiceFooterTextColumn2">
-    <Value>Texto de rodapé da factura (coluna da direita)</Value>
+  <LocaleResource Name="admin.configuration.settings.generalcommon.invoicefootertextcolumn2">
+    <Value>Texto de rodapé da coluna da direita (Exibido no comprovante do pedido do cliente)</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Settings.GeneralCommon.InvoiceFooterTextColumn2.Hint">
     <Value>Digite o texto que aparece na parte inferior da faturas geradas (coluna da direita).</Value>
@@ -6693,11 +6693,11 @@
   <LocaleResource Name="Admin.Configuration.Settings.GeneralCommon.OpenGraphMetaTags">
     <Value>tags Open Graph meta</Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.Configuration.Settings.GeneralCommon.OpenGraphMetaTags.Hint">
-    <Value>Verifique para gerar tags Open Graph META na página de detalhes do produto.</Value>
+  <LocaleResource Name="admin.configuration.settings.generalcommon.opengraphmetatags.hint">
+    <Value>Marcar para gerar tags Open Graph META na página de detalhes do produto.</Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.Configuration.Settings.GeneralCommon.PageTitleSeoAdjustment">
-    <Value>Ajuste de SEO Título da página</Value>
+  <LocaleResource Name="admin.configuration.settings.generalcommon.pagetitleseoadjustment">
+    <Value>Ajuste de SEO no título da página</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Settings.GeneralCommon.PageTitleSeoAdjustment.Hint">
     <Value>Selecionar um ajuste de página de título SEO Por exemplo, o título da página gerada poderia ser. (Nome da página | YOURSTORE.COM) em vez de (YOURSTORE.COM | página Nome).</Value>
@@ -6717,8 +6717,8 @@
   <LocaleResource Name="Admin.Configuration.Settings.GeneralCommon.PdfLetterPageSizeEnabled">
     <Value>Tamanho da página Use Letter</Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.Configuration.Settings.GeneralCommon.PdfLetterPageSizeEnabled.Hint">
-    <Value>Se marcado, usa letra tamanho da página para documentos PDF. Usa tamanho de página A4 se não for controlada.</Value>
+  <LocaleResource Name="admin.configuration.settings.generalcommon.pdfletterpagesizeenabled.hint">
+    <Value>Marcar para usar tamanho da página para documentos PDF como Letter. Usa tamanho de página A4 se não for marcado.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Settings.GeneralCommon.PdfLogo">
     <Value>Logotipo do PDF</Value>
@@ -6729,14 +6729,14 @@
   <LocaleResource Name="Admin.Configuration.Settings.GeneralCommon.PdfSettings">
     <Value>Configurações de PDF</Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.Configuration.Settings.GeneralCommon.reCaptchaPrivateKey">
-    <Value>Chave privada reCAPTCHA</Value>
+  <LocaleResource Name="admin.configuration.settings.generalcommon.recaptchaprivatekey">
+    <Value>Chave privada reCAPTCHA (private key)</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Settings.GeneralCommon.reCaptchaPrivateKey.Hint">
     <Value>Enter reCAPTCHA chave privada (se habilitado)</Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.Configuration.Settings.GeneralCommon.reCaptchaPublicKey">
-    <Value>Chave pública reCAPTCHA</Value>
+  <LocaleResource Name="admin.configuration.settings.generalcommon.recaptchapublickey">
+    <Value>Chave pública reCAPTCHA (site key)</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Settings.GeneralCommon.reCaptchaPublicKey.Hint">
     <Value>Enter reCAPTCHA chave pública (se habilitado)</Value>
@@ -6804,8 +6804,8 @@
   <LocaleResource Name="Admin.Configuration.Settings.GeneralCommon.StoreClosed">
     <Value>Loja fechada</Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.Configuration.Settings.GeneralCommon.StoreClosed.Hint">
-    <Value>Verifique para fechar a loja. Desmarque a reabrir.</Value>
+  <LocaleResource Name="admin.configuration.settings.generalcommon.storeclosed.hint">
+    <Value>Marcar para fechar a loja. Desmarque para reabrir.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Settings.GeneralCommon.StoreClosedAllowForAdmins">
     <Value>Permitir que admins vejam a loja fechada</Value>
@@ -6843,8 +6843,8 @@
   <LocaleResource Name="Admin.Configuration.Settings.GeneralCommon.TwitterMetaTags">
     <Value>tags Twitter meta</Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.Configuration.Settings.GeneralCommon.TwitterMetaTags.Hint">
-    <Value>Verifique para gerar META tags Twitter na página de detalhes do produto.</Value>
+  <LocaleResource Name="admin.configuration.settings.generalcommon.twittermetatags.hint">
+    <Value>Marcar para gerar META tags Twitter na página de detalhes do produto.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Settings.GeneralCommon.UseImagesForLanguageSelection">
     <Value>Usar imagens para seleção de idioma</Value>
@@ -6858,8 +6858,8 @@
   <LocaleResource Name="Admin.Configuration.Settings.GeneralCommon.UseSSL.Hint">
     <Value>Marque se sua loja estiver segura com um certificado SSL.  Não marque se ainda não tiver um certificado SSL instalado.</Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.Configuration.Settings.GeneralCommon.UseSystemEmailForContactUsForm">
-    <Value>Contacte-nos página. Use e-mail sistema</Value>
+  <LocaleResource Name="admin.configuration.settings.generalcommon.usesystememailforcontactusform">
+    <Value>Use e-mail do sistema na página de Contacte-nos</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Settings.GeneralCommon.UseSystemEmailForContactUsForm.Hint">
     <Value>Verificar a usar seu e-mail sistema como campo" De "ao enviar e-mails de contato nós página. Caso contrário, e-mail do cliente será usado (por favor, note que alguns serviços de e-mail não permitem isso).</Value>
@@ -7023,14 +7023,14 @@
   <LocaleResource Name="Admin.Configuration.Settings.News.NotifyAboutNewNewsComments">
     <Value>Notificar sobre novos comentários de notícias</Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.Configuration.Settings.News.NotifyAboutNewNewsComments.Hint">
-    <Value>Verifique para notificar o proprietário da loja sobre novos comentários de notícias.</Value>
+  <LocaleResource Name="admin.configuration.settings.news.notifyaboutnewnewscomments.hint">
+    <Value>Marcar para notificar o proprietário da loja sobre novos comentários de notícias.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Settings.News.ShowHeaderRSSUrl">
     <Value>Display notícias RSS link do feed na barra de endereço do navegador</Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.Configuration.Settings.News.ShowHeaderRSSUrl.Hint">
-    <Value>Verificar para ativar o link do feed RSS de notícias na barra de endereços do navegador clientes</Value>
+  <LocaleResource Name="admin.configuration.settings.news.showheaderrssurl.hint">
+    <Value>Marcar para ativar o link do feed RSS de notícias na barra de endereços do navegador do cliente</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Settings.News.ShowNewsOnMainPage">
     <Value>Mostrar na home page</Value>
@@ -7044,32 +7044,32 @@
   <LocaleResource Name="Admin.Configuration.Settings.Order.AnonymousCheckoutAllowed">
     <Value>Checkout anônimo permitido</Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.Configuration.Settings.Order.AnonymousCheckoutAllowed.Hint">
-    <Value>Verificar a permitir check out anônimo (clientes não são obrigados a sessão / registar-se na compra de produtos)</Value>
+  <LocaleResource Name="admin.configuration.settings.order.anonymouscheckoutallowed.hint">
+    <Value>Marcar para permitir vendas como anônimo (clientes não são obrigados a iniciar sessão / registar-se na loja para comprar produtos)</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Settings.Order.AttachPdfInvoiceToOrderCompletedEmail">
     <Value>Anexar factura PDF (" ordem concluída "e-mail)</Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.Configuration.Settings.Order.AttachPdfInvoiceToOrderCompletedEmail.Hint">
-    <Value>Verifique para anexar factura PDF para a" ordem concluída "e-mail enviado a um cliente.</Value>
+  <LocaleResource Name="admin.configuration.settings.order.attachpdfinvoicetoordercompletedemail.hint">
+    <Value>Marcar para anexar factura PDF para o "pedido concluído" e-mail enviado a um cliente.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Settings.Order.AttachPdfInvoiceToOrderPaidEmail">
     <Value>Anexar factura PDF (" ordem de pagamento "e-mail)</Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.Configuration.Settings.Order.AttachPdfInvoiceToOrderPaidEmail.Hint">
-    <Value>Verifique para anexar factura PDF para a" ordem de pagamento "e-mail enviado a um cliente.</Value>
+  <LocaleResource Name="admin.configuration.settings.order.attachpdfinvoicetoorderpaidemail.hint">
+    <Value>Marcar para anexar factura PDF para a "ordem de pagamento" e-mail enviado a um cliente.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Settings.Order.AttachPdfInvoiceToOrderPlacedEmail">
     <Value>Anexar factura PDF (" encomenda "e-mail)</Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.Configuration.Settings.Order.AttachPdfInvoiceToOrderPlacedEmail.Hint">
-    <Value>Verifique para anexar factura PDF com a" encomenda "e-mail enviado a um cliente.</Value>
+  <LocaleResource Name="admin.configuration.settings.order.attachpdfinvoicetoorderplacedemail.hint">
+    <Value>Marcar para anexar factura PDF com o "pedido" e-mail enviado a um cliente.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Settings.Order.AutoUpdateOrderTotalsOnEditingOrder">
     <Value>atualização automática de pedidos totais</Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.Configuration.Settings.Order.AutoUpdateOrderTotalsOnEditingOrder.Hint">
-    <Value>Verifique para atualizar automaticamente total de pedidos sobre a edição de uma ordem na área de administração IMPORTANTES:. Actualmente esta funcionalidade está em estado de teste beta.</Value>
+  <LocaleResource Name="admin.configuration.settings.order.autoupdateordertotalsoneditingorder.hint">
+    <Value>Marcar para atualizar automaticamente total de pedidos sobre a edição de uma ordem na área de administração IMPORTANTES: Atualmente esta funcionalidade está em estado de teste BETA.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Settings.Order.DisableBillingAddressCheckoutStep">
     <Value>Desativar" Endereço de facturação "step</Value>
@@ -7101,8 +7101,8 @@
   <LocaleResource Name="Admin.Configuration.Settings.Order.GiftCards_Deactivated.Pending">
     <Value>Status do pedido não poderia ser definido como Pendente</Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.Configuration.Settings.Order.IsReOrderAllowed">
-    <Value>É reordenar permitido</Value>
+  <LocaleResource Name="admin.configuration.settings.order.isreorderallowed">
+    <Value>Fazer pedido igual</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Settings.Order.IsReOrderAllowed.Hint">
     <Value>Verifique se você quiser permitir que os clientes para fazer novos pedidos.</Value>
@@ -7116,8 +7116,8 @@
   <LocaleResource Name="Admin.Configuration.Settings.Order.MinOrderSubtotalAmountIncludingTax">
     <Value>Calcular 'Min ordem quantidade sub-total" incluindo impostos </Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.Configuration.Settings.Order.MinOrderSubtotalAmountIncludingTax.Hint">
-    <Value>Verifique para calcular 'Min ordem subtotal montante" valor incluindo impostos, caso contrário, líquido de imposto. </Value>
+  <LocaleResource Name="admin.configuration.settings.order.minordersubtotalamountincludingtax.hint">
+    <Value>Marcar para calcular "Mínimo pedido montante" valor incluindo impostos, caso contrário, líquido de imposto.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Settings.Order.MinOrderTotalAmount">
     <Value>Min ordem total</Value>
@@ -7131,8 +7131,8 @@
   <LocaleResource Name="Admin.Configuration.Settings.Order.NumberOfDaysReturnRequestAvailable.Hint">
     <Value>Definir um determinado número de dias que o retorno pedido da ligação estará disponível na área de clientes. Por exemplo, se o proprietário da loja permite retornos no prazo de 30 dias após a compra, eles definir esta a 30. logado clientes, visualizar ordens no meu conta, então não ver o retorno Pedido de botões para pedidos concluídos mais de trinta dias. </Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.Configuration.Settings.Order.OnePageCheckoutDisplayOrderTotalsOnPaymentInfoTab">
-    <Value>Ordem totaliza sobre o pagamento guia info</Value>
+  <LocaleResource Name="admin.configuration.settings.order.onepagecheckoutdisplayordertotalsonpaymentinfotab">
+    <Value>Total de pedidos com pagamento</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Settings.Order.OnePageCheckoutDisplayOrderTotalsOnPaymentInfoTab.Hint">
     <Value>Verificar para exibir uma lista de produtos e pedidos totais no separador informações de pagamento (de uma página de checkout).</Value>
@@ -7176,8 +7176,8 @@
   <LocaleResource Name="Admin.Configuration.Settings.Order.ReturnRequestActions.EditDetails">
     <Value>Editar pedido de devolução detalhes da ação</Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.Configuration.Settings.Order.ReturnRequestActions.Hint">
-    <Value>Lista de ações de um cliente será capaz de escolher quando a apresentação de um pedido de devolução.</Value>
+  <LocaleResource Name="admin.configuration.settings.order.returnrequestactions.hint">
+    <Value>Lista de ações para o cliente escolher na abertura do pedido de devolição.e será capaz de escolher quando a apresentação de um pedido de devolução.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Settings.Order.ReturnRequestActions.Name">
     <Value>Nome</Value>
@@ -7191,26 +7191,26 @@
   <LocaleResource Name="Admin.Configuration.Settings.Order.ReturnRequestActions.Updated">
     <Value>A ação do pedido de devolução foi atualizado com sucesso.</Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.Configuration.Settings.Order.ReturnRequestNumberMask">
-    <Value>Pedido de devolução máscara de número</Value>
+  <LocaleResource Name="admin.configuration.settings.order.returnrequestnumbermask">
+    <Value>Pedido de devolução máscara do número</Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.Configuration.Settings.Order.ReturnRequestNumberMask.Description.DD">
-    <Value>{DD} - dia do pedido de devolução data de criação</Value>
+  <LocaleResource Name="admin.configuration.settings.order.returnrequestnumbermask.description.dd">
+    <Value>{DD} - DIA da data de criação de solicitação de devolução</Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.Configuration.Settings.Order.ReturnRequestNumberMask.Description.ID">
-    <Value>{ID} - Voltar pedido identificador</Value>
+  <LocaleResource Name="admin.configuration.settings.order.returnrequestnumbermask.description.id">
+    <Value>{ID} - Número de identificação do pedido de devolução</Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.Configuration.Settings.Order.ReturnRequestNumberMask.Description.MM">
-    <Value>{MM} - mês de solicitação de devolução data de criação</Value>
+  <LocaleResource Name="admin.configuration.settings.order.returnrequestnumbermask.description.mm">
+    <Value>{MM} - MÊS da data de criação de solicitação de devolução</Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.Configuration.Settings.Order.ReturnRequestNumberMask.Description.YY">
-    <Value>{YY} - dois últimos dígitos do ano de pedido de devolução data de criação</Value>
+  <LocaleResource Name="admin.configuration.settings.order.returnrequestnumbermask.description.yy">
+    <Value>{YY} - Dois últimos dígitos do ano da data de criação de solicitação de devolução</Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.Configuration.Settings.Order.ReturnRequestNumberMask.Description.YYYY">
-    <Value>{AAAA} - ano do pedido de devolução data de criação</Value>
+  <LocaleResource Name="admin.configuration.settings.order.returnrequestnumbermask.description.yyyy">
+    <Value>{AAAA} - ANO da data de criação de solicitação de devolução</Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.Configuration.Settings.Order.ReturnRequestNumberMask.Hint">
-    <Value>Retorno máscara de número de pedido. Por exemplo, RMA-{ID}-{YYYY}-{MM}-{DD}.</Value>
+  <LocaleResource Name="admin.configuration.settings.order.returnrequestnumbermask.hint">
+    <Value>Retorno da máscara de número de pedido de devolução. Por exemplo, RMA-{ID}-{YYYY}-{MM}-{DD}.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Settings.Order.ReturnRequestReasons">
     <Value>Return razões de solicitação</Value>
@@ -7236,8 +7236,8 @@
   <LocaleResource Name="Admin.Configuration.Settings.Order.ReturnRequestReasons.EditDetails">
     <Value>Editar pedido de devolução detalhes da razão</Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.Configuration.Settings.Order.ReturnRequestReasons.Hint">
-    <Value>Lista de razões um cliente será capaz de escolher quando a apresentação de um pedido de devolução.</Value>
+  <LocaleResource Name="admin.configuration.settings.order.returnrequestreasons.hint">
+    <Value>Lista de razões para o cliente escolher na abertura do pedido de devolição.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Settings.Order.ReturnRequestReasons.Name">
     <Value>Nome</Value>
@@ -7251,8 +7251,8 @@
   <LocaleResource Name="Admin.Configuration.Settings.Order.ReturnRequestReasons.Updated">
     <Value>A razão do pedido de devolução foi atualizado com sucesso.</Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.Configuration.Settings.Order.ReturnRequestsDescription1">
-    <Value>O sistema retorna irá permitir que seus clientes para solicitar um retorno sobre os itens que você comprou. Estes também são conhecidos como pedidos de RMA.</Value>
+  <LocaleResource Name="admin.configuration.settings.order.returnrequestsdescription1">
+    <Value>O sistema de devolução irá permitir que seus clientes possam solicitar um retorno sobre os itens comprados. Estes também são conhecidos como pedidos de RMA.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Settings.Order.ReturnRequestsDescription2">
     <Value>NOTA: Esta opção está disponível para pedidos concluídos.</Value>
@@ -7263,8 +7263,8 @@
   <LocaleResource Name="Admin.Configuration.Settings.Order.ReturnRequestsEnabled.Hint">
     <Value>Verifique se você quiser permitir que os clientes para enviar solicitações de retorno para os itens que você comprou anteriormente.</Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.Configuration.Settings.Order.ReturnRequestSettings">
-    <Value>Return opções de solicitação</Value>
+  <LocaleResource Name="admin.configuration.settings.order.returnrequestsettings">
+    <Value>Opções de solicitação de devolução</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Settings.Order.TermsOfServiceEnabled">
     <Value>Termos de serviço</Value>
@@ -7341,8 +7341,8 @@
   <LocaleResource Name="Admin.Configuration.Settings.ProductEditor.BlockTitle.Security">
     <Value>Lista de controle de acesso</Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.Configuration.Settings.ProductEditor.BlockTitle.Shipping">
-    <Value>Remessa</Value>
+  <LocaleResource Name="admin.configuration.settings.producteditor.blocktitle.shipping">
+    <Value>Forma de envio</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Settings.ProductEditor.BlockTitle.Tabs">
     <Value>Opções de guias e de exibição</Value>
@@ -7621,7 +7621,7 @@
     <Value>Definições de envio</Value>
   </LocaleResource>
   <LocaleResource Name="admin.configuration.settings.shipping.allowpickupinstore">
-    <Value> Pegar na loja "ativado</Value>
+    <Value>Pegar na loja "ativado"</Value>
   </LocaleResource>
   <LocaleResource Name="admin.configuration.settings.shipping.allowpickupinstore.hint">
     <Value>Um valor que indica se" Pick Up in Store "opção é ativada durante a verificação geral. Por favor, verifique se você tem pelo menos um provedor ponto de captação ativa".</Value>
@@ -7629,8 +7629,8 @@
   <LocaleResource Name="Admin.Configuration.Settings.Shipping.BypassShippingMethodSelectionIfOnlyOne">
     <Value>Bypass envio página método se há apenas um</Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.Configuration.Settings.Shipping.BypassShippingMethodSelectionIfOnlyOne.Hint">
-    <Value>Verifique para ignorar uma página método de envio durante o check-out se há apenas um método de envio disponíveis.</Value>
+  <LocaleResource Name="admin.configuration.settings.shipping.bypassshippingmethodselectionifonlyone.hint">
+    <Value>Marcar para ignorar uma página método de envio durante o check-out se há apenas um método de envio disponível.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Settings.Shipping.DisplayPickupPointsOnMap">
     <Value>pontos de coleta visualizar no mapa</Value>
@@ -7665,8 +7665,8 @@
   <LocaleResource Name="Admin.Configuration.Settings.Shipping.FreeShippingOverXIncludingTax">
     <Value>Calcular 'X' incluindo impostos</Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.Configuration.Settings.Shipping.FreeShippingOverXIncludingTax.Hint">
-    <Value>Verifique para calcular o valor 'X' incluindo impostos, caso contrário, líquido de imposto.</Value>
+  <LocaleResource Name="admin.configuration.settings.shipping.freeshippingoverxincludingtax.hint">
+    <Value>Marcar para calcular o valor 'X' incluindo impostos, caso contrário, líquido de imposto.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Settings.Shipping.FreeShippingOverXValue">
     <Value>Valor do 'X'</Value>
@@ -7701,8 +7701,8 @@
   <LocaleResource Name="Admin.Configuration.Settings.Shipping.ShipToSameAddress">
     <Value>Enviar para o mesmo endereço</Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.Configuration.Settings.Shipping.ShipToSameAddress.Hint">
-    <Value>Verificar para exibir" navio para o mesmo endereço "opção durante a verificação geral (" endereço de cobrança "passo). Neste caso case" endereço de entrega ", com opções apropriadas (por exemplo, pegar na loja) serão ignorados. Observe também que todos os países de faturamento deve apoiar o transporte ( "Permite envio" caixa de seleção marcada). </Value>
+  <LocaleResource Name="admin.configuration.settings.shipping.shiptosameaddress.hint">
+    <Value>Marcar para exibir "envio para o mesmo endereço" opção durante a verificação geral ("endereço de cobrança"). Neste caso "endereço de entrega", com opções apropriadas (por exemplo, pegar na loja) serão ignorados. Observe também que todos os países de faturamento devem permitir o transporte ("Permite envio" caixa de seleção marcada).</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Settings.Shipping.UseWarehouseLocation">
     <Value>Use localização do armazém</Value>
@@ -7710,8 +7710,8 @@
   <LocaleResource Name="Admin.Configuration.Settings.Shipping.UseWarehouseLocation.Hint">
     <Value>Verificar a utilizar localização do armazém ao solicitar taxas de envio. Isso é útil quando você enviar a partir de múltiplos armazéns.</Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.Configuration.Settings.ShoppingCart">
-    <Value>carrinho de compras configurações</Value>
+  <LocaleResource Name="admin.configuration.settings.shoppingcart">
+    <Value>Configurações de carrinho de compras</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Settings.ShoppingCart.AllowAnonymousUsersToEmailWishlist">
     <Value>Permitir convidados para e-mail suas listas de desejos</Value>
@@ -7770,8 +7770,8 @@
   <LocaleResource Name="Admin.Configuration.Settings.ShoppingCart.MiniShoppingCartEnabled">
     <Value>Show carrinho mini-shopping</Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.Configuration.Settings.ShoppingCart.MiniShoppingCartEnabled.Hint">
-    <Value>Verificar a permitir carrinho mini-compras.</Value>
+  <LocaleResource Name="admin.configuration.settings.shoppingcart.minishoppingcartenabled.hint">
+    <Value>Marcar para permitir carrinho mini-compras.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Settings.ShoppingCart.MiniShoppingCartProductNumber">
     <Value>Número de produtos no carrinho de mini-shopping</Value>
@@ -7827,8 +7827,8 @@
   <LocaleResource Name="Admin.Configuration.Settings.StoreScope.CheckAll.Hint">
     <Value>(Caixas de seleção se você quiser definir um valor personalizado para esta loja)</Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.Configuration.Settings.Tax">
-    <Value>As configurações de impostos</Value>
+  <LocaleResource Name="admin.configuration.settings.tax">
+    <Value>Configurações de imposto</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Settings.Tax.AllowCustomersToSelectTaxDisplayType">
     <Value>Permitir que os clientes para selecionar o tipo de exibição de impostos</Value>
@@ -8193,8 +8193,8 @@
   <LocaleResource Name="Admin.Configuration.Shipping.PickupPointProviders.Fields.SystemName">
     <Value>Nome do sistema</Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.Configuration.Shipping.PickupPoints">
-    <Value>pontos de recolhimento</Value>
+  <LocaleResource Name="admin.configuration.shipping.pickuppoints">
+    <Value>Pontos de retirada</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Shipping.Providers">
     <Value>prestadores de embalagem</Value>
@@ -8376,8 +8376,8 @@
   <LocaleResource Name="Admin.Configuration.Stores.Fields.SslEnabled.Hint">
     <Value>Verifique se a sua loja vai ser protegido por SSL.</Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.Configuration.Stores.Fields.SslEnabled.Hint2">
-    <Value>AVISO: Não permitir que isso até que tenha certificado SSL instalado no servidor.</Value>
+  <LocaleResource Name="admin.configuration.stores.fields.sslenabled.hint2">
+    <Value>AVISO: Não marque até que tenha certificado SSL instalado no servidor.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Stores.Fields.Url">
     <Value>URL loja</Value>
@@ -9537,8 +9537,8 @@
   <LocaleResource Name="Admin.Customers.Customers.AdminCouldNotbeVendor">
     <Value>Um cliente com um fornecedor associado não poderia estar em" Administradores "papel".</Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.Customers.Customers.AssociatedExternalAuth">
-    <Value>A autenticação externa</Value>
+  <LocaleResource Name="admin.customers.customers.associatedexternalauth">
+    <Value>Autenticação externa</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Customers.Customers.AssociatedExternalAuth.Fields.AuthMethodName">
     <Value>Método de autenticação</Value>
@@ -9729,8 +9729,8 @@
   <LocaleResource Name="Admin.Customers.Customers.Fields.LastVisitedPage.Hint">
     <Value>A última data visitada (arquivo público).</Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.Customers.Customers.Fields.Newsletter">
-    <Value>Boletim de Notícias</Value>
+  <LocaleResource Name="admin.customers.customers.fields.newsletter">
+    <Value>Receber novidades</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Customers.Customers.Fields.Newsletter.Hint">
     <Value>Verificar para subscrever a newsletter.</Value>
@@ -9753,11 +9753,11 @@
   <LocaleResource Name="Admin.Customers.Customers.Fields.Phone.Required">
     <Value>Telefone é necessária</Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.Customers.Customers.Fields.StateProvince">
-    <Value>Estado / Província</Value>
+  <LocaleResource Name="admin.customers.customers.fields.stateprovince">
+    <Value>Estado</Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.Customers.Customers.Fields.StateProvince.Hint">
-    <Value>O estado / província.</Value>
+  <LocaleResource Name="admin.customers.customers.fields.stateprovince.hint">
+    <Value>Estado</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Customers.Customers.Fields.StreetAddress">
     <Value>Endereço</Value>
@@ -9822,8 +9822,8 @@
   <LocaleResource Name="Admin.Customers.Customers.Fields.Vendor.None">
     <Value>Não é um fornecedor</Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.Customers.Customers.Fields.ZipPostalCode">
-    <Value>CEP / Código Postal</Value>
+  <LocaleResource Name="admin.customers.customers.fields.zippostalcode">
+    <Value>CEP</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Customers.Customers.Fields.ZipPostalCode.Hint">
     <Value>O CEP / postal.</Value>
@@ -10281,8 +10281,8 @@
   <LocaleResource Name="Admin.GiftCards.Fields.Message.Hint">
     <Value>Mensagem Enter".</Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.GiftCards.Fields.Order">
-    <Value>Ordem</Value>
+  <LocaleResource Name="admin.giftcards.fields.order">
+    <Value>Pedido</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.GiftCards.Fields.Order.Hint">
     <Value>O cartão de presente foi comprado com este fim.</Value>
@@ -10323,8 +10323,8 @@
   <LocaleResource Name="Admin.GiftCards.History.CreatedOn">
     <Value>Usado</Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.GiftCards.History.Order">
-    <Value>Ordem</Value>
+  <LocaleResource Name="admin.giftcards.history.order">
+    <Value>Pedido</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.GiftCards.History.UsedValue">
     <Value>Montante utilizado</Value>
@@ -10443,11 +10443,11 @@
   <LocaleResource Name="Admin.Orders.Address.Phone">
     <Value>Telefone</Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.Orders.Address.StateProvince">
-    <Value>Estado / Província</Value>
+  <LocaleResource Name="admin.orders.address.stateprovince">
+    <Value>Estado</Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.Orders.Address.ZipPostalCode">
-    <Value>CEP / Código Postal</Value>
+  <LocaleResource Name="admin.orders.address.zippostalcode">
+    <Value>CEP</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Orders.BackToList">
     <Value>Volta para lista de pedido</Value>
@@ -10743,8 +10743,8 @@
   <LocaleResource Name="Admin.Orders.Fields.PaymentStatus.Hint">
     <Value>O estado do pagamento.</Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.Orders.Fields.PickupAddress">
-    <Value>Endereço de ponto de captação</Value>
+  <LocaleResource Name="admin.orders.fields.pickupaddress">
+    <Value>Endereço de Entrega</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Orders.Fields.PickupAddress.Hint">
     <Value>Captura de Endereço ponto.</Value>
@@ -10899,8 +10899,8 @@
   <LocaleResource Name="Admin.Orders.List.OrderGuid.Hint">
     <Value>Pesquisa por GUID (identificador Global exclusivo) ou parte do GUID. Deixe em branco para carregar todos os pedidos.</Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.Orders.List.OrderNotes">
-    <Value>Ordem observa</Value>
+  <LocaleResource Name="admin.orders.list.ordernotes">
+    <Value>Observações do pedido</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Orders.List.OrderNotes.Hint">
     <Value>Pesquisar nas notas de encomenda. Deixe em branco para carregar todas as ordens.</Value>
@@ -10959,8 +10959,8 @@
   <LocaleResource Name="Admin.Orders.List.Warehouse.Hint">
     <Value>ordens de carga com produtos a partir de um armazém especificado.</Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.Orders.OrderNotes">
-    <Value>Ordem observa</Value>
+  <LocaleResource Name="admin.orders.ordernotes">
+    <Value>Observações do pedido</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Orders.OrderNotes.AddButton">
     <Value>Adicionar nota de encomenda</Value>
@@ -10992,8 +10992,8 @@
   <LocaleResource Name="Admin.Orders.OrderNotes.Fields.Download">
     <Value>Arquivo anexo</Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.Orders.OrderNotes.Fields.Download.HasDownload">
-    <Value>(Verifique para fazer o upload de arquivos)</Value>
+  <LocaleResource Name="admin.orders.ordernotes.fields.download.hasdownload">
+    <Value>(Marcar para fazer o upload de arquivos)</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Orders.OrderNotes.Fields.Download.Hint">
     <Value>Fazer upload de um arquivo anexado a esta nota de encomenda.</Value>
@@ -12042,8 +12042,8 @@
   <LocaleResource Name="Admin.Sales">
     <Value>Vendas</Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.SalesReport.Average">
-    <Value>Ordem totaliza</Value>
+  <LocaleResource Name="admin.salesreport.average">
+    <Value>Detalhes dos Pedidos</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.SalesReport.Average.OrderStatus">
     <Value>Status do pedido</Value>
@@ -12072,8 +12072,8 @@
   <LocaleResource Name="Admin.SalesReport.Bestsellers.BillingCountry.Hint">
     <Value>Filtrar por país de faturamento da ordem</Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.SalesReport.Bestsellers.ByAmount">
-    <Value>Os mais vendidos por quantidade</Value>
+  <LocaleResource Name="admin.salesreport.bestsellers.byamount">
+    <Value>Os mais vendidos por valor</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.SalesReport.Bestsellers.ByQuantity">
     <Value>Os mais vendidos por quantidade</Value>
@@ -12351,8 +12351,8 @@
   <LocaleResource Name="Admin.System.Maintenance.BackupDatabase.BackupNow">
     <Value>Backup agora</Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.System.Maintenance.BackupDatabase.DatabaseBackups">
-    <Value>banco de dados backups</Value>
+  <LocaleResource Name="admin.system.maintenance.backupdatabase.databasebackups">
+    <Value>BACKUP de banco de dados</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.System.Maintenance.BackupDatabase.DatabaseRestored">
     <Value>Banco de dados é restaurado</Value>
@@ -12375,8 +12375,8 @@
   <LocaleResource Name="Admin.System.Maintenance.BackupDatabase.Restore">
     <Value>Restaurar</Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.System.Maintenance.DeleteAbandonedCarts">
-    <Value>Excluindo carrinhos de compras abandonados</Value>
+  <LocaleResource Name="admin.system.maintenance.deleteabandonedcarts">
+    <Value>Exclusão de carrinhos de compras abandonados</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.System.Maintenance.DeleteAbandonedCarts.OlderThan">
     <Value>Criado antes</Value>
@@ -12387,8 +12387,8 @@
   <LocaleResource Name="Admin.System.Maintenance.DeleteAbandonedCarts.TotalDeleted">
     <Value>{0} itens foram apagados</Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.System.Maintenance.DeleteExportedFiles">
-    <Value>Apagando antiga exportados arquivos</Value>
+  <LocaleResource Name="admin.system.maintenance.deleteexportedfiles">
+    <Value>Exclusão de arquivos exportados</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.System.Maintenance.DeleteExportedFiles.EndDate">
     <Value>Data final</Value>
@@ -12405,8 +12405,8 @@
   <LocaleResource Name="Admin.System.Maintenance.DeleteExportedFiles.TotalDeleted">
     <Value>{0} arquivos foram apagados</Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.System.Maintenance.DeleteGuests">
-    <Value>Exclusão de clientes de hóspedes</Value>
+  <LocaleResource Name="admin.system.maintenance.deleteguests">
+    <Value>Exclusão de clientes sem cadastro</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.System.Maintenance.DeleteGuests.EndDate">
     <Value>Data final</Value>
@@ -12414,8 +12414,8 @@
   <LocaleResource Name="Admin.System.Maintenance.DeleteGuests.EndDate.Hint">
     <Value>A data final para a pesquisa.</Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.System.Maintenance.DeleteGuests.OnlyWithoutShoppingCart">
-    <Value>Só que sem carrinho de compras</Value>
+  <LocaleResource Name="admin.system.maintenance.deleteguests.onlywithoutshoppingcart">
+    <Value>Somente quem não tiver carrinho de compras</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.System.Maintenance.DeleteGuests.OnlyWithoutShoppingCart.Hint">
     <Value>Um valor que indica se é preciso encontrar clientes sem carrinhos de compras / lista de desejos. Se nada for feito, em seguida, todos os clientes serão encontrados.</Value>
@@ -12639,11 +12639,11 @@
   <LocaleResource Name="Admin.System.ScheduleTasks.Enabled">
     <Value>Ativado</Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.System.ScheduleTasks.LastEnd">
-    <Value>Data final Last</Value>
+  <LocaleResource Name="admin.system.scheduletasks.lastend">
+    <Value>Finilizada em</Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.System.ScheduleTasks.LastStart">
-    <Value>Última data de início</Value>
+  <LocaleResource Name="admin.system.scheduletasks.laststart">
+    <Value>Iniciada em</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.System.ScheduleTasks.LastSuccess">
     <Value>Data do sucesso</Value>
@@ -12654,20 +12654,20 @@
   <LocaleResource Name="Admin.System.ScheduleTasks.Name.Required">
     <Value>O nome é obrigatório</Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.System.ScheduleTasks.RestartApplication">
-    <Value>Não se esqueceu de reiniciar a aplicação uma vez por tarefa foi modificado.</Value>
+  <LocaleResource Name="admin.system.scheduletasks.restartapplication">
+    <Value>**Não se esqueça de reiniciar a aplicação uma vez que a tarefa foi modificada.</Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.System.ScheduleTasks.RunNow">
-    <Value>Corra agora</Value>
+  <LocaleResource Name="admin.system.scheduletasks.runnow">
+    <Value>Executrar agora</Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.System.ScheduleTasks.RunNow.Done">
-    <Value>Agendar tarefa foi executada</Value>
+  <LocaleResource Name="admin.system.scheduletasks.runnow.done">
+    <Value>Tarefa agendada executada</Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.System.ScheduleTasks.RunNow.Progress">
-    <Value>A execução da tarefa schedule</Value>
+  <LocaleResource Name="admin.system.scheduletasks.runnow.progress">
+    <Value>Executando a tarefa</Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.System.ScheduleTasks.Seconds">
-    <Value>Segundos (período de execução)</Value>
+  <LocaleResource Name="admin.system.scheduletasks.seconds">
+    <Value>Segundos (ms)</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.System.ScheduleTasks.Seconds.Positive">
     <Value>Segundos deve ser positivo</Value>
@@ -12684,8 +12684,8 @@
   <LocaleResource Name="admin.system.senames.details">
     <Value>Editar Página</Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.System.SeNames.EntityId">
-    <Value>Entidade ID</Value>
+  <LocaleResource Name="admin.system.senames.entityid">
+    <Value>ID (código)</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.System.SeNames.EntityName">
     <Value>Nome da entidade</Value>
@@ -12909,14 +12909,14 @@
   <LocaleResource Name="Admin.System.Warnings.Performance.IgnoreAcl">
     <Value>Performance. Recomendado para ignorar regras ACL se você não usá-los (as configurações de catálogo)</Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.System.Warnings.Performance.IgnoreAcl.Notification">
-    <Value>Para poder utilizar esta funcionalidade você tem que desativar a seguinte configuração: Configurações do catálogo&gt; Ignorar regras ACL (site inteiro).</Value>
+  <LocaleResource Name="admin.system.warnings.performance.ignoreacl.notification">
+    <Value>Para poder utilizar esta funcionalidade você tem que desativar a seguinte configuração: "Configurações do catálogo/Ignorar regras ACL (site inteiro)".</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.System.Warnings.Performance.IgnoreStoreLimitations">
     <Value>Performance. Você usa apenas uma loja. Recomendado para ignorar limitações de loja (configurações de catálogo)</Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.System.Warnings.Performance.IgnoreStoreLimitations.Notification">
-    <Value>Para poder utilizar esta funcionalidade você tem que desativar a seguinte configuração: Configurações do catálogo&gt; Ignorar" limite por loja "regras".</Value>
+  <LocaleResource Name="admin.system.warnings.performance.ignorestorelimitations.notification">
+    <Value>Para poder utilizar esta funcionalidade você tem que desativar a seguinte configuração: "Configurações do catálogo/Ignorar limite por loja em/regras".</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.System.Warnings.PrimaryCurrency.NotSet">
     <Value>Store primário moeda não está definido</Value>
@@ -13261,7 +13261,7 @@
     <Value>Definir ordem de exibição do fornecedor. 1 representa o topo da lista.</Value>
   </LocaleResource>
   <LocaleResource Name="admin.vendors.fields.email">
-    <Value>O e-mail</Value>
+    <Value>e-mail</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Vendors.Fields.Email.Hint">
     <Value>Enter e-mail</Value>
@@ -13482,8 +13482,8 @@
   <LocaleResource Name="Categories.ViewMode.List">
     <Value>Lista</Value>
   </LocaleResource>
-  <LocaleResource Name="Checkout">
-    <Value>Confira</Value>
+  <LocaleResource Name="checkout">
+    <Value>Confirmar Pedido</Value>
   </LocaleResource>
   <LocaleResource Name="Checkout.BillingAddress">
     <Value>Endereço de cobrança</Value>
@@ -13491,14 +13491,14 @@
   <LocaleResource Name="Checkout.BillToThisAddress">
     <Value>Bill para este endereço</Value>
   </LocaleResource>
-  <LocaleResource Name="Checkout.Button">
-    <Value>Confira</Value>
+  <LocaleResource Name="checkout.button">
+    <Value>Confirmar</Value>
   </LocaleResource>
   <LocaleResource Name="Checkout.ConfirmButton">
     <Value>Confirmar</Value>
   </LocaleResource>
-  <LocaleResource Name="Checkout.ConfirmOrder">
-    <Value>Confirmar pedido</Value>
+  <LocaleResource Name="checkout.confirmorder">
+    <Value>Confirmar Pedido</Value>
   </LocaleResource>
   <LocaleResource Name="Checkout.ConfirmYourOrder">
     <Value>Confirme seu pedido</Value>
@@ -13557,11 +13557,11 @@
   <LocaleResource Name="Checkout.PickUpInStore.MethodName">
     <Value>Captura de In-Store</Value>
   </LocaleResource>
-  <LocaleResource Name="Checkout.PickUpInStoreAndFee">
-    <Value>pegar na loja ({0})</Value>
+  <LocaleResource Name="checkout.pickupinstoreandfee">
+    <Value>Pegar na loja ({0})</Value>
   </LocaleResource>
-  <LocaleResource Name="Checkout.PickupPoints">
-    <Value>Pegar</Value>
+  <LocaleResource Name="checkout.pickuppoints">
+    <Value>Pegar em nossa Loja</Value>
   </LocaleResource>
   <LocaleResource Name="Checkout.PickupPoints.Description">
     <Value>Pegue seus itens na loja</Value>
@@ -13575,8 +13575,8 @@
   <LocaleResource Name="Checkout.PickupPoints.SelectPickupPoint">
     <Value>Selecionar ponto de captação</Value>
   </LocaleResource>
-  <LocaleResource Name="Checkout.PlacedOrderDetails">
-    <Value>Clique aqui para obter detalhes do pedido.</Value>
+  <LocaleResource Name="checkout.placedorderdetails">
+    <Value>Clique aqui para ver detalhes do pedido.</Value>
   </LocaleResource>
   <LocaleResource Name="Checkout.Progress.Address">
     <Value>Endereço</Value>
@@ -13593,8 +13593,8 @@
   <LocaleResource Name="Checkout.Progress.Payment">
     <Value>Pagamento</Value>
   </LocaleResource>
-  <LocaleResource Name="Checkout.Progress.Shipping">
-    <Value>Remessa</Value>
+  <LocaleResource Name="checkout.progress.shipping">
+    <Value>Forma de envio</Value>
   </LocaleResource>
   <LocaleResource Name="Checkout.SelectBillingAddress">
     <Value>Select endereço de cobrança</Value>
@@ -13677,8 +13677,8 @@
   <LocaleResource Name="Common.AreYouSure">
     <Value>Você tem certeza?</Value>
   </LocaleResource>
-  <LocaleResource Name="Common.Back">
-    <Value>Costas</Value>
+  <LocaleResource Name="common.back">
+    <Value>Anterior</Value>
   </LocaleResource>
   <LocaleResource Name="Common.Cancel">
     <Value>Cancelar</Value>
@@ -13776,8 +13776,8 @@
   <LocaleResource Name="Common.Search">
     <Value>Pesquisa</Value>
   </LocaleResource>
-  <LocaleResource Name="Common.Show">
-    <Value>Exposição</Value>
+  <LocaleResource Name="common.show">
+    <Value>Mostrar</Value>
   </LocaleResource>
   <LocaleResource Name="Common.Upload">
     <Value>Envio</Value>
@@ -13794,8 +13794,8 @@
   <LocaleResource Name="Common.WrongCaptcha">
     <Value>Os personagens não corresponder à imagem. Por favor tente novamente.</Value>
   </LocaleResource>
-  <LocaleResource Name="Common.WrongCaptchaV2">
-    <Value>A resposta reCAPTCHA é inválido ou mal formado. Por favor tente novamente.</Value>
+  <LocaleResource Name="common.wrongcaptchav2">
+    <Value>Sua resposta para reCAPTCHA é inválida ou informada incorretamente. Por favor tente novamente.</Value>
   </LocaleResource>
   <LocaleResource Name="Common.WrongEmail">
     <Value>E-mail errado</Value>
@@ -14097,8 +14097,8 @@
   <LocaleResource Name="Enums.Nop.Core.Domain.Customers.CustomerNameFormat.ShowUsernames">
     <Value>Mostrar nomes de usuários</Value>
   </LocaleResource>
-  <LocaleResource Name="Enums.Nop.Core.Domain.Customers.PasswordFormat.Clear">
-    <Value>Claro</Value>
+  <LocaleResource Name="enums.nop.core.domain.customers.passwordformat.clear">
+    <Value>Limpa</Value>
   </LocaleResource>
   <LocaleResource Name="Enums.Nop.Core.Domain.Customers.PasswordFormat.Encrypted">
     <Value>Criptografados</Value>
@@ -14238,8 +14238,8 @@
   <LocaleResource Name="Enums.Nop.Core.Domain.Payments.PaymentStatus.Voided">
     <Value>Anulado</Value>
   </LocaleResource>
-  <LocaleResource Name="Enums.Nop.Core.Domain.Security.PasswordFormat.Clear">
-    <Value>Claro</Value>
+  <LocaleResource Name="enums.nop.core.domain.security.passwordformat.clear">
+    <Value>Limpa</Value>
   </LocaleResource>
   <LocaleResource Name="Enums.Nop.Core.Domain.Security.PasswordFormat.Encrypted">
     <Value>Criptografados</Value>
@@ -14898,8 +14898,8 @@
   <LocaleResource Name="Messages.Order.RewardPoints">
     <Value>{0} pontos de recompensa:</Value>
   </LocaleResource>
-  <LocaleResource Name="Messages.Order.Shipping">
-    <Value>Remessa:</Value>
+  <LocaleResource Name="messages.order.shipping">
+    <Value>Forma de envio:</Value>
   </LocaleResource>
   <LocaleResource Name="Messages.Order.SubTotal">
     <Value>Subtotal:</Value>
@@ -14985,8 +14985,8 @@
   <LocaleResource Name="Newsletter.Options.Send">
     <Value>Enviar</Value>
   </LocaleResource>
-  <LocaleResource Name="Newsletter.Options.Subscribe">
-    <Value>Se inscrever</Value>
+  <LocaleResource Name="newsletter.options.subscribe">
+    <Value>Inscrever</Value>
   </LocaleResource>
   <LocaleResource Name="Newsletter.Options.Unsubscribe">
     <Value>Cancelar subscrição</Value>
@@ -15003,8 +15003,8 @@
   <LocaleResource Name="Newsletter.SubscribeEmailSent">
     <Value>Obrigado por se inscrever! Um e-mail de confirmação foi enviado. Nós apreciamos seu interesse.</Value>
   </LocaleResource>
-  <LocaleResource Name="Newsletter.Title">
-    <Value>Boletim de Notícias</Value>
+  <LocaleResource Name="newsletter.title">
+    <Value>Receber novidades</Value>
   </LocaleResource>
   <LocaleResource Name="Newsletter.UnsubscribeEmailSent">
     <Value>Um e-mail de confirmação foi enviado. Obrigado!</Value>
@@ -15019,7 +15019,7 @@
     <Value>Este pedido ainda não foi concluído. Para concluir agora clique no botão "Concluir pagamento".</Value>
   </LocaleResource>
   <LocaleResource Name="order.email">
-    <Value>O e-mail</Value>
+    <Value>e-mail</Value>
   </LocaleResource>
   <LocaleResource Name="Order.Fax">
     <Value>Fax</Value>
@@ -15042,20 +15042,20 @@
   <LocaleResource Name="Order.Notes.Note">
     <Value>Nota</Value>
   </LocaleResource>
-  <LocaleResource Name="Order.Order#">
-    <Value>Ordem</Value>
+  <LocaleResource Name="order.order#">
+    <Value>Pedido N.</Value>
   </LocaleResource>
   <LocaleResource Name="Order.OrderDate">
     <Value>Data do pedido</Value>
   </LocaleResource>
-  <LocaleResource Name="Order.OrderInformation">
-    <Value>Informação Order</Value>
+  <LocaleResource Name="order.orderinformation">
+    <Value>Informação do Pedido</Value>
   </LocaleResource>
   <LocaleResource Name="Order.OrderStatus">
     <Value>Status do pedido</Value>
   </LocaleResource>
-  <LocaleResource Name="Order.OrderTotal">
-    <Value>Total de pedidos</Value>
+  <LocaleResource Name="order.ordertotal">
+    <Value>Total do pedido</Value>
   </LocaleResource>
   <LocaleResource Name="order.payment">
     <Value>Pagamento</Value>
@@ -15075,14 +15075,14 @@
   <LocaleResource Name="Order.Phone">
     <Value>Telefone</Value>
   </LocaleResource>
-  <LocaleResource Name="Order.PickupAddress">
-    <Value>Endereço de ponto de captação</Value>
+  <LocaleResource Name="order.pickupaddress">
+    <Value>Endereço de Entrega</Value>
   </LocaleResource>
   <LocaleResource Name="Order.Print">
     <Value>Impressão</Value>
   </LocaleResource>
-  <LocaleResource Name="Order.Product(s)">
-    <Value>Produtos)</Value>
+  <LocaleResource Name="order.product(s)">
+    <Value>Produto(s)</Value>
   </LocaleResource>
   <LocaleResource Name="Order.Product(s).Name">
     <Value>Nome</Value>
@@ -15099,14 +15099,14 @@
   <LocaleResource Name="Order.Product(s).Total">
     <Value>Total</Value>
   </LocaleResource>
-  <LocaleResource Name="Order.PurchaseOrderNumber">
-    <Value>Número de ordem do pedido</Value>
+  <LocaleResource Name="order.purchaseordernumber">
+    <Value>Número do pedido</Value>
   </LocaleResource>
   <LocaleResource Name="Order.Rental.FormattedDate">
     <Value>Data de início:. {0} Fim: {1}.</Value>
   </LocaleResource>
-  <LocaleResource Name="Order.Reorder">
-    <Value>Reordenar</Value>
+  <LocaleResource Name="order.reorder">
+    <Value>Fazer outro pedido igual a este</Value>
   </LocaleResource>
   <LocaleResource Name="order.retrypayment">
     <Value>Repetir de pagamento</Value>
@@ -15130,25 +15130,25 @@
     <Value>Ainda não</Value>
   </LocaleResource>
   <LocaleResource Name="order.shipments.email">
-    <Value>O e-mail</Value>
+    <Value>e-mail</Value>
   </LocaleResource>
   <LocaleResource Name="Order.Shipments.Fax">
     <Value>Fax</Value>
   </LocaleResource>
-  <LocaleResource Name="Order.Shipments.ID">
-    <Value>Remessa #</Value>
+  <LocaleResource Name="order.shipments.id">
+    <Value>Envio #</Value>
   </LocaleResource>
-  <LocaleResource Name="Order.Shipments.Information">
-    <Value>Remessa #{0}</Value>
+  <LocaleResource Name="order.shipments.information">
+    <Value>Envio N.{0}</Value>
   </LocaleResource>
-  <LocaleResource Name="Order.Shipments.Order#">
-    <Value>Ordem #</Value>
+  <LocaleResource Name="order.shipments.order#">
+    <Value>Pedido #</Value>
   </LocaleResource>
   <LocaleResource Name="Order.Shipments.Phone">
     <Value>Telefone</Value>
   </LocaleResource>
-  <LocaleResource Name="Order.Shipments.PickupAddress">
-    <Value>Endereço de ponto de captação</Value>
+  <LocaleResource Name="order.shipments.pickupaddress">
+    <Value>Endereço de Entrega</Value>
   </LocaleResource>
   <LocaleResource Name="Order.Shipments.Product(s)">
     <Value>Produto (s) Enviado</Value>
@@ -15195,8 +15195,8 @@
   <LocaleResource Name="Order.ShipmentStatusEvents.Location">
     <Value>Localização</Value>
   </LocaleResource>
-  <LocaleResource Name="Order.Shipping">
-    <Value>Remessa</Value>
+  <LocaleResource Name="order.shipping">
+    <Value>Forma de envio</Value>
   </LocaleResource>
   <LocaleResource Name="order.shipping.name">
     <Value>Método de envio</Value>
@@ -15279,8 +15279,8 @@
   <LocaleResource Name="PageTitle.Blog">
     <Value>Blog</Value>
   </LocaleResource>
-  <LocaleResource Name="PageTitle.Checkout">
-    <Value>Confira</Value>
+  <LocaleResource Name="pagetitle.checkout">
+    <Value>Confiramar</Value>
   </LocaleResource>
   <LocaleResource Name="PageTitle.CompareProducts">
     <Value>Comparar produtos</Value>
@@ -15309,8 +15309,8 @@
   <LocaleResource Name="PageTitle.NewsArchive">
     <Value>Arquivo de Notícias</Value>
   </LocaleResource>
-  <LocaleResource Name="PageTitle.OrderDetails">
-    <Value>Detalhes do pedido</Value>
+  <LocaleResource Name="pagetitle.orderdetails">
+    <Value>Detalhes dos pedido</Value>
   </LocaleResource>
   <LocaleResource Name="pagetitle.pagenotfound">
     <Value>Página não encontrada</Value>
@@ -15354,8 +15354,8 @@
   <LocaleResource Name="PageTitle.ShipmentDetails">
     <Value>detalhes da expedição</Value>
   </LocaleResource>
-  <LocaleResource Name="PageTitle.ShoppingCart">
-    <Value>Carrinho de compras</Value>
+  <LocaleResource Name="pagetitle.shoppingcart">
+    <Value>Meu Carrinho</Value>
   </LocaleResource>
   <LocaleResource Name="PageTitle.Sitemap">
     <Value>Mapa do Site</Value>
@@ -15492,14 +15492,14 @@
   <LocaleResource Name="PDFInvoice.ProductTotal">
     <Value>Total</Value>
   </LocaleResource>
-  <LocaleResource Name="PDFInvoice.PurchaseOrderNumber">
-    <Value>Número de ordem do pedido: {0}</Value>
+  <LocaleResource Name="pdfinvoice.purchaseordernumber">
+    <Value>Número do pedido: {0}</Value>
   </LocaleResource>
   <LocaleResource Name="PDFInvoice.RewardPoints">
     <Value>{0} pontos de recompensa:</Value>
   </LocaleResource>
-  <LocaleResource Name="PDFInvoice.Shipping">
-    <Value>Remessa:</Value>
+  <LocaleResource Name="pdfinvoice.shipping">
+    <Value>Forma de envio:</Value>
   </LocaleResource>
   <LocaleResource Name="PDFInvoice.ShippingInformation">
     <Value>Informação de envio:</Value>
@@ -15546,8 +15546,8 @@
   <LocaleResource Name="PDFPackagingSlip.QTY">
     <Value>Quantidade</Value>
   </LocaleResource>
-  <LocaleResource Name="PDFPackagingSlip.Shipment">
-    <Value>Remessa #{0}</Value>
+  <LocaleResource Name="pdfpackagingslip.shipment">
+    <Value>Forma de envio N.{0}</Value>
   </LocaleResource>
   <LocaleResource Name="PDFPackagingSlip.ShippingMethod">
     <Value>Método de envio: {0}</Value>
@@ -15582,11 +15582,11 @@
   <LocaleResource Name="Permission.DisplayPrices">
     <Value>Arquivo público. Mostrar preços</Value>
   </LocaleResource>
-  <LocaleResource Name="Permission.EnableShoppingCart">
-    <Value>Store Pública. Ativar carrinho de compras</Value>
+  <LocaleResource Name="permission.enableshoppingcart">
+    <Value>Loja Púbica. Ativar carrinho de compras</Value>
   </LocaleResource>
-  <LocaleResource Name="Permission.EnableWishlist">
-    <Value>Store Pública. Ativar lista</Value>
+  <LocaleResource Name="permission.enablewishlist">
+    <Value>Loja Púbica. Ativar lista</Value>
   </LocaleResource>
   <LocaleResource Name="Permission.HtmlEditor.ManagePictures">
     <Value>Área de administração. Editor de HTML. Para gerenciar imagens</Value>
@@ -15720,8 +15720,8 @@
   <LocaleResource Name="Permission.OrderCountryReport">
     <Value>Relatório nacional de administração área. Modo de acesso</Value>
   </LocaleResource>
-  <LocaleResource Name="Permission.PublicStoreAllowNavigation">
-    <Value>Store Pública. Permitir navegação</Value>
+  <LocaleResource Name="permission.publicstoreallownavigation">
+    <Value>Loja Púbica. Permitir navegação</Value>
   </LocaleResource>
   <LocaleResource Name="Plugins.DiscountRules.BillingCountry.Fields.Country">
     <Value>País de cobrança</Value>
@@ -16062,8 +16062,8 @@
   <LocaleResource Name="Plugins.Payments.AuthorizeNet.Fields.UseSandbox">
     <Value>Use Sandbox</Value>
   </LocaleResource>
-  <LocaleResource Name="Plugins.Payments.AuthorizeNet.Fields.UseSandbox.Hint">
-    <Value>Verificar a permitir Sandbox (ambiente de teste).</Value>
+  <LocaleResource Name="plugins.payments.authorizenet.fields.usesandbox.hint">
+    <Value>Marcar para permitir Sandbox (ambiente de teste).</Value>
   </LocaleResource>
   <LocaleResource Name="Plugins.Payments.AuthorizeNet.Notes">
     <Value>Se você está usando este gateway, garantir que a sua moeda loja principal é apoiado por Authorize.NET.</Value>
@@ -16185,8 +16185,8 @@
   <LocaleResource Name="Plugins.Payments.PayPalDirect.Fields.UseSandbox">
     <Value>Use Sandbox</Value>
   </LocaleResource>
-  <LocaleResource Name="Plugins.Payments.PayPalDirect.Fields.UseSandbox.Hint">
-    <Value>Verificar a permitir Sandbox (ambiente de teste).</Value>
+  <LocaleResource Name="plugins.payments.paypaldirect.fields.usesandbox.hint">
+    <Value>Marcar para permitir Sandbox (ambiente de teste).</Value>
   </LocaleResource>
   <LocaleResource Name="Plugins.Payments.PayPalStandard.Fields.AdditionalFee">
     <Value>Taxa adicional</Value>
@@ -16257,8 +16257,8 @@
   <LocaleResource Name="Plugins.Payments.PayPalStandard.Fields.UseSandbox">
     <Value>Use Sandbox</Value>
   </LocaleResource>
-  <LocaleResource Name="Plugins.Payments.PayPalStandard.Fields.UseSandbox.Hint">
-    <Value>Verificar a permitir Sandbox (ambiente de teste).</Value>
+  <LocaleResource Name="plugins.payments.paypalstandard.fields.usesandbox.hint">
+    <Value>Marcar para permitir Sandbox (ambiente de teste).</Value>
   </LocaleResource>
   <LocaleResource Name="Plugins.Pickup.PickupInStore.AddNew">
     <Value>Adicionar um novo ponto de captação</Value>
@@ -16374,8 +16374,8 @@
   <LocaleResource Name="Plugins.Shipping.ByWeight.Fields.ShippingMethod.Hint">
     <Value>O método de envio.</Value>
   </LocaleResource>
-  <LocaleResource Name="Plugins.Shipping.ByWeight.Fields.StateProvince">
-    <Value>Estado / Província</Value>
+  <LocaleResource Name="plugins.shipping.byweight.fields.stateprovince">
+    <Value>Estado</Value>
   </LocaleResource>
   <LocaleResource Name="Plugins.Shipping.ByWeight.Fields.StateProvince.Hint">
     <Value>Se um asterisco é selecionada, então esta taxa de envio será aplicada a todos os clientes a partir do país em questão, independentemente do estado.</Value>
@@ -16443,8 +16443,8 @@
   <LocaleResource Name="Plugins.Shipping.CanadaPost.Fields.UseSandbox">
     <Value>Use Sandbox</Value>
   </LocaleResource>
-  <LocaleResource Name="Plugins.Shipping.CanadaPost.Fields.UseSandbox.Hint">
-    <Value>Verificar a permitir Sandbox (ambiente de teste).</Value>
+  <LocaleResource Name="plugins.shipping.canadapost.fields.usesandbox.hint">
+    <Value>Marcar para permitir Sandbox (ambiente de teste).</Value>
   </LocaleResource>
   <LocaleResource Name="Plugins.Shipping.Fedex.Fields.AccountNumber">
     <Value>Número da conta</Value>
@@ -16728,8 +16728,8 @@
   <LocaleResource Name="Plugins.Sms.Verizon.Fields.Enabled">
     <Value>Ativado</Value>
   </LocaleResource>
-  <LocaleResource Name="Plugins.Sms.Verizon.Fields.Enabled.Hint">
-    <Value>Verificar a permitir provedor de SMS</Value>
+  <LocaleResource Name="plugins.sms.verizon.fields.enabled.hint">
+    <Value>Marcar para permitir provedor de SMS</Value>
   </LocaleResource>
   <LocaleResource Name="Plugins.Sms.Verizon.Fields.TestMessage">
     <Value>Mensagem de texto</Value>
@@ -16767,8 +16767,8 @@
   <LocaleResource Name="Plugins.Tax.CountryStateZip.Fields.Percentage.Hint">
     <Value>A taxa de imposto.</Value>
   </LocaleResource>
-  <LocaleResource Name="Plugins.Tax.CountryStateZip.Fields.StateProvince">
-    <Value>Estado / Província</Value>
+  <LocaleResource Name="plugins.tax.countrystatezip.fields.stateprovince">
+    <Value>Estado</Value>
   </LocaleResource>
   <LocaleResource Name="Plugins.Tax.CountryStateZip.Fields.StateProvince.Hint">
     <Value>Se um asterisco é selecionada, então esta taxa de imposto será aplicado a todos os clientes a partir do país em questão, independentemente do estado.</Value>
@@ -17505,11 +17505,11 @@
   <LocaleResource Name="ShippingReturns">
     <Value>Envio &amp; Devoluções</Value>
   </LocaleResource>
-  <LocaleResource Name="ShoppingCart">
-    <Value>Carrinho de compras</Value>
+  <LocaleResource Name="shoppingcart">
+    <Value>Meu Carrinho</Value>
   </LocaleResource>
-  <LocaleResource Name="ShoppingCart.AddToCart">
-    <Value>Adicionar ao cartão</Value>
+  <LocaleResource Name="shoppingcart.addtocart">
+    <Value>Comprar</Value>
   </LocaleResource>
   <LocaleResource Name="ShoppingCart.AddToCart.Update">
     <Value>Atualizar</Value>
@@ -17583,17 +17583,17 @@
   <LocaleResource Name="ShoppingCart.DiscountCouponCode.CurrentCode">
     <Value>Código inserido cupom - {0}</Value>
   </LocaleResource>
-  <LocaleResource Name="ShoppingCart.DiscountCouponCode.Tooltip">
-    <Value>Digite seu cupão aqui</Value>
+  <LocaleResource Name="shoppingcart.discountcouponcode.tooltip">
+    <Value>Digite seu cupom aqui</Value>
   </LocaleResource>
   <LocaleResource Name="ShoppingCart.DiscountCouponCode.WrongDiscount">
     <Value>O código de cupom digitado não poderia ser aplicado a seu pedido</Value>
   </LocaleResource>
-  <LocaleResource Name="ShoppingCart.EstimateShipping">
-    <Value>Estimativa de envio</Value>
+  <LocaleResource Name="shoppingcart.estimateshipping">
+    <Value>Calcular valor do frete</Value>
   </LocaleResource>
-  <LocaleResource Name="ShoppingCart.EstimateShipping.Button">
-    <Value>Estimativa de envio</Value>
+  <LocaleResource Name="shoppingcart.estimateshipping.button">
+    <Value>Calcular Frete</Value>
   </LocaleResource>
   <LocaleResource Name="ShoppingCart.EstimateShipping.Country">
     <Value>País</Value>
@@ -17601,14 +17601,14 @@
   <LocaleResource Name="ShoppingCart.EstimateShipping.ShippingOptionWithRate">
     <Value>{0} ({1})</Value>
   </LocaleResource>
-  <LocaleResource Name="ShoppingCart.EstimateShipping.StateProvince">
-    <Value>Estado / Província</Value>
+  <LocaleResource Name="shoppingcart.estimateshipping.stateprovince">
+    <Value>Estado</Value>
   </LocaleResource>
-  <LocaleResource Name="ShoppingCart.EstimateShipping.Tooltip">
-    <Value>Insira o seu destino para obter uma estimativa de envio</Value>
+  <LocaleResource Name="shoppingcart.estimateshipping.tooltip">
+    <Value>Insira o destino para obter uma estimativa de frete</Value>
   </LocaleResource>
-  <LocaleResource Name="ShoppingCart.EstimateShipping.ZipPostalCode">
-    <Value>CEP / Código Postal</Value>
+  <LocaleResource Name="shoppingcart.estimateshipping.zippostalcode">
+    <Value>CEP</Value>
   </LocaleResource>
   <LocaleResource Name="ShoppingCart.FileUploaded">
     <Value>O arquivo enviado com sucesso!</Value>
@@ -17655,11 +17655,11 @@
   <LocaleResource Name="ShoppingCart.MaximumWishlistItems">
     <Value>O número máximo de produtos distintos permitido na lista é {0}.</Value>
   </LocaleResource>
-  <LocaleResource Name="ShoppingCart.Mini.Items">
-    <Value>{0} item (s)</Value>
+  <LocaleResource Name="shoppingcart.mini.items">
+    <Value>{0} item(ns)</Value>
   </LocaleResource>
-  <LocaleResource Name="ShoppingCart.Mini.ItemsText">
-    <Value>Há {0} estão em seu carrinho.</Value>
+  <LocaleResource Name="shoppingcart.mini.itemstext">
+    <Value>Há {0} em seu carrinho.</Value>
   </LocaleResource>
   <LocaleResource Name="ShoppingCart.Mini.NoItems">
     <Value>Você não tem itens no seu carrinho de compras.</Value>
@@ -17667,8 +17667,8 @@
   <LocaleResource Name="ShoppingCart.Mini.OneItem">
     <Value>1 item</Value>
   </LocaleResource>
-  <LocaleResource Name="ShoppingCart.Mini.OneItemText">
-    <Value>Há {0} no seu carrinho.</Value>
+  <LocaleResource Name="shoppingcart.mini.oneitemtext">
+    <Value>Há {0} em seu carrinho.</Value>
   </LocaleResource>
   <LocaleResource Name="ShoppingCart.Mini.Quantity">
     <Value>Quantidade</Value>
@@ -17679,11 +17679,11 @@
   <LocaleResource Name="ShoppingCart.Mini.SeveralItemsText">
     <Value>Existem {0} no seu carrinho.</Value>
   </LocaleResource>
-  <LocaleResource Name="ShoppingCart.Mini.UnitPrice">
-    <Value>Preço unitário</Value>
+  <LocaleResource Name="shoppingcart.mini.unitprice">
+    <Value>Valor unitário</Value>
   </LocaleResource>
-  <LocaleResource Name="ShoppingCart.Mini.ViewCart">
-    <Value>Vá ao carrinho</Value>
+  <LocaleResource Name="shoppingcart.mini.viewcart">
+    <Value>Ver Carrinho</Value>
   </LocaleResource>
   <LocaleResource Name="ShoppingCart.MinimumQuantity">
     <Value>A quantidade mínima permitida para compra é {0}.</Value>
@@ -17772,8 +17772,8 @@
   <LocaleResource Name="ShoppingCart.TextboxMinimumLength">
     <Value>{0}: comprimento mínimo é {1} caracteres</Value>
   </LocaleResource>
-  <LocaleResource Name="ShoppingCart.Totals.CalculatedDuringCheckout">
-    <Value>Calculado durante check-out</Value>
+  <LocaleResource Name="shoppingcart.totals.calculatedduringcheckout">
+    <Value>Calculado no fechamento</Value>
   </LocaleResource>
   <LocaleResource Name="ShoppingCart.Totals.GiftCardInfo">
     <Value>Cartão presente</Value>
@@ -17802,8 +17802,8 @@
   <LocaleResource Name="ShoppingCart.Totals.RewardPoints.WillEarn.Point">
     <Value>{0} pontos</Value>
   </LocaleResource>
-  <LocaleResource Name="ShoppingCart.Totals.Shipping">
-    <Value>Remessa</Value>
+  <LocaleResource Name="shoppingcart.totals.shipping">
+    <Value>Forma de envio</Value>
   </LocaleResource>
   <LocaleResource Name="ShoppingCart.Totals.Shipping.Method">
     <Value>({0})</Value>
@@ -17896,7 +17896,7 @@
     <Value>Descrição</Value>
   </LocaleResource>
   <LocaleResource Name="vendors.applyaccount.email">
-    <Value>O e-mail</Value>
+    <Value>e-mail</Value>
   </LocaleResource>
   <LocaleResource Name="vendors.applyaccount.email.hint">
     <Value>Insira o seu endereço de e-mail</Value>
