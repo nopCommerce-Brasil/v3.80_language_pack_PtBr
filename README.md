@@ -1,4 +1,4 @@
-# LanguagePack Português Brasil (PtBr) - Atualizado em 02/11/2016  v3.80.04
+# LanguagePack Português Brasil (PtBr) - Atualizado em 18/12/2016  v3.80.04
 
 
 Este repositório contém o pacote original do nopCommerce 3.80 idioma(En) traduzido para o Português Brasileiro.
