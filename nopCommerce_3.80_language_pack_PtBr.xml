@@ -366,8 +366,8 @@
   <LocaleResource Name="Account.Fields.StreetAddress.Required">
     <Value>Endereço obrigatório</Value>
   </LocaleResource>
-  <LocaleResource Name="Account.Fields.StreetAddress2">
-    <Value>Endereço complementar</Value>
+  <LocaleResource Name="account.fields.streetaddress2">
+    <Value>Complemento</Value>
   </LocaleResource>
   <LocaleResource Name="Account.Fields.StreetAddress2.Required">
     <Value>Endereço complementar é obrigatório</Value>
@@ -423,8 +423,8 @@
   <LocaleResource Name="Account.ImpersonatedAs.Finish.Hint">
     <Value>Clique aqui para terminar a sessão</Value>
   </LocaleResource>
-  <LocaleResource Name="Account.Login">
-    <Value>Entrar</Value>
+  <LocaleResource Name="account.login">
+    <Value>Minha Conta</Value>
   </LocaleResource>
   <LocaleResource Name="Account.Login.CheckoutAsGuest">
     <Value>Finalizar como convidado</Value>
@@ -450,8 +450,8 @@
   <LocaleResource Name="Account.Login.ForgotPassword">
     <Value>Esqueceu a seunha?</Value>
   </LocaleResource>
-  <LocaleResource Name="Account.Login.LoginButton">
-    <Value>Entrar</Value>
+  <LocaleResource Name="account.login.loginbutton">
+    <Value>Continuar</Value>
   </LocaleResource>
   <LocaleResource Name="Account.Login.NewCustomer">
     <Value>Novo cadastro</Value>
@@ -459,8 +459,8 @@
   <LocaleResource Name="Account.Login.NewCustomerText">
     <Value>Ao criar uma conta em nosso site, você será capaz de fazer compras mais rápido, ser atualizado do estado das compras, e manter o controle de suas compras.</Value>
   </LocaleResource>
-  <LocaleResource Name="Account.Login.ReturningCustomer">
-    <Value>Retorno do cliente</Value>
+  <LocaleResource Name="account.login.returningcustomer">
+    <Value>Já sou cadastrado</Value>
   </LocaleResource>
   <LocaleResource Name="Account.Login.Unsuccessful">
     <Value>Login sem êxito. Por favor corrija os erros e tente novamente.</Value>
@@ -495,8 +495,8 @@
   <LocaleResource Name="Account.Navigation">
     <Value>Minha Conta</Value>
   </LocaleResource>
-  <LocaleResource Name="Account.Options">
-    <Value>Opções</Value>
+  <LocaleResource Name="account.options">
+    <Value>Finalizando</Value>
   </LocaleResource>
   <LocaleResource Name="Account.PasswordRecovery">
     <Value>Recuperar senha</Value>
@@ -639,8 +639,8 @@
   <LocaleResource Name="Account.YourPassword">
     <Value>Sua senha</Value>
   </LocaleResource>
-  <LocaleResource Name="Account.YourPersonalDetails">
-    <Value>Sua dados pessoais</Value>
+  <LocaleResource Name="account.yourpersonaldetails">
+    <Value>Seus dados pessoais</Value>
   </LocaleResource>
   <LocaleResource Name="ActivityLog.AddNewCategory">
     <Value>Adicionado uma nova categoria ('{0}')</Value>
@@ -819,8 +819,8 @@
   <LocaleResource Name="ActivityLog.PublicStore.ContactUs">
     <Value>Usado formulário de contado </Value>
   </LocaleResource>
-  <LocaleResource Name="ActivityLog.PublicStore.Login">
-    <Value>Entrar</Value>
+  <LocaleResource Name="activitylog.publicstore.login">
+    <Value>Login</Value>
   </LocaleResource>
   <LocaleResource Name="ActivityLog.PublicStore.Logout">
     <Value>Sair</Value>
@@ -849,11 +849,11 @@
   <LocaleResource Name="Address.Fields.Address1.Required">
     <Value>Endereço 1 é obrigatório.</Value>
   </LocaleResource>
-  <LocaleResource Name="Address.Fields.Address2">
-    <Value>Endereço 2</Value>
+  <LocaleResource Name="address.fields.address2">
+    <Value>Complemento</Value>
   </LocaleResource>
-  <LocaleResource Name="Address.Fields.Address2.Required">
-    <Value>Endereço 2 é obrigatório.</Value>
+  <LocaleResource Name="address.fields.address2.required">
+    <Value>Complemento é obrigatório.</Value>
   </LocaleResource>
   <LocaleResource Name="Address.Fields.City">
     <Value>Cidade</Value>
@@ -1032,14 +1032,14 @@
   <LocaleResource Name="Admin.Address.Fields.Address1.Required">
     <Value>Endereço 1 é obrigatório</Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.Address.Fields.Address2">
-    <Value>Endereço 2</Value>
+  <LocaleResource Name="admin.address.fields.address2">
+    <Value>Complemento</Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.Address.Fields.Address2.Hint">
-    <Value>Inclua o endereço 2</Value>
+  <LocaleResource Name="admin.address.fields.address2.hint">
+    <Value>Inclua o complemento</Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.Address.Fields.Address2.Required">
-    <Value>Endereço 2 é obrigatório</Value>
+  <LocaleResource Name="admin.address.fields.address2.required">
+    <Value>Complemento é obrigatório</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Address.Fields.City">
     <Value>Cidade</Value>
@@ -1587,8 +1587,8 @@
   <LocaleResource Name="admin.catalog.attributes.productattributes.usedbyproducts.product">
     <Value>Produto</Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.Catalog.Attributes.ProductAttributes.UsedByProducts.Published">
-    <Value>Publicados</Value>
+  <LocaleResource Name="admin.catalog.attributes.productattributes.usedbyproducts.published">
+    <Value>Publicado</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Catalog.Attributes.SpecificationAttributes">
     <Value>Especificação de atributos</Value>
@@ -1689,8 +1689,8 @@
   <LocaleResource Name="Admin.Catalog.BulkEdit.Fields.Price">
     <Value>Preço</Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.Catalog.BulkEdit.Fields.Published">
-    <Value>Publicados</Value>
+  <LocaleResource Name="admin.catalog.bulkedit.fields.published">
+    <Value>Publicado</Value>
   </LocaleResource>
   <LocaleResource Name="admin.catalog.bulkedit.fields.sku">
     <Value>SKU</Value>
@@ -1719,8 +1719,8 @@
   <LocaleResource Name="Admin.Catalog.Categories">
     <Value>Categorias</Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.Catalog.Categories.acl">
-    <Value>Lista de controle de acesso</Value>
+  <LocaleResource Name="admin.catalog.categories.acl">
+    <Value>Controle de acesso (ACL)</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Catalog.Categories.Added">
     <Value>A nova categoria foi adicionada com sucesso.</Value>
@@ -1875,8 +1875,8 @@
   <LocaleResource Name="Admin.Catalog.Categories.Fields.PriceRanges.Hint">
     <Value>Definir as categorias de preço para o filtro de armazenamento de faixa de preço varia em separado com um ponto e vírgula, por exemplo. '0-199; 200-300; 301;' (301 significa 301 e mais) </Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.Catalog.Categories.Fields.Published">
-    <Value>Publicados</Value>
+  <LocaleResource Name="admin.catalog.categories.fields.published">
+    <Value>Publicado</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Catalog.Categories.Fields.Published.Hint">
     <Value>Verificar a publicar nesta categoria (visível na loja). Desmarque a despublicar (categoria não está disponível na loja).</Value>
@@ -1887,11 +1887,11 @@
   <LocaleResource Name="Admin.Catalog.Categories.Fields.SeName.Hint">
     <Value>Definir um motor de busca amigável página nome, por exemplo" the-best-categoria 'para fazer o URL da página' http://www.yourStore.com/the-best-category '. Deixe em branco para gerar automaticamente com base no nome de a categoria ".</Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.Catalog.Categories.Fields.ShowOnHomePage">
-    <Value>Mostrar na home page</Value>
+  <LocaleResource Name="admin.catalog.categories.fields.showonhomepage">
+    <Value>Mostrar na página inicial</Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.Catalog.Categories.Fields.ShowOnHomePage.Hint">
-    <Value>Verifique se você quiser mostrar uma categoria na home page.</Value>
+  <LocaleResource Name="admin.catalog.categories.fields.showonhomepage.hint">
+    <Value>Marcar se você quiser mostrar uma categoria na página inicial</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Catalog.Categories.Fields.SubjectToAcl">
     <Value>Sujeito a ACL(Lista de Controle de Acesso)</Value>
@@ -1932,8 +1932,8 @@
   <LocaleResource Name="Admin.Catalog.Categories.Products.Fields.DisplayOrder">
     <Value>Ordem de exibição</Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.Catalog.Categories.Products.Fields.IsFeaturedProduct">
-    <Value>É caracterizada produto?</Value>
+  <LocaleResource Name="admin.catalog.categories.products.fields.isfeaturedproduct">
+    <Value>É caracterizado produto?</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Catalog.Categories.Products.Fields.Product">
     <Value>Produto</Value>
@@ -1962,8 +1962,8 @@
   <LocaleResource Name="Admin.Catalog.Manufacturers">
     <Value>Fabricantes</Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.Catalog.Manufacturers.Acl">
-    <Value>Lista de controle de acesso</Value>
+  <LocaleResource Name="admin.catalog.manufacturers.acl">
+    <Value>Controle de acesso (ACL)</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Catalog.Manufacturers.Added">
     <Value>O novo fabricante foi adicionada com sucesso.</Value>
@@ -2103,8 +2103,8 @@
   <LocaleResource Name="Admin.Catalog.Manufacturers.Fields.PriceRanges.Hint">
     <Value>Definir as categorias de preço para o filtro de armazenamento de faixa de preço varia em separado com um ponto e vírgula, por exemplo. '0-199; 200-300; 301;' (301 significa 301 e mais) </Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.Catalog.Manufacturers.Fields.Published">
-    <Value>Publicados</Value>
+  <LocaleResource Name="admin.catalog.manufacturers.fields.published">
+    <Value>Publicado</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Catalog.Manufacturers.Fields.Published.Hint">
     <Value>Verificar a publicar este fabricante (visível na loja). Desmarque a despublicar (fabricante não disponíveis na loja).</Value>
@@ -2151,8 +2151,8 @@
   <LocaleResource Name="Admin.Catalog.Manufacturers.Products.Fields.DisplayOrder">
     <Value>Ordem de exibição</Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.Catalog.Manufacturers.Products.Fields.IsFeaturedProduct">
-    <Value>É caracterizada produto?</Value>
+  <LocaleResource Name="admin.catalog.manufacturers.products.fields.isfeaturedproduct">
+    <Value>É caracterizado produto?</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Catalog.Manufacturers.Products.Fields.Product">
     <Value>Produto</Value>
@@ -2283,8 +2283,8 @@
   <LocaleResource Name="Admin.Catalog.Products">
     <Value>Produtos</Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.Catalog.Products.Acl">
-    <Value>Lista de controle de acesso</Value>
+  <LocaleResource Name="admin.catalog.products.acl">
+    <Value>Controle de acesso (ACL)</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Catalog.Products.Added">
     <Value>O novo produto foi adicionado com sucesso.</Value>
@@ -2305,10 +2305,10 @@
     <Value>Produto</Value>
   </LocaleResource>
   <LocaleResource Name="admin.catalog.products.associatedproducts.note1">
-    <Value>Os produtos associados são utilizadas apenas com" agrupados "produtos".</Value>
+    <Value>Os produtos associados são utilizados apenas com produtos "agrupados".</Value>
   </LocaleResource>
   <LocaleResource Name="admin.catalog.products.associatedproducts.note2">
-    <Value>Um produto pode ser associado a apenas um" agrupados "produto".</Value>
+    <Value>Um produto pode ser associado apenas uma vez ao "agrupado".</Value>
   </LocaleResource>
   <LocaleResource Name="admin.catalog.products.associatedproducts.savebeforeedit">
     <Value>Você precisa salvar o produto antes de adicionar produtos associados para esta página do produto.</Value>
@@ -2340,8 +2340,8 @@
   <LocaleResource Name="Admin.Catalog.Products.Copy">
     <Value>Produto Copy</Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.Catalog.Products.Copy.CopyImages">
-    <Value>imagens de cópia</Value>
+  <LocaleResource Name="admin.catalog.products.copy.copyimages">
+    <Value>Copiar imagens</Value>
   </LocaleResource>
   <LocaleResource Name="admin.catalog.products.copy.copyimages.hint">
     <Value>Marcar para copiar as imagens.</Value>
@@ -2352,14 +2352,14 @@
   <LocaleResource Name="Admin.Catalog.Products.Copy.Name.Hint">
     <Value>O nome do novo produto.</Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.Catalog.Products.Copy.Published">
-    <Value>Publicados</Value>
+  <LocaleResource Name="admin.catalog.products.copy.published">
+    <Value>Publicado</Value>
   </LocaleResource>
   <LocaleResource Name="admin.catalog.products.copy.published.hint">
-    <Value>Marcar para um produto como publicado.</Value>
+    <Value>Marcar para publicar o produto na loja.</Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.Catalog.Products.CrossSells">
-    <Value>Cross-vende</Value>
+  <LocaleResource Name="admin.catalog.products.crosssells">
+    <Value>Venda cruzada</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Catalog.Products.CrossSells.AddNew">
     <Value>Adicionar novo produto cross-sell</Value>
@@ -2419,7 +2419,7 @@
     <Value>Permitir volta em subscrições de ações</Value>
   </LocaleResource>
   <LocaleResource Name="admin.catalog.products.fields.allowbackinstocksubscriptions.hint">
-    <Value>Permitir que os clientes para se inscrever em uma lista de notificação para um produto que tem ido fora de estoque.</Value>
+    <Value>Permitir que os clientes se inscrevam em uma lista de notificação para um produtos sem estoque.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Catalog.Products.Fields.AllowCustomerReviews">
     <Value>Permitir comentários de clientes</Value>
@@ -2451,11 +2451,11 @@
   <LocaleResource Name="admin.catalog.products.fields.availableenddatetime.hint">
     <Value>O fim da disponibilidade do produto no Tempo Universal Coordenado (UTC).</Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.Catalog.Products.Fields.AvailableForPreOrder">
-    <Value>Disponível para pré-encomenda</Value>
+  <LocaleResource Name="admin.catalog.products.fields.availableforpreorder">
+    <Value>Disponível para pré-compra</Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.Catalog.Products.Fields.AvailableForPreOrder.Hint">
-    <Value>Verificar se este item está disponível para pré-encomenda. Ele também exibe o botão" "em vez de" Pre-order Adicionar ao carrinho ".</Value>
+  <LocaleResource Name="admin.catalog.products.fields.availableforpreorder.hint">
+    <Value>Verificar se este item está disponível para pré-compra. Ele também exibe o botão de "Pré-compra" (em vez de Adicionar ao carrinho).</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Catalog.Products.Fields.AvailableStartDateTime">
     <Value>Data de início disponível</Value>
@@ -2505,8 +2505,8 @@
   <LocaleResource Name="admin.catalog.products.fields.basepriceunit.hint">
     <Value>Introduzir uma unidade do produto.</Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.Catalog.Products.Fields.CallForPrice">
-    <Value>Chamada de preço</Value>
+  <LocaleResource Name="admin.catalog.products.fields.callforprice">
+    <Value>Orçamento por telefone</Value>
   </LocaleResource>
   <LocaleResource Name="admin.catalog.products.fields.callforprice.hint">
     <Value>Marcar para mostrar" Call for Pricing "ou" Orçamento por telefone "ao invés de preço</Value>
@@ -2526,11 +2526,11 @@
   <LocaleResource Name="admin.catalog.products.fields.createdon.hint">
     <Value>Data e hora em que este produto foi criado.</Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.Catalog.Products.Fields.CustomerEntersPrice">
-    <Value>O cliente entra preço</Value>
+  <LocaleResource Name="admin.catalog.products.fields.customerentersprice">
+    <Value>O cliente informa o preço</Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.Catalog.Products.Fields.CustomerEntersPrice.Hint">
-    <Value>Uma opção que indica se o cliente deve entrar em preço.</Value>
+  <LocaleResource Name="admin.catalog.products.fields.customerentersprice.hint">
+    <Value>Uma opção que indica se o cliente deve informar o preço.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Catalog.Products.Fields.DeliveryDate">
     <Value>Data de entrega</Value>
@@ -2541,8 +2541,8 @@
   <LocaleResource Name="Admin.Catalog.Products.Fields.DeliveryDate.None">
     <Value>Nenhum</Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.Catalog.Products.Fields.DisableBuyButton">
-    <Value>Botão de compra Disable</Value>
+  <LocaleResource Name="admin.catalog.products.fields.disablebuybutton">
+    <Value>Botão de compra desativado</Value>
   </LocaleResource>
   <LocaleResource Name="admin.catalog.products.fields.disablebuybutton.hint">
     <Value>Verificar para desativar o botão de compra para este produto. Isso pode ser necessário para os produtos que estão 'disponíveis mediante solicitação.</Value>
@@ -2568,8 +2568,8 @@
   <LocaleResource Name="admin.catalog.products.fields.displayorder.hint">
     <Value>Ordem de exibição do produto. 1 representa o início da lista.</Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.Catalog.Products.Fields.DisplayStockAvailability">
-    <Value>Disponibilidade Display</Value>
+  <LocaleResource Name="admin.catalog.products.fields.displaystockavailability">
+    <Value>Mostrar Disponibilidade</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Catalog.Products.Fields.DisplayStockAvailability.Hint">
     <Value>Verificar para exibir disponibilidade de estoque. Quando habilitado, os clientes irão ver a disponibilidade de estoque.</Value>
@@ -2709,8 +2709,8 @@
   <LocaleResource Name="Admin.Catalog.Products.Fields.ManageInventoryMethod">
     <Value>Método de inventário</Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.Catalog.Products.Fields.ManageInventoryMethod.Hint">
-    <Value>Selecionar método de inventário Existem três métodos:. Não rastrear o estoque, o inventário Track and rastrear o estoque por atributos Você deve usar o inventário da faixa por atributos quando o produto tem diferentes combinações desses atributos e, em seguida, gerenciar inventário para este combinações.".</Value>
+  <LocaleResource Name="admin.catalog.products.fields.manageinventorymethod.hint">
+    <Value>Selecione o método de inventário, existem três métodos: Não rastrear o estoque, Controle estoque e  Contolar estoque por atributos. Você deve usar o controle de estoque por atributos quando o produto tem diferentes combinações desses atributos e, em seguida, gerenciar inventário para esta combinações.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Catalog.Products.Fields.ManufacturerPartNumber">
     <Value>Número da peça de fabricante</Value>
@@ -2853,11 +2853,11 @@
   <LocaleResource Name="Admin.Catalog.Products.Fields.ProductCost.Hint">
     <Value>Custo do produto é um custo do produto prime. Este campo é apenas para uso interno, não visível para os clientes.</Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.Catalog.Products.Fields.ProductTags">
-    <Value>Etiquetas de Produtos</Value>
+  <LocaleResource Name="admin.catalog.products.fields.producttags">
+    <Value>TAGs para o item</Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.Catalog.Products.Fields.ProductTags.Hint">
-    <Value>Etiquetas de Produtos são as palavras-chave para identificação do produto. Quanto mais produtos associados a uma determinada marca, maior ele vai mostrar na nuvem de tags.</Value>
+  <LocaleResource Name="admin.catalog.products.fields.producttags.hint">
+    <Value>TAG de Produtos são as palavras-chave para identificação do produto. Quanto mais produtos associados a uma determinada marca, maior ele será mostrado na barra de TAGs.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Catalog.Products.Fields.ProductTemplate">
     <Value>Modelo do produto</Value>
@@ -2871,8 +2871,8 @@
   <LocaleResource Name="Admin.Catalog.Products.Fields.ProductType.Hint">
     <Value>Tipo de produto pode ser simples ou agrupadas. Na maioria dos casos, o produto terá o tipo de produto simples. Você precisa usar o tipo de produto Agrupados quando um novo produto consiste em um ou mais produtos existentes que serão exibidos em uma página de detalhes do produto único. </Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.Catalog.Products.Fields.Published">
-    <Value>Publicados</Value>
+  <LocaleResource Name="admin.catalog.products.fields.published">
+    <Value>Publicado</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Catalog.Products.Fields.Published.Hint">
     <Value>Verificar a publicar este produto (visível na loja). Desmarque a despublicar (produto não disponível na loja).</Value>
@@ -2952,11 +2952,11 @@
   <LocaleResource Name="Admin.Catalog.Products.Fields.ShortDescription.Hint">
     <Value>Breve descrição é o texto que é exibido na lista de produtos ou seja, páginas? Ategoria / fabricante.</Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.Catalog.Products.Fields.ShowOnHomePage">
-    <Value>Mostrar na home page</Value>
+  <LocaleResource Name="admin.catalog.products.fields.showonhomepage">
+    <Value>Mostrar na página inicial</Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.Catalog.Products.Fields.ShowOnHomePage.Hint">
-    <Value>Verificar para exibir este produto em home page da sua loja. Recomendado para seus produtos mais populares.</Value>
+  <LocaleResource Name="admin.catalog.products.fields.showonhomepage.hint">
+    <Value>Marcar para exibir este produto na página inicial da sua loja. Recomendado para seus produtos mais populares.</Value>
   </LocaleResource>
   <LocaleResource Name="admin.catalog.products.fields.sku">
     <Value>SKU</Value>
@@ -2991,8 +2991,8 @@
   <LocaleResource Name="Admin.Catalog.Products.Fields.StockQuantity.Hint">
     <Value>A atual quantidade de estoque do produto.</Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.Catalog.Products.Fields.SubjectToAcl">
-    <Value>Sujeito a ACL(lista de controle de acesso)</Value>
+  <LocaleResource Name="admin.catalog.products.fields.subjecttoacl">
+    <Value>Assunto ACL(lista de controle de acesso)</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Catalog.Products.Fields.TaxCategory">
     <Value>Categoria de imposto</Value>
@@ -3117,17 +3117,17 @@
   <LocaleResource Name="Admin.Catalog.Products.List.SearchProductType.Hint">
     <Value>Pesquisar por um tipo de produto.</Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.Catalog.Products.List.SearchPublished">
-    <Value>Publicados</Value>
+  <LocaleResource Name="admin.catalog.products.list.searchpublished">
+    <Value>Publicado</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Catalog.Products.List.SearchPublished.All">
     <Value>Todos</Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.Catalog.Products.List.SearchPublished.Hint">
-    <Value>Pesquisar por um" Publicado "propriedade".</Value>
+  <LocaleResource Name="admin.catalog.products.list.searchpublished.hint">
+    <Value>Pesquisar por itens marcados como "Publicados".</Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.Catalog.Products.List.SearchPublished.PublishedOnly">
-    <Value>Só publicou</Value>
+  <LocaleResource Name="admin.catalog.products.list.searchpublished.publishedonly">
+    <Value>Publicado apenas</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Catalog.Products.List.SearchPublished.UnpublishedOnly">
     <Value>Inédito apenas</Value>
@@ -3171,8 +3171,8 @@
   <LocaleResource Name="Admin.Catalog.Products.Manufacturers.SaveBeforeEdit">
     <Value>Você precisará salvar o produto antes de mapear fabricantes para esta página de produto.</Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.Catalog.Products.Mappings">
-    <Value>mapeamentos</Value>
+  <LocaleResource Name="admin.catalog.products.mappings">
+    <Value>Mapeamentos de categoria</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Catalog.Products.Pictures">
     <Value>As fotos</Value>
@@ -3231,11 +3231,11 @@
   <LocaleResource Name="Admin.Catalog.Products.ProductAttributes.AttributeCombinations.Description2">
     <Value>Observe também que alguns tipos de controle de atributo que suportam entrada personalizada do usuário (por exemplo, upload de arquivos, caixas de texto, selecionador de data) são inúteis com combinações de atributos</Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.Catalog.Products.ProductAttributes.AttributeCombinations.Fields.AllowOutOfStockOrders">
-    <Value>Permitir fora de estoque</Value>
+  <LocaleResource Name="admin.catalog.products.productattributes.attributecombinations.fields.allowoutofstockorders">
+    <Value>Permitir pedidos sem estoque</Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.Catalog.Products.ProductAttributes.AttributeCombinations.Fields.AllowOutOfStockOrders.Hint">
-    <Value>Um valor que indica se a permitir pedidos quando fora de estoque.</Value>
+  <LocaleResource Name="admin.catalog.products.productattributes.attributecombinations.fields.allowoutofstockorders.hint">
+    <Value>Um valor que indica se a permiti pedidos quando não tiver estoque.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Catalog.Products.ProductAttributes.AttributeCombinations.Fields.Attributes">
     <Value>Atributos</Value>
@@ -3366,8 +3366,8 @@
   <LocaleResource Name="Admin.Catalog.Products.ProductAttributes.Attributes.Values.BackToProduct">
     <Value>Back to product detalhes</Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.Catalog.Products.ProductAttributes.Attributes.Values.EditAttributeDetails">
-    <Value>Adicionar / Editar valores para [{0}] atributo do produto:. {1}</Value>
+  <LocaleResource Name="admin.catalog.products.productattributes.attributes.values.editattributedetails">
+    <Value>Adicionar / Editar valores para atributo do produto [{0}]: {1}</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Catalog.Products.ProductAttributes.Attributes.Values.EditValueDetails">
     <Value>Value Editar</Value>
@@ -3504,8 +3504,8 @@
   <LocaleResource Name="Admin.Catalog.Products.ProductWarehouseInventory.Hint">
     <Value>Gerir inventário por armazém.</Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.Catalog.Products.PurchasedWithOrders">
-    <Value>Comprado com ordens</Value>
+  <LocaleResource Name="admin.catalog.products.purchasedwithorders">
+    <Value>Comprado no pedidos</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Catalog.Products.PurchasedWithOrders.Hint">
     <Value>Aqui você pode ver uma lista de pedidos em que este produto foi comprado.</Value>
@@ -3525,8 +3525,8 @@
   <LocaleResource Name="Admin.Catalog.Products.RelatedProducts.Fields.Product">
     <Value>Produto</Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.Catalog.Products.RelatedProducts.Hint">
-    <Value>A opção Produtos relacionados oferece a oportunidade para fazer propaganda de produtos que não fazem parte da categoria seleccionada, para os seus visitantes. Estes produtos são exibidos os detalhes do produto páginas.</Value>
+  <LocaleResource Name="admin.catalog.products.relatedproducts.hint">
+    <Value>A opção "Produtos relacionados" oferece a oportunidade de fazer propaganda de produtos que não fazem parte da categoria selecionada para os seus visitantes. Estes produtos são exibidos em detalhes do produto do item.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Catalog.Products.RelatedProducts.SaveBeforeEdit">
     <Value>Você precisa salvar o produto antes de adicionar produtos relacionados com a página do produto.</Value>
@@ -3537,8 +3537,8 @@
   <LocaleResource Name="Admin.Catalog.Products.RequireOtherProducts">
     <Value>Exigir outros produtos</Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.Catalog.Products.Security">
-    <Value>Lista de controle de acesso</Value>
+  <LocaleResource Name="admin.catalog.products.security">
+    <Value>Controle de acesso (ACL)</Value>
   </LocaleResource>
   <LocaleResource Name="admin.catalog.products.shipping">
     <Value>Forma de envio</Value>
@@ -3609,8 +3609,8 @@
   <LocaleResource Name="Admin.Catalog.Products.Stores">
     <Value>Lojas</Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.Catalog.Products.TierPrices">
-    <Value>preços tier</Value>
+  <LocaleResource Name="admin.catalog.products.tierprices">
+    <Value>preços por quantidade</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Catalog.Products.TierPrices.Fields.CustomerRole">
     <Value>O papel do cliente</Value>
@@ -4101,8 +4101,8 @@
   <LocaleResource Name="Admin.Catalog.Products.Variants.ProductVariantAttributes.AttributeCombinations.Fields.AllowOutOfStockOrders">
     <Value>Permitir pedido sem estoque</Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.Catalog.Products.Variants.ProductVariantAttributes.AttributeCombinations.Fields.AllowOutOfStockOrders.Hint">
-    <Value>Um valor que permita pedidos fora de estoque.</Value>
+  <LocaleResource Name="admin.catalog.products.variants.productvariantattributes.attributecombinations.fields.allowoutofstockorders.hint">
+    <Value>Um valor que permita pedidos sem estoque.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Catalog.Products.Variants.ProductVariantAttributes.AttributeCombinations.Fields.Attributes">
     <Value>Atributos</Value>
@@ -4233,8 +4233,8 @@
   <LocaleResource Name="Admin.Catalog.Products.Variants.Updated">
     <Value>A variante de produto foi atualizada com sucesso.</Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.Catalog.ProductTags">
-    <Value>Etiquetas de Produtos</Value>
+  <LocaleResource Name="admin.catalog.producttags">
+    <Value>TAGs para o Item</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Catalog.ProductTags.EditTagDetails">
     <Value>Editar Detalhes da marca do produto</Value>
@@ -4404,8 +4404,8 @@
   <LocaleResource Name="Admin.Configuration">
     <Value>Configuração</Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.Configuration.ACL">
-    <Value>Lista de controle de acesso</Value>
+  <LocaleResource Name="admin.configuration.acl">
+    <Value>Controle de acesso (ACL)</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.ACL.Description">
     <Value>Lista de controle de acesso é uma lista de permissões anexadas a papéis do cliente. Esta lista especifica os direitos de acesso dos usuários a objetos.</Value>
@@ -4539,8 +4539,8 @@
   <LocaleResource Name="Admin.Configuration.Countries.Fields.NumericIsoCode.Hint">
     <Value>O código ISO numérico para este país. Para uma lista completa de códigos ISO acesse: http://en.wikipedia.org/wiki/ISO_3166-1_numeric</Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.Configuration.Countries.Fields.Published">
-    <Value>Publicados</Value>
+  <LocaleResource Name="admin.configuration.countries.fields.published">
+    <Value>Publicado</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Countries.Fields.Published.Hint">
     <Value>Determina se este país é publicado (visível para a criação de endereços de envio / facturação).</Value>
@@ -4620,8 +4620,8 @@
   <LocaleResource Name="Admin.Configuration.Countries.States.Fields.Name.Required">
     <Value>Por favor, forneça um nome.</Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.Configuration.Countries.States.Fields.Published">
-    <Value>Publicados</Value>
+  <LocaleResource Name="admin.configuration.countries.states.fields.published">
+    <Value>Publicado</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Countries.States.Fields.Published.Hint">
     <Value>Determina se este estado é publicado.</Value>
@@ -4728,11 +4728,11 @@
   <LocaleResource Name="admin.configuration.currencies.fields.limitedtostores.hint">
     <Value>Opção para limitar essa moeda para uma determinada loja. Se tiver várias lojas, escolher um ou vários da lista. Se você não usar esta opção simplesmente deixar este campo em branco.</Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.Configuration.Currencies.Fields.MarkAsPrimaryExchangeRateCurrency">
-    <Value>Mark moeda taxa de câmbio como principal</Value>
+  <LocaleResource Name="admin.configuration.currencies.fields.markasprimaryexchangeratecurrency">
+    <Value>Definir taxa de câmbio como principal</Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.Configuration.Currencies.Fields.MarkAsPrimaryStoreCurrency">
-    <Value>Mark loja como principal moeda</Value>
+  <LocaleResource Name="admin.configuration.currencies.fields.markasprimarystorecurrency">
+    <Value>Definir moeda da loja como principal</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Currencies.Fields.Name">
     <Value>Nome</Value>
@@ -4746,8 +4746,8 @@
   <LocaleResource Name="Admin.Configuration.Currencies.Fields.Name.Required">
     <Value>Por favor, forneça um nome.</Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.Configuration.Currencies.Fields.Published">
-    <Value>Publicados</Value>
+  <LocaleResource Name="admin.configuration.currencies.fields.published">
+    <Value>Publicado</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Currencies.Fields.Published.Hint">
     <Value>Determina se a moeda é publicado.</Value>
@@ -4824,8 +4824,8 @@
   <LocaleResource Name="admin.configuration.emailaccounts.fields.host.hint">
     <Value>Este é o nome do host ou endereço IP do servidor de e-mail. Normalmente você pode descobrir isso a partir do seu ISP ou host.</Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.Configuration.EmailAccounts.Fields.IsDefaultEmailAccount">
-    <Value>É conta de e-mail padrão</Value>
+  <LocaleResource Name="admin.configuration.emailaccounts.fields.isdefaultemailaccount">
+    <Value>Conta de e-mail padrão</Value>
   </LocaleResource>
   <LocaleResource Name="admin.configuration.emailaccounts.fields.markasdefaultemail">
     <Value>Marcar como conta de e-mail padrão</Value>
@@ -4857,8 +4857,8 @@
   <LocaleResource Name="Admin.Configuration.EmailAccounts.Fields.SendTestEmailTo.Hint">
     <Value>Enviar e-mail de teste para garantir que tudo está configurado corretamente.</Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.Configuration.EmailAccounts.Fields.UseDefaultCredentials">
-    <Value>credenciais Use default</Value>
+  <LocaleResource Name="admin.configuration.emailaccounts.fields.usedefaultcredentials">
+    <Value>Use credenciais padrão</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.EmailAccounts.Fields.UseDefaultCredentials.Hint">
     <Value>Verificar a usar credenciais padrão para a conexão</Value>
@@ -4974,8 +4974,8 @@
   <LocaleResource Name="Admin.Configuration.Languages.Fields.Name.Required">
     <Value>Por favor, forneça um nome.</Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.Configuration.Languages.Fields.Published">
-    <Value>Publicados</Value>
+  <LocaleResource Name="admin.configuration.languages.fields.published">
+    <Value>Publicado</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Languages.Fields.Published.Hint">
     <Value>Determina se esta língua é publicado e, portanto, pode ser seleccionado pelos visitantes para sua loja.</Value>
@@ -5610,17 +5610,17 @@
   <LocaleResource Name="admin.configuration.settings.catalog.notifystoreowneraboutnewproductreviews.hint">
     <Value>Marcar para notificar o proprietário da loja sobre as novas análises de produtos.</Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.Configuration.Settings.Catalog.NumberOfBestsellersOnHomepage">
-    <Value>Número de melhores vendedores no home page</Value>
+  <LocaleResource Name="admin.configuration.settings.catalog.numberofbestsellersonhomepage">
+    <Value>Número de melhores vendedores na página inicial</Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.Configuration.Settings.Catalog.NumberOfBestsellersOnHomepage.Hint">
-    <Value>O número de best-sellers na página inicial a ser exibido quando" Mostrar mais vendidos na home page 'opção é ativado. </Value>
+  <LocaleResource Name="admin.configuration.settings.catalog.numberofbestsellersonhomepage.hint">
+    <Value>Ativar a opção de número de mais vendidos na página inicial a ser exibido quando "Mostrar mais vendidos na página inicial".</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Settings.Catalog.NumberOfProductTags">
     <Value>Número de marcas de produtos (nuvem)</Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.Configuration.Settings.Catalog.NumberOfProductTags.Hint">
-    <Value>O número de etiquetas de produtos que aparecem na tag cloud</Value>
+  <LocaleResource Name="admin.configuration.settings.catalog.numberofproducttags.hint">
+    <Value>O número de TAG de produtos que aparecem na barra de TAGs</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Settings.Catalog.PageShareCode">
     <Value>Código do botão Share</Value>
@@ -5730,11 +5730,11 @@
   <LocaleResource Name="Admin.Configuration.Settings.Catalog.SearchPageProductsPerPage.Hint">
     <Value>Definir o tamanho da página para os produtos na página 'Pesquisar'.</Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.Configuration.Settings.Catalog.ShowBestsellersOnHomepage">
-    <Value>Mostrar melhores vendedores no home page</Value>
+  <LocaleResource Name="admin.configuration.settings.catalog.showbestsellersonhomepage">
+    <Value>Mostrar os mais vendidos na página inicial</Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.Configuration.Settings.Catalog.ShowBestsellersOnHomepage.Hint">
-    <Value>Verificar a mostrar mais vendidos na home page.</Value>
+  <LocaleResource Name="admin.configuration.settings.catalog.showbestsellersonhomepage.hint">
+    <Value>Marcar para mostrar os mais vendidos na página inicial.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Settings.Catalog.ShowCategoryProductNumber">
     <Value>Mostrar o número de produtos distintos, além de cada categoria</Value>
@@ -5766,8 +5766,8 @@
   <LocaleResource Name="admin.configuration.settings.catalog.showmanufacturerpartnumber.hint">
     <Value>Marcar para mostrar números da peça do fabricante no arquivo público.</Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.Configuration.Settings.Catalog.ShowProductImagesInSearchAutoComplete">
-    <Value>imagens de produtos, na casa autocomplete</Value>
+  <LocaleResource Name="admin.configuration.settings.catalog.showproductimagesinsearchautocomplete">
+    <Value>Imagens dos produtos, na barra de pesquisa</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Settings.Catalog.ShowProductImagesInSearchAutoComplete.Hint">
     <Value>Determina se as imagens do produto devem ser exibidas na caixa de pesquisa autocomplete".</Value>
@@ -6828,8 +6828,8 @@
   <LocaleResource Name="Admin.Configuration.Settings.GeneralCommon.StoreUrl.Hint">
     <Value>O URL da sua loja, por exemplo, http://www.sualoja.com.br/</Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.Configuration.Settings.GeneralCommon.SubjectFieldOnContactUsForm">
-    <Value>Contacte-nos página. Campo" Assunto </Value>
+  <LocaleResource Name="admin.configuration.settings.generalcommon.subjectfieldoncontactusform">
+    <Value>Campo Assunto na página de Contacte-nos</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Settings.GeneralCommon.SubjectFieldOnContactUsForm.Hint">
     <Value>Marque para permitir que um cliente para digitar um assunto na página contacte-nos.</Value>
@@ -6897,8 +6897,8 @@
   <LocaleResource Name="Admin.Configuration.Settings.Media.CartThumbPictureSize.Hint">
     <Value>O tamanho padrão (pixels) para imagens em miniatura do produto no carrinho de compras e lista.</Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.Configuration.Settings.Media.CategoryThumbPictureSize">
-    <Value>Categoria tamanho da imagem em miniatura</Value>
+  <LocaleResource Name="admin.configuration.settings.media.categorythumbpicturesize">
+    <Value>Tamanho da imagem em miniatura (página de categoria)</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Settings.Media.CategoryThumbPictureSize.Hint">
     <Value>O tamanho padrão (pixels) para imagens em miniatura do produto em páginas da categoria.</Value>
@@ -6915,8 +6915,8 @@
   <LocaleResource Name="Admin.Configuration.Settings.Media.ImportProductImagesUsingHash.Hint">
     <Value>Verificar a usar HASHBYTES rápido (soma de hash) a função de banco de dados para comparar imagens durante a importação de produtos. Por favor, note que esta funcionalidade não é suportada por algum banco de dados.</Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.Configuration.Settings.Media.ManufacturerThumbPictureSize">
-    <Value>Fabricante tamanho da imagem em miniatura</Value>
+  <LocaleResource Name="admin.configuration.settings.media.manufacturerthumbpicturesize">
+    <Value>Tamanho da imagem em miniatura do fabricante</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Settings.Media.ManufacturerThumbPictureSize.Hint">
     <Value>O tamanho padrão (pixels) para imagens em miniatura do produto em páginas fabricante.</Value>
@@ -6963,14 +6963,14 @@
   <LocaleResource Name="Admin.Configuration.Settings.Media.ProductDetailsPictureSize.Hint">
     <Value>O tamanho padrão (pixels) para imagens de detalhes do produto.</Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.Configuration.Settings.Media.ProductThumbPictureSize">
-    <Value>Product tamanho da imagem em miniatura (catálogo)</Value>
+  <LocaleResource Name="admin.configuration.settings.media.productthumbpicturesize">
+    <Value>Tamanho da imagem em miniatura (catálogo)</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Settings.Media.ProductThumbPictureSize.Hint">
     <Value>O tamanho padrão (pixels) para imagens em miniatura do produto exibido na categoria ou fabricante páginas.</Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.Configuration.Settings.Media.ProductThumbPictureSizeOnProductDetailsPage">
-    <Value>Thumbnail Produto tamanho da imagem (página do produto)</Value>
+  <LocaleResource Name="admin.configuration.settings.media.productthumbpicturesizeonproductdetailspage">
+    <Value>Tamanho da imagem miniatura do produto (página do produto)</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Settings.Media.ProductThumbPictureSizeOnProductDetailsPage.Hint">
     <Value>O tamanho padrão (pixels) para imagens em miniatura do produto exibido na página de detalhes do produto quando você tem mais de uma imagem do produto.</Value>
@@ -7011,8 +7011,8 @@
   <LocaleResource Name="Admin.Configuration.Settings.News.MainPageNewsCount">
     <Value>Número de itens para exibir</Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.Configuration.Settings.News.MainPageNewsCount.Hint">
-    <Value>O número de itens de notícias para exibir em sua home page.</Value>
+  <LocaleResource Name="admin.configuration.settings.news.mainpagenewscount.hint">
+    <Value>O número de itens de notícias para exibir em sua página inicial.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Settings.News.NewsArchivePageSize">
     <Value>Ttamanho de página de arquivo de notícias</Value>
@@ -7032,8 +7032,8 @@
   <LocaleResource Name="admin.configuration.settings.news.showheaderrssurl.hint">
     <Value>Marcar para ativar o link do feed RSS de notícias na barra de endereços do navegador do cliente</Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.Configuration.Settings.News.ShowNewsOnMainPage">
-    <Value>Mostrar na home page</Value>
+  <LocaleResource Name="admin.configuration.settings.news.shownewsonmainpage">
+    <Value>Mostrar na página inicial</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Settings.News.ShowNewsOnMainPage.Hint">
     <Value>Verificar para exibir seus itens de notícias em sua página inicial da loja.</Value>
@@ -7308,8 +7308,8 @@
   <LocaleResource Name="Admin.Configuration.Settings.ProductEditor.AvailableEndDate">
     <Value>Data final disponível</Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.Configuration.Settings.ProductEditor.AvailableForPreOrder">
-    <Value>Disponível para pré-encomenda</Value>
+  <LocaleResource Name="admin.configuration.settings.producteditor.availableforpreorder">
+    <Value>Disponível para pré-compra</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Settings.ProductEditor.AvailableStartDate">
     <Value>Data de início disponível</Value>
@@ -7329,8 +7329,8 @@
   <LocaleResource Name="Admin.Configuration.Settings.ProductEditor.BlockTitle.LinkedProducts">
     <Value>Produtos Relacionados</Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.Configuration.Settings.ProductEditor.BlockTitle.Mappings">
-    <Value>mapeamentos</Value>
+  <LocaleResource Name="admin.configuration.settings.producteditor.blocktitle.mappings">
+    <Value>Mapeamentos de categoria</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Settings.ProductEditor.BlockTitle.OneColumnProductPage">
     <Value>Página do produto Uma coluna</Value>
@@ -7338,8 +7338,8 @@
   <LocaleResource Name="Admin.Configuration.Settings.ProductEditor.BlockTitle.Price">
     <Value>Preço</Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.Configuration.Settings.ProductEditor.BlockTitle.Security">
-    <Value>Lista de controle de acesso</Value>
+  <LocaleResource Name="admin.configuration.settings.producteditor.blocktitle.security">
+    <Value>Controle de acesso (ACL)</Value>
   </LocaleResource>
   <LocaleResource Name="admin.configuration.settings.producteditor.blocktitle.shipping">
     <Value>Forma de envio</Value>
@@ -7350,17 +7350,17 @@
   <LocaleResource Name="Admin.Configuration.Settings.ProductEditor.Button">
     <Value>Configurações</Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.Configuration.Settings.ProductEditor.CallForPrice">
-    <Value>Chamada de preço</Value>
+  <LocaleResource Name="admin.configuration.settings.producteditor.callforprice">
+    <Value>Orçamento por telefone</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Settings.ProductEditor.CreatedOn">
     <Value>Criado em</Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.Configuration.Settings.ProductEditor.CrossSellsProducts">
-    <Value>Cross-vende produtos</Value>
+  <LocaleResource Name="admin.configuration.settings.producteditor.crosssellsproducts">
+    <Value>Venda cruzada de produtos</Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.Configuration.Settings.ProductEditor.CustomerEntersPrice">
-    <Value>O cliente entra preço</Value>
+  <LocaleResource Name="admin.configuration.settings.producteditor.customerentersprice">
+    <Value>O cliente informa o preço</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Settings.ProductEditor.DeliveryDate">
     <Value>Data de entrega</Value>
@@ -7368,8 +7368,8 @@
   <LocaleResource Name="Admin.Configuration.Settings.ProductEditor.Dimensions">
     <Value>Dimensões</Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.Configuration.Settings.ProductEditor.DisableBuyButton">
-    <Value>Botão de compra Disable</Value>
+  <LocaleResource Name="admin.configuration.settings.producteditor.disablebuybutton">
+    <Value>Botão de compra desativado</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Settings.ProductEditor.DisableWishlistButton">
     <Value>Botão de lista Disable</Value>
@@ -7380,8 +7380,8 @@
   <LocaleResource Name="Admin.Configuration.Settings.ProductEditor.DisplayOrder">
     <Value>Ordem de exibição</Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.Configuration.Settings.ProductEditor.DisplayStockAvailability">
-    <Value>Disponibilidade Display</Value>
+  <LocaleResource Name="admin.configuration.settings.producteditor.displaystockavailability">
+    <Value>Mostrar Disponibilidade</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Settings.ProductEditor.DisplayStockQuantity">
     <Value>Display Quant estoque</Value>
@@ -7458,8 +7458,8 @@
   <LocaleResource Name="Admin.Configuration.Settings.ProductEditor.ProductCost">
     <Value>Custo do produto</Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.Configuration.Settings.ProductEditor.ProductTags">
-    <Value>Etiquetas de Produtos</Value>
+  <LocaleResource Name="admin.configuration.settings.producteditor.producttags">
+    <Value>TAG de Produtos</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Settings.ProductEditor.ProductTemplate">
     <Value>Modelo do produto</Value>
@@ -7467,11 +7467,11 @@
   <LocaleResource Name="Admin.Configuration.Settings.ProductEditor.ProductType">
     <Value>Tipo de Produto</Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.Configuration.Settings.ProductEditor.Published">
-    <Value>Publicados</Value>
+  <LocaleResource Name="admin.configuration.settings.producteditor.published">
+    <Value>Publicado</Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.Configuration.Settings.ProductEditor.PurchasedWithOrders">
-    <Value>Comprado com ordens</Value>
+  <LocaleResource Name="admin.configuration.settings.producteditor.purchasedwithorders">
+    <Value>Comprado nos pedidos</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Settings.ProductEditor.RecurringProduct">
     <Value>Produto recorrente</Value>
@@ -7488,8 +7488,8 @@
   <LocaleResource Name="Admin.Configuration.Settings.ProductEditor.ShipSeparately">
     <Value>Enviado separadamente</Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.Configuration.Settings.ProductEditor.ShowOnHomePage">
-    <Value>Mostrar na home page</Value>
+  <LocaleResource Name="admin.configuration.settings.producteditor.showonhomepage">
+    <Value>Mostrar na página inicial</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Settings.ProductEditor.SpecialPrice">
     <Value>Preço especial</Value>
@@ -7509,8 +7509,8 @@
   <LocaleResource Name="Admin.Configuration.Settings.ProductEditor.TelecommunicationsBroadcastingElectronicServices">
     <Value>telecomunicações, radiodifusão e electrónicos serviços</Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.Configuration.Settings.ProductEditor.TierPrices">
-    <Value>preços tier</Value>
+  <LocaleResource Name="admin.configuration.settings.producteditor.tierprices">
+    <Value>preços por quantidade</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Settings.ProductEditor.UpdatedOn">
     <Value>Atualizado em</Value>
@@ -7698,8 +7698,8 @@
   <LocaleResource Name="Admin.Configuration.Settings.Shipping.ShippingOriginAddress.Hint">
     <Value>Endereço de origem do envio</Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.Configuration.Settings.Shipping.ShipToSameAddress">
-    <Value>Enviar para o mesmo endereço</Value>
+  <LocaleResource Name="admin.configuration.settings.shipping.shiptosameaddress">
+    <Value>Enviar para o endereço</Value>
   </LocaleResource>
   <LocaleResource Name="admin.configuration.settings.shipping.shiptosameaddress.hint">
     <Value>Marcar para exibir "envio para o mesmo endereço" opção durante a verificação geral ("endereço de cobrança"). Neste caso "endereço de entrega", com opções apropriadas (por exemplo, pegar na loja) serão ignorados. Observe também que todos os países de faturamento devem permitir o transporte ("Permite envio" caixa de seleção marcada).</Value>
@@ -7734,8 +7734,8 @@
   <LocaleResource Name="Admin.Configuration.Settings.ShoppingCart.CrossSellsNumber">
     <Value>Número de 'Cross-Sells'</Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.Configuration.Settings.ShoppingCart.CrossSellsNumber.Hint">
-    <Value>O número de" Cross-Sells 'para exibir na página do carrinho de compras; 0, se você não quer carregar cross-vende </Value>
+  <LocaleResource Name="admin.configuration.settings.shoppingcart.crosssellsnumber.hint">
+    <Value>O número de "Venda cruzada" para exibir na página do carrinho de compras.  Deixe com (0) se você não quer carregar "Venda cruzada"</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Settings.ShoppingCart.DisplayCartAfterAddingProduct">
     <Value>Display carrinho após a adição do produto</Value>
@@ -8196,8 +8196,8 @@
   <LocaleResource Name="admin.configuration.shipping.pickuppoints">
     <Value>Pontos de retirada</Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.Configuration.Shipping.Providers">
-    <Value>prestadores de embalagem</Value>
+  <LocaleResource Name="admin.configuration.shipping.providers">
+    <Value>Fornecedores de frete</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Shipping.Providers.BackToList">
     <Value>Voltar para a lista método de cálculo taxa de envio</Value>
@@ -8394,8 +8394,8 @@
   <LocaleResource Name="Admin.Configuration.Tax">
     <Value>Imposto</Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.Configuration.Tax.Categories">
-    <Value>categorias fiscais</Value>
+  <LocaleResource Name="admin.configuration.tax.categories">
+    <Value>categoria fiscais</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Tax.Categories.Fields.DisplayOrder">
     <Value>Ordem de exibição</Value>
@@ -8430,8 +8430,8 @@
   <LocaleResource Name="Admin.Configuration.Updated">
     <Value>As configurações foram atualizadas com sucesso.</Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.ContentManagement">
-    <Value>Gerenciamento de conteúdo</Value>
+  <LocaleResource Name="admin.contentmanagement">
+    <Value>Gerenc. de conteúdo</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.ContentManagement.Blog">
     <Value>Blog</Value>
@@ -8772,8 +8772,8 @@
   <LocaleResource Name="Admin.ContentManagement.MessageTemplates.Fields.SendImmediately.Hint">
     <Value>Enviar mensagem imediatamente.</Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.ContentManagement.MessageTemplates.Fields.Subject">
-    <Value>Sujeito</Value>
+  <LocaleResource Name="admin.contentmanagement.messagetemplates.fields.subject">
+    <Value>Assunto</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.ContentManagement.MessageTemplates.Fields.Subject.Hint">
     <Value>O assunto da mensagem (e-mail) TIP -. Você pode incluir tokens no seu assunto.</Value>
@@ -8793,8 +8793,8 @@
   <LocaleResource Name="Admin.ContentManagement.MessageTemplates.Stores">
     <Value>Lojas</Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.ContentManagement.MessageTemplates.Test">
-    <Value>Template Test</Value>
+  <LocaleResource Name="admin.contentmanagement.messagetemplates.test">
+    <Value>Testar Template</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.ContentManagement.MessageTemplates.Test.BackToTemplate">
     <Value>De volta ao molde</Value>
@@ -8928,8 +8928,8 @@
   <LocaleResource Name="Admin.ContentManagement.News.NewsItems.Fields.MetaTitle.Hint">
     <Value>Substituir o título da página. O padrão é o título da notícia.</Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.ContentManagement.News.NewsItems.Fields.Published">
-    <Value>Publicados</Value>
+  <LocaleResource Name="admin.contentmanagement.news.newsitems.fields.published">
+    <Value>Publicado</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.ContentManagement.News.NewsItems.Fields.Published.Hint">
     <Value>Determina se a notícia é publicada (visível) em sua loja.</Value>
@@ -9048,14 +9048,14 @@
   <LocaleResource Name="Admin.ContentManagement.Polls.Fields.Name.Required">
     <Value>O nome é obrigatório.</Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.ContentManagement.Polls.Fields.Published">
-    <Value>Publicados</Value>
+  <LocaleResource Name="admin.contentmanagement.polls.fields.published">
+    <Value>Publicado</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.ContentManagement.Polls.Fields.Published.Hint">
     <Value>Determina se essa pesquisa é publicada (visível) em sua loja.</Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.ContentManagement.Polls.Fields.ShowOnHomePage">
-    <Value>Mostrar na home page</Value>
+  <LocaleResource Name="admin.contentmanagement.polls.fields.showonhomepage">
+    <Value>Mostrar na página inicial</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.ContentManagement.Polls.Fields.ShowOnHomePage.Hint">
     <Value>Verifique se você quer mostrar enquete na página inicial.</Value>
@@ -9186,8 +9186,8 @@
   <LocaleResource Name="Admin.ContentManagement.Topics.Fields.Password.Hint">
     <Value>A senha para acessar o conteúdo deste tópico</Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.ContentManagement.Topics.Fields.Published">
-    <Value>Publicados</Value>
+  <LocaleResource Name="admin.contentmanagement.topics.fields.published">
+    <Value>Publicado</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.ContentManagement.Topics.Fields.Published.Hint">
     <Value>Determina se este tópico é publicado (visível) em sua loja.</Value>
@@ -9276,8 +9276,8 @@
   <LocaleResource Name="Admin.ContentManagement.Widgets.Fields.SystemName">
     <Value>Nome do sistema</Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.CurrentCarts">
-    <Value>Current carrinhos de compras</Value>
+  <LocaleResource Name="admin.currentcarts">
+    <Value>Ver carrinhos de compras</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.CurrentCarts.Customer">
     <Value>Cliente</Value>
@@ -9730,7 +9730,7 @@
     <Value>A última data visitada (arquivo público).</Value>
   </LocaleResource>
   <LocaleResource Name="admin.customers.customers.fields.newsletter">
-    <Value>Receber novidades</Value>
+    <Value>Receber Newsletter</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Customers.Customers.Fields.Newsletter.Hint">
     <Value>Verificar para subscrever a newsletter.</Value>
@@ -9768,8 +9768,8 @@
   <LocaleResource Name="Admin.Customers.Customers.Fields.StreetAddress.Required">
     <Value>Endereço da rua é necessária</Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.Customers.Customers.Fields.StreetAddress2">
-    <Value>Endereço 2</Value>
+  <LocaleResource Name="admin.customers.customers.fields.streetaddress2">
+    <Value>Complemento</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Customers.Customers.Fields.StreetAddress2.Hint">
     <Value>O 2. endereço</Value>
@@ -10017,8 +10017,8 @@
   <LocaleResource Name="Admin.Customers.Customers.SendEmail.SendImmediately.Hint">
     <Value>Enviar mensagem imediatamente.</Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.Customers.Customers.SendEmail.Subject">
-    <Value>O sujeito</Value>
+  <LocaleResource Name="admin.customers.customers.sendemail.subject">
+    <Value>Assunto</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Customers.Customers.SendEmail.Subject.Hint">
     <Value>Digite o assunto do e-mail.</Value>
@@ -10035,8 +10035,8 @@
   <LocaleResource Name="Admin.Customers.Customers.SendPM.Sent">
     <Value>A PM foi enviada com sucesso.</Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.Customers.Customers.SendPM.Subject">
-    <Value>O sujeito</Value>
+  <LocaleResource Name="admin.customers.customers.sendpm.subject">
+    <Value>Assunto</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Customers.Customers.SendPM.Subject.Hint">
     <Value>Introduzir o assunto da PM.</Value>
@@ -10413,8 +10413,8 @@
   <LocaleResource Name="Admin.Orders.Address.Address1">
     <Value>Endereço 1</Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.Orders.Address.Address2">
-    <Value>Endereço 2</Value>
+  <LocaleResource Name="admin.orders.address.address2">
+    <Value>Complemento</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Orders.Address.BackToOrder">
     <Value>De volta para pedir detalhes</Value>
@@ -10983,8 +10983,8 @@
   <LocaleResource Name="Admin.Orders.OrderNotes.Fields.CreatedOn">
     <Value>Criado em</Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.Orders.OrderNotes.Fields.DisplayToCustomer">
-    <Value>Display para o cliente</Value>
+  <LocaleResource Name="admin.orders.ordernotes.fields.displaytocustomer">
+    <Value>Mostrar para o cliente</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Orders.OrderNotes.Fields.DisplayToCustomer.Hint">
     <Value>Um valor que indica se deve exibir esta nota para um cliente.</Value>
@@ -11118,8 +11118,8 @@
   <LocaleResource Name="Admin.Orders.Products.Edit.InclTax">
     <Value>Incl. Imposto</Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.Orders.Products.GiftCards">
-    <Value>Cartões de presente)</Value>
+  <LocaleResource Name="admin.orders.products.giftcards">
+    <Value>Cartões de presente</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Orders.Products.License">
     <Value>O arquivo de licença (opcional):</Value>
@@ -11217,8 +11217,8 @@
   <LocaleResource Name="Admin.Orders.Shipments.DeliverySelected">
     <Value>Definir como entregues (selecionado)</Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.Orders.Shipments.ID">
-    <Value>Envio #</Value>
+  <LocaleResource Name="admin.orders.shipments.id">
+    <Value>Envio</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Orders.Shipments.List">
     <Value>Envios</Value>
@@ -11481,8 +11481,8 @@
   <LocaleResource Name="Admin.Promotions.Campaigns.Fields.Store.Hint">
     <Value>Escolha uma loja que os aderentes irão receber este e-mail.</Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.Promotions.Campaigns.Fields.Subject">
-    <Value>Sujeito</Value>
+  <LocaleResource Name="admin.promotions.campaigns.fields.subject">
+    <Value>Assunto</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Promotions.Campaigns.Fields.Subject.Hint">
     <Value>O assunto do seu e-mail campanha.</Value>
@@ -12138,8 +12138,8 @@
   <LocaleResource Name="Admin.SalesReport.Bestsellers.Vendor.Hint">
     <Value>Pesquisar por um fornecedor específico.</Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.SalesReport.Country">
-    <Value>Relatório Country</Value>
+  <LocaleResource Name="admin.salesreport.country">
+    <Value>Relatório de países</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.SalesReport.Country.EndDate">
     <Value>Data final</Value>
@@ -12189,14 +12189,14 @@
   <LocaleResource Name="Admin.SalesReport.Incomplete.Total">
     <Value>Total</Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.SalesReport.Incomplete.TotalIncompleteOrders">
-    <Value>Total de ordens incompletas (pendente status do pedido)</Value>
+  <LocaleResource Name="admin.salesreport.incomplete.totalincompleteorders">
+    <Value>Total de pedidos incompletos</Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.SalesReport.Incomplete.TotalNotShippedOrders">
-    <Value>Total ainda não enviado ordens</Value>
+  <LocaleResource Name="admin.salesreport.incomplete.totalnotshippedorders">
+    <Value>Total de pedidos não enviado</Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.SalesReport.Incomplete.TotalUnpaidOrders">
-    <Value>Total de encomendas não pagas (pendente status de pagamento)</Value>
+  <LocaleResource Name="admin.salesreport.incomplete.totalunpaidorders">
+    <Value>Total de pedidos não pagos</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.SalesReport.Incomplete.View">
     <Value>ver tudo</Value>
@@ -12561,8 +12561,8 @@
   <LocaleResource Name="Admin.System.QueuedEmails.Fields.SentTries.Required">
     <Value>Enter enviar tentativas.</Value>
   </LocaleResource>
-  <LocaleResource Name="Admin.System.QueuedEmails.Fields.Subject">
-    <Value>Sujeito</Value>
+  <LocaleResource Name="admin.system.queuedemails.fields.subject">
+    <Value>Assunto</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.System.QueuedEmails.Fields.Subject.Hint">
     <Value>Assunto da mensagem.</Value>
@@ -13458,8 +13458,8 @@
   <LocaleResource Name="Categories">
     <Value>Categorias</Value>
   </LocaleResource>
-  <LocaleResource Name="Categories.Breadcrumb.Top">
-    <Value>Home</Value>
+  <LocaleResource Name="categories.breadcrumb.top">
+    <Value>Início</Value>
   </LocaleResource>
   <LocaleResource Name="Categories.OrderBy">
     <Value>Classificar por</Value>
@@ -13551,8 +13551,8 @@
   <LocaleResource Name="Checkout.PickUpInStore">
     <Value>Captura de In-Store</Value>
   </LocaleResource>
-  <LocaleResource Name="Checkout.PickUpInStore.Description">
-    <Value>Pegue seus itens na loja (colocar o seu endereço da loja aqui)</Value>
+  <LocaleResource Name="checkout.pickupinstore.description">
+    <Value>Retire seus itens na loja (colocar o seu endereço da loja aqui)</Value>
   </LocaleResource>
   <LocaleResource Name="Checkout.PickUpInStore.MethodName">
     <Value>Captura de In-Store</Value>
@@ -13561,13 +13561,13 @@
     <Value>Pegar na loja ({0})</Value>
   </LocaleResource>
   <LocaleResource Name="checkout.pickuppoints">
-    <Value>Pegar em nossa Loja</Value>
+    <Value>Retirar em nossa loja física</Value>
   </LocaleResource>
-  <LocaleResource Name="Checkout.PickupPoints.Description">
-    <Value>Pegue seus itens na loja</Value>
+  <LocaleResource Name="checkout.pickuppoints.description">
+    <Value>Retire seus itens na loja</Value>
   </LocaleResource>
-  <LocaleResource Name="Checkout.PickupPoints.Name">
-    <Value>Traslado no {0}</Value>
+  <LocaleResource Name="checkout.pickuppoints.name">
+    <Value>Retirar em {0}</Value>
   </LocaleResource>
   <LocaleResource Name="Checkout.PickupPoints.NotAvailable">
     <Value>Pontos de coleta não pôde ser carregado</Value>
@@ -13599,8 +13599,8 @@
   <LocaleResource Name="Checkout.SelectBillingAddress">
     <Value>Select endereço de cobrança</Value>
   </LocaleResource>
-  <LocaleResource Name="Checkout.SelectBillingAddressOrEnterNewOne">
-    <Value>Selecione um endereço de cobrança a partir do seu livro de endereços ou digitar um novo endereço.</Value>
+  <LocaleResource Name="checkout.selectbillingaddressorenternewone">
+    <Value>Selecione um endereço de cobrança a partir da lista de endereços ou digite um novo endereço</Value>
   </LocaleResource>
   <LocaleResource Name="Checkout.SelectPaymentMethod">
     <Value>Selecione o método de pagamento</Value>
@@ -13611,8 +13611,8 @@
   <LocaleResource Name="Checkout.SelectShippingAddress">
     <Value>Selecionar endereço de envio</Value>
   </LocaleResource>
-  <LocaleResource Name="Checkout.SelectShippingAddressOrEnterNewOne">
-    <Value>Selecione um endereço de entrega a partir do seu livro de endereços ou digitar um novo endereço.</Value>
+  <LocaleResource Name="checkout.selectshippingaddressorenternewone">
+    <Value>Selecione um endereço de entrega a partir da lista de endereços ou digite um novo endereço</Value>
   </LocaleResource>
   <LocaleResource Name="Checkout.SelectShippingMethod">
     <Value>Selecionar método de envio</Value>
@@ -13635,8 +13635,8 @@
   <LocaleResource Name="Checkout.ShippingOptionCouldNotBeLoaded">
     <Value>Opções de envio não pôde ser carregado</Value>
   </LocaleResource>
-  <LocaleResource Name="Checkout.ShipToSameAddress">
-    <Value>Enviar para o mesmo endereço</Value>
+  <LocaleResource Name="checkout.shiptosameaddress">
+    <Value>Enviar para o endereço</Value>
   </LocaleResource>
   <LocaleResource Name="Checkout.ShipToThisAddress">
     <Value>Envie para esse endereço</Value>
@@ -13743,8 +13743,8 @@
   <LocaleResource Name="Common.Hide">
     <Value>Esconder</Value>
   </LocaleResource>
-  <LocaleResource Name="Common.Home">
-    <Value>Casa</Value>
+  <LocaleResource Name="common.home">
+    <Value>Início</Value>
   </LocaleResource>
   <LocaleResource Name="Common.LoadingNextStep">
     <Value>Colocar o próximo passo ...</Value>
@@ -13809,8 +13809,8 @@
   <LocaleResource Name="ConditionsOfUse">
     <Value>Condições de uso</Value>
   </LocaleResource>
-  <LocaleResource Name="ContactUs">
-    <Value>Entre Em Contato Conosco</Value>
+  <LocaleResource Name="contactus">
+    <Value>Entre em Contato</Value>
   </LocaleResource>
   <LocaleResource Name="ContactUs.Button">
     <Value>Enviar</Value>
@@ -13983,8 +13983,8 @@
   <LocaleResource Name="Enums.Nop.Core.Domain.Catalog.BackorderMode.AllowQtyBelow0AndNotifyCustomer">
     <Value>Permitir qty abaixo de 0 e notificar o cliente</Value>
   </LocaleResource>
-  <LocaleResource Name="Enums.Nop.Core.Domain.Catalog.BackorderMode.NoBackorders">
-    <Value>Não há pedidos pendentes</Value>
+  <LocaleResource Name="enums.nop.core.domain.catalog.backordermode.nobackorders">
+    <Value>Não permitir pedidos pendentes</Value>
   </LocaleResource>
   <LocaleResource Name="Enums.Nop.Core.Domain.Catalog.DownloadActivationType.Manually">
     <Value>Manualmente</Value>
@@ -13998,8 +13998,8 @@
   <LocaleResource Name="Enums.Nop.Core.Domain.Catalog.GiftCardType.Virtual">
     <Value>Virtual</Value>
   </LocaleResource>
-  <LocaleResource Name="Enums.Nop.Core.Domain.Catalog.LowStockActivity.DisableBuyButton">
-    <Value>Botão de compra Disable</Value>
+  <LocaleResource Name="enums.nop.core.domain.catalog.lowstockactivity.disablebuybutton">
+    <Value>Botão de compra desativado</Value>
   </LocaleResource>
   <LocaleResource Name="Enums.Nop.Core.Domain.Catalog.LowStockActivity.Nothing">
     <Value>Nada</Value>
@@ -14007,11 +14007,11 @@
   <LocaleResource Name="Enums.Nop.Core.Domain.Catalog.LowStockActivity.Unpublish">
     <Value>Despublicar</Value>
   </LocaleResource>
-  <LocaleResource Name="Enums.Nop.Core.Domain.Catalog.ManageInventoryMethod.DontManageStock">
-    <Value>Não rastrear o inventário</Value>
+  <LocaleResource Name="enums.nop.core.domain.catalog.manageinventorymethod.dontmanagestock">
+    <Value>Não controlar o estoque</Value>
   </LocaleResource>
-  <LocaleResource Name="Enums.Nop.Core.Domain.Catalog.ManageInventoryMethod.ManageStock">
-    <Value>Inventário Track</Value>
+  <LocaleResource Name="enums.nop.core.domain.catalog.manageinventorymethod.managestock">
+    <Value>Controlar estoque</Value>
   </LocaleResource>
   <LocaleResource Name="Enums.Nop.Core.Domain.Catalog.ManageInventoryMethod.ManageStockByAttributes">
     <Value>Inventário da faixa por atributos do produto</Value>
@@ -14028,11 +14028,11 @@
   <LocaleResource Name="Enums.Nop.Core.Domain.Catalog.ProductSortingEnum.Position">
     <Value>Posição</Value>
   </LocaleResource>
-  <LocaleResource Name="Enums.Nop.Core.Domain.Catalog.ProductSortingEnum.PriceAsc">
-    <Value>Preço: Baixo para Alto</Value>
+  <LocaleResource Name="enums.nop.core.domain.catalog.productsortingenum.priceasc">
+    <Value>Preço: menor primeiro</Value>
   </LocaleResource>
-  <LocaleResource Name="Enums.Nop.Core.Domain.Catalog.ProductSortingEnum.PriceDesc">
-    <Value>Preço: Alto para Baixo</Value>
+  <LocaleResource Name="enums.nop.core.domain.catalog.productsortingenum.pricedesc">
+    <Value>Preço: maior primeiro</Value>
   </LocaleResource>
   <LocaleResource Name="Enums.Nop.Core.Domain.Catalog.ProductType.GroupedProduct">
     <Value>Agrupados (produto com variantes)</Value>
@@ -14169,8 +14169,8 @@
   <LocaleResource Name="Enums.Nop.Core.Domain.Logging.LogLevel.Fatal">
     <Value>Fatal</Value>
   </LocaleResource>
-  <LocaleResource Name="Enums.Nop.Core.Domain.Logging.LogLevel.Information">
-    <Value>Em formação</Value>
+  <LocaleResource Name="enums.nop.core.domain.logging.loglevel.information">
+    <Value>Informação</Value>
   </LocaleResource>
   <LocaleResource Name="Enums.Nop.Core.Domain.Logging.LogLevel.Warning">
     <Value>Atenção</Value>
@@ -14454,8 +14454,8 @@
   <LocaleResource Name="Footer.FollowUs.Youtube">
     <Value>Youtube</Value>
   </LocaleResource>
-  <LocaleResource Name="Footer.Information">
-    <Value>Em formação</Value>
+  <LocaleResource Name="footer.information">
+    <Value>Informação</Value>
   </LocaleResource>
   <LocaleResource Name="footer.myaccount">
     <Value>Minha conta</Value>
@@ -14493,8 +14493,8 @@
   <LocaleResource Name="Forum.BreadCrumb.ForumGroupTitle">
     <Value>Forum Grupo</Value>
   </LocaleResource>
-  <LocaleResource Name="Forum.BreadCrumb.ForumHomeTitle">
-    <Value>Forum Home Page</Value>
+  <LocaleResource Name="forum.breadcrumb.forumhometitle">
+    <Value>Página inicial do Forum</Value>
   </LocaleResource>
   <LocaleResource Name="Forum.BreadCrumb.ForumTitle">
     <Value>Fórum</Value>
@@ -14541,8 +14541,8 @@
   <LocaleResource Name="Forum.Forums">
     <Value>Fóruns</Value>
   </LocaleResource>
-  <LocaleResource Name="Forum.Home">
-    <Value>Casa</Value>
+  <LocaleResource Name="forum.home">
+    <Value>Início</Value>
   </LocaleResource>
   <LocaleResource Name="Forum.In">
     <Value>Dentro</Value>
@@ -14724,8 +14724,8 @@
   <LocaleResource Name="Forum.Topics.GotoPostPager">
     <Value>[Ir para página: {0}]</Value>
   </LocaleResource>
-  <LocaleResource Name="Forum.TopicSubjectCannotBeEmpty">
-    <Value>Tópico sujeito não pode estar vazio</Value>
+  <LocaleResource Name="forum.topicsubjectcannotbeempty">
+    <Value>Assunto do tópico não pode estar vazio</Value>
   </LocaleResource>
   <LocaleResource Name="Forum.TopicTitle">
     <Value>Titulo do Topico</Value>
@@ -14775,8 +14775,8 @@
   <LocaleResource Name="GiftCardAttribute.From.Virtual">
     <Value>De: {0} &lt;{1}&gt;</Value>
   </LocaleResource>
-  <LocaleResource Name="HomePage">
-    <Value>Home page</Value>
+  <LocaleResource Name="homepage">
+    <Value>Página inicial</Value>
   </LocaleResource>
   <LocaleResource Name="HomePage.Products">
     <Value>Produtos em destaque</Value>
@@ -14841,20 +14841,20 @@
   <LocaleResource Name="Media.Manufacturer.ImageLinkTitleFormat">
     <Value>Mostrar os produtos fabricados por {0}</Value>
   </LocaleResource>
-  <LocaleResource Name="Media.Product.ImageAlternateTextFormat">
-    <Value>Picture de {0}</Value>
+  <LocaleResource Name="media.product.imagealternatetextformat">
+    <Value>Imagem de {0}</Value>
   </LocaleResource>
-  <LocaleResource Name="Media.Product.ImageAlternateTextFormat.Details">
-    <Value>Picture de {0}</Value>
+  <LocaleResource Name="media.product.imagealternatetextformat.details">
+    <Value>Imagem de {0}</Value>
   </LocaleResource>
   <LocaleResource Name="Media.Product.ImageLinkTitleFormat">
     <Value>Mostrar detalhes de {0}</Value>
   </LocaleResource>
-  <LocaleResource Name="Media.Product.ImageLinkTitleFormat.Details">
-    <Value>Picture de {0}</Value>
+  <LocaleResource Name="media.product.imagelinktitleformat.details">
+    <Value>Imagem de {0}</Value>
   </LocaleResource>
-  <LocaleResource Name="Media.Vendor.ImageAlternateTextFormat">
-    <Value>Picture para o fornecedor {0}</Value>
+  <LocaleResource Name="media.vendor.imagealternatetextformat">
+    <Value>Logo do fornecedor {0}</Value>
   </LocaleResource>
   <LocaleResource Name="Media.Vendor.ImageLinkTitleFormat">
     <Value>Mostrar produtos do fornecedor {0}</Value>
@@ -14865,8 +14865,8 @@
   <LocaleResource Name="Messages.Order.GiftCardInfo">
     <Value>Cartão de presente ({0}):</Value>
   </LocaleResource>
-  <LocaleResource Name="Messages.Order.OrderTotal">
-    <Value>Total de pedidos:</Value>
+  <LocaleResource Name="messages.order.ordertotal">
+    <Value>Total do pedido:</Value>
   </LocaleResource>
   <LocaleResource Name="Messages.Order.PaymentMethodAdditionalFee">
     <Value>Método de pagamento taxa adicional:</Value>
@@ -15004,7 +15004,7 @@
     <Value>Obrigado por se inscrever! Um e-mail de confirmação foi enviado. Nós apreciamos seu interesse.</Value>
   </LocaleResource>
   <LocaleResource Name="newsletter.title">
-    <Value>Receber novidades</Value>
+    <Value>Cadastre seu e-mail</Value>
   </LocaleResource>
   <LocaleResource Name="Newsletter.UnsubscribeEmailSent">
     <Value>Um e-mail de confirmação foi enviado. Obrigado!</Value>
@@ -15136,7 +15136,7 @@
     <Value>Fax</Value>
   </LocaleResource>
   <LocaleResource Name="order.shipments.id">
-    <Value>Envio #</Value>
+    <Value>Envio</Value>
   </LocaleResource>
   <LocaleResource Name="order.shipments.information">
     <Value>Envio N.{0}</Value>
@@ -15150,8 +15150,8 @@
   <LocaleResource Name="order.shipments.pickupaddress">
     <Value>Endereço de Entrega</Value>
   </LocaleResource>
-  <LocaleResource Name="Order.Shipments.Product(s)">
-    <Value>Produto (s) Enviado</Value>
+  <LocaleResource Name="order.shipments.product(s)">
+    <Value>Itens Enviado</Value>
   </LocaleResource>
   <LocaleResource Name="Order.Shipments.Product(s).Name">
     <Value>Nome</Value>
@@ -15285,8 +15285,8 @@
   <LocaleResource Name="PageTitle.CompareProducts">
     <Value>Comparar produtos</Value>
   </LocaleResource>
-  <LocaleResource Name="PageTitle.ContactUs">
-    <Value>Entre Em Contato Conosco</Value>
+  <LocaleResource Name="pagetitle.contactus">
+    <Value>Entre em contato</Value>
   </LocaleResource>
   <LocaleResource Name="PageTitle.ContactVendor">
     <Value>Contato com fornecedores - {0}</Value>
@@ -15297,8 +15297,8 @@
   <LocaleResource Name="PageTitle.ForumSubscriptions">
     <Value>Forum Subscriptions</Value>
   </LocaleResource>
-  <LocaleResource Name="PageTitle.Login">
-    <Value>Entrar</Value>
+  <LocaleResource Name="pagetitle.login">
+    <Value>Minha Conta</Value>
   </LocaleResource>
   <LocaleResource Name="PageTitle.Manufacturers">
     <Value>Fabricantes</Value>
@@ -15420,8 +15420,8 @@
   <LocaleResource Name="PDFInvoice.Address">
     <Value>Endereço: {0}</Value>
   </LocaleResource>
-  <LocaleResource Name="PDFInvoice.Address2">
-    <Value>Endereço 2: {0}</Value>
+  <LocaleResource Name="pdfinvoice.address2">
+    <Value>Complemento: {0}</Value>
   </LocaleResource>
   <LocaleResource Name="PDFInvoice.BillingInformation">
     <Value>Informações de pagamento:</Value>
@@ -15462,8 +15462,8 @@
   <LocaleResource Name="PDFInvoice.OrderNotes.Note">
     <Value>Nota</Value>
   </LocaleResource>
-  <LocaleResource Name="PDFInvoice.OrderTotal">
-    <Value>Total de pedidos:</Value>
+  <LocaleResource Name="pdfinvoice.ordertotal">
+    <Value>Total do pedido:</Value>
   </LocaleResource>
   <LocaleResource Name="PDFInvoice.PaymentMethod">
     <Value>Forma de pagamento: {0}</Value>
@@ -15525,8 +15525,8 @@
   <LocaleResource Name="PDFPackagingSlip.Address">
     <Value>Endereço: {0}</Value>
   </LocaleResource>
-  <LocaleResource Name="PDFPackagingSlip.Address2">
-    <Value>Endereço 2: {0}</Value>
+  <LocaleResource Name="pdfpackagingslip.address2">
+    <Value>Complemento: {0}</Value>
   </LocaleResource>
   <LocaleResource Name="PDFPackagingSlip.Company">
     <Value>Empresa: {0}</Value>
@@ -15681,8 +15681,8 @@
   <LocaleResource Name="Permission.ManageProducts">
     <Value>Área de administração. Gerir os produtos</Value>
   </LocaleResource>
-  <LocaleResource Name="Permission.ManageProductTags">
-    <Value>Área de administração. Gerenciar Etiquetas de Produtos</Value>
+  <LocaleResource Name="permission.manageproducttags">
+    <Value>Área de administração. Gerenciar TAG de Produtos</Value>
   </LocaleResource>
   <LocaleResource Name="Permission.ManageRecurringPayments">
     <Value>Área de administração. Gerenciar pagamentos recorrentes</Value>
@@ -16281,8 +16281,8 @@
   <LocaleResource Name="Plugins.Pickup.PickupInStore.Fields.OpeningHours.Hint">
     <Value>Especifique uma hora de Abertura do ponto de captação (segunda-feira - sexta-feira: 09:00 - 19:00, por exemplo).</Value>
   </LocaleResource>
-  <LocaleResource Name="Plugins.Pickup.PickupInStore.Fields.PickupFee">
-    <Value>Taxa de recolha</Value>
+  <LocaleResource Name="plugins.pickup.pickupinstore.fields.pickupfee">
+    <Value>Taxa de entrega</Value>
   </LocaleResource>
   <LocaleResource Name="Plugins.Pickup.PickupInStore.Fields.PickupFee.Hint">
     <Value>Especifique uma taxa para o transporte para o ponto de captação.</Value>
@@ -16445,6 +16445,150 @@
   </LocaleResource>
   <LocaleResource Name="plugins.shipping.canadapost.fields.usesandbox.hint">
     <Value>Marcar para permitir Sandbox (ambiente de teste).</Value>
+  </LocaleResource>
+  <LocaleResource Name="Plugins.Shipping.CorreiosNCS.AddRegrasTitulo">
+    <Value>APLICAR REGRAS PARA OS VALORES DO FRETE</Value>
+  </LocaleResource>
+  <LocaleResource Name="Plugins.Shipping.CorreiosNCS.ConfiguracoesTitulo">
+    <Value>CONFIGURAÇÕES</Value>
+  </LocaleResource>
+  <LocaleResource Name="Plugins.Shipping.CorreiosNCS.Fields.AvisoRecebimento">
+    <Value>Aviso Recebimento?</Value>
+  </LocaleResource>
+  <LocaleResource Name="Plugins.Shipping.CorreiosNCS.Fields.AvisoRecebimento.Hint">
+    <Value>Aviso Recebimento?</Value>
+  </LocaleResource>
+  <LocaleResource Name="Plugins.Shipping.CorreiosNCS.Fields.CEPFinal">
+    <Value>CEP final</Value>
+  </LocaleResource>
+  <LocaleResource Name="Plugins.Shipping.CorreiosNCS.Fields.CEPFinal.Hint">
+    <Value>Informe o CEP final.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Plugins.Shipping.CorreiosNCS.Fields.CEPInicial">
+    <Value>CEP inicial</Value>
+  </LocaleResource>
+  <LocaleResource Name="Plugins.Shipping.CorreiosNCS.Fields.CEPInicial.Hint">
+    <Value>Informe o CEP Inicial.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Plugins.Shipping.CorreiosNCS.Fields.CepOrigem">
+    <Value>CEP de origem</Value>
+  </LocaleResource>
+  <LocaleResource Name="Plugins.Shipping.CorreiosNCS.Fields.CepOrigem.Hint">
+    <Value>CEP de origem.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Plugins.Shipping.CorreiosNCS.Fields.CodigoEmpresa">
+    <Value>Código da empresa</Value>
+  </LocaleResource>
+  <LocaleResource Name="Plugins.Shipping.CorreiosNCS.Fields.CodigoEmpresa.Hint">
+    <Value>Especifique o código da empresa caso tenha contrato com os Correios</Value>
+  </LocaleResource>
+  <LocaleResource Name="Plugins.Shipping.CorreiosNCS.Fields.CodigosServicosNacionaisDisponiveis">
+    <Value>Serviços Nacionais disponíveis</Value>
+  </LocaleResource>
+  <LocaleResource Name="Plugins.Shipping.CorreiosNCS.Fields.CodigosServicosNacionaisDisponiveis.Hint">
+    <Value>Selecione os serviços que estarão disponíveis no site.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Plugins.Shipping.CorreiosNCS.Fields.Descricao">
+    <Value>Descrição</Value>
+  </LocaleResource>
+  <LocaleResource Name="Plugins.Shipping.CorreiosNCS.Fields.Descricao.Hint">
+    <Value>Informe a descrição da regra. Ex: Frete grátis para o estado da Bahia</Value>
+  </LocaleResource>
+  <LocaleResource Name="Plugins.Shipping.CorreiosNCS.Fields.DiasUteisAoPrazo">
+    <Value>Dias úteis ao prazo</Value>
+  </LocaleResource>
+  <LocaleResource Name="Plugins.Shipping.CorreiosNCS.Fields.DiasUteisAoPrazo.Hint">
+    <Value>Informe os dias úteis adicionais ao prazo (Opcional).</Value>
+  </LocaleResource>
+  <LocaleResource Name="Plugins.Shipping.CorreiosNCS.Fields.DimensaoMaximaFormatoCaixa">
+    <Value>Dimensão máxima para o formato Caixa</Value>
+  </LocaleResource>
+  <LocaleResource Name="Plugins.Shipping.CorreiosNCS.Fields.DimensaoMaximaFormatoCaixa.Hint">
+    <Value>Dimensão máxima para o formato caixa em cm. Mais informações no Blog dos Correios.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Plugins.Shipping.CorreiosNCS.Fields.DimensaoMaximaFormatoEnvelope">
+    <Value>Dimensão máxima para o formato Envelope</Value>
+  </LocaleResource>
+  <LocaleResource Name="Plugins.Shipping.CorreiosNCS.Fields.DimensaoMaximaFormatoEnvelope.Hint">
+    <Value>Dimensão máxima para o formato Envelope em cm. Mais informações no Blog dos Correios.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Plugins.Shipping.CorreiosNCS.Fields.DimensaoMaximaFormatoRoloPrisma">
+    <Value>Dimensão máxima para o formato Rolo/Prisma</Value>
+  </LocaleResource>
+  <LocaleResource Name="Plugins.Shipping.CorreiosNCS.Fields.DimensaoMaximaFormatoRoloPrisma.Hint">
+    <Value>Dimensão máxima para o formato Rolo/Prisma em cm. Mais informações no Blog dos Correios.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Plugins.Shipping.CorreiosNCS.Fields.FormatoEncomenda">
+    <Value>Formato da encomenda</Value>
+  </LocaleResource>
+  <LocaleResource Name="Plugins.Shipping.CorreiosNCS.Fields.FormatoEncomenda.Hint">
+    <Value>Informe o formato da encomenda (Caixa, Rolo/Prisma ou Envelope).</Value>
+  </LocaleResource>
+  <LocaleResource Name="Plugins.Shipping.CorreiosNCS.Fields.MaoPropria">
+    <Value>Mão Propria?</Value>
+  </LocaleResource>
+  <LocaleResource Name="Plugins.Shipping.CorreiosNCS.Fields.MaoPropria.Hint">
+    <Value>Mão Propria?</Value>
+  </LocaleResource>
+  <LocaleResource Name="Plugins.Shipping.CorreiosNCS.Fields.PesoMaximoPermitido">
+    <Value>Peso máximo permitido</Value>
+  </LocaleResource>
+  <LocaleResource Name="Plugins.Shipping.CorreiosNCS.Fields.PesoMaximoPermitido.Hint">
+    <Value>Peso máximo permitido absoluto permitido pelos Correios. Mais informações no Blog dos Correios.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Plugins.Shipping.CorreiosNCS.Fields.Senha">
+    <Value>Senha</Value>
+  </LocaleResource>
+  <LocaleResource Name="Plugins.Shipping.CorreiosNCS.Fields.Senha.Hint">
+    <Value>Informe a senha do contrato.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Plugins.Shipping.CorreiosNCS.Fields.ShippingChargeAmount">
+    <Value>Valor</Value>
+  </LocaleResource>
+  <LocaleResource Name="Plugins.Shipping.CorreiosNCS.Fields.ShippingChargeAmount.Hint">
+    <Value>Valor.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Plugins.Shipping.CorreiosNCS.Fields.ShippingChargePercentage">
+    <Value>Porcentagem</Value>
+  </LocaleResource>
+  <LocaleResource Name="Plugins.Shipping.CorreiosNCS.Fields.ShippingChargePercentage.Hint">
+    <Value>Porcentagem (do valor do frete).</Value>
+  </LocaleResource>
+  <LocaleResource Name="Plugins.Shipping.CorreiosNCS.Fields.Store">
+    <Value>Loja</Value>
+  </LocaleResource>
+  <LocaleResource Name="Plugins.Shipping.CorreiosNCS.Fields.Store.Hint">
+    <Value>Se o asterisco estiver selecionado, então a taxa a ser configurada será aplicada para todas as lojas.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Plugins.Shipping.CorreiosNCS.Fields.TaxaAdicional">
+    <Value>Taxa adicional</Value>
+  </LocaleResource>
+  <LocaleResource Name="Plugins.Shipping.CorreiosNCS.Fields.TaxaAdicional.Hint">
+    <Value>Taxa adicional.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Plugins.Shipping.CorreiosNCS.Fields.URL">
+    <Value>URL</Value>
+  </LocaleResource>
+  <LocaleResource Name="Plugins.Shipping.CorreiosNCS.Fields.URL.Hint">
+    <Value>Especifique a URL</Value>
+  </LocaleResource>
+  <LocaleResource Name="Plugins.Shipping.CorreiosNCS.Fields.UsePercentage">
+    <Value>Usar porcentagem</Value>
+  </LocaleResource>
+  <LocaleResource Name="Plugins.Shipping.CorreiosNCS.Fields.UsePercentage.Hint">
+    <Value>Marque para usar 'usar porcentagem'.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Plugins.Shipping.CorreiosNCS.Fields.ValorDeclarado">
+    <Value>ValorDeclarado?</Value>
+  </LocaleResource>
+  <LocaleResource Name="Plugins.Shipping.CorreiosNCS.Fields.ValorDeclarado.Hint">
+    <Value>ValorDeclarado?</Value>
+  </LocaleResource>
+  <LocaleResource Name="Plugins.Shipping.CorreiosNCS.Fields.Warehouse">
+    <Value>Armazém</Value>
+  </LocaleResource>
+  <LocaleResource Name="Plugins.Shipping.CorreiosNCS.Fields.Warehouse.Hint">
+    <Value>Se o asterisco estiver selecionado, então esta taxa de envio será aplicada para todos os armazéns.</Value>
   </LocaleResource>
   <LocaleResource Name="Plugins.Shipping.Fedex.Fields.AccountNumber">
     <Value>Número da conta</Value>
@@ -16872,8 +17016,8 @@
   <LocaleResource Name="Polls.SelectAnswer">
     <Value>Selecione uma resposta</Value>
   </LocaleResource>
-  <LocaleResource Name="Polls.Title">
-    <Value>Comunidade de votação</Value>
+  <LocaleResource Name="polls.title">
+    <Value>Queremos sua opinião</Value>
   </LocaleResource>
   <LocaleResource Name="Polls.TotalVotes">
     <Value>{0} voto(s) ...</Value>
@@ -16974,8 +17118,8 @@
   <LocaleResource Name="PrivateMessages.View.ReplyButton">
     <Value>Resposta</Value>
   </LocaleResource>
-  <LocaleResource Name="PrivateMessages.View.Subject">
-    <Value>Sujeito:</Value>
+  <LocaleResource Name="privatemessages.view.subject">
+    <Value>Assunto:</Value>
   </LocaleResource>
   <LocaleResource Name="PrivateMessages.View.To">
     <Value>Para:</Value>
@@ -17001,17 +17145,17 @@
   <LocaleResource Name="Products.Availability.InStockWithQuantity">
     <Value>{0} em estoque</Value>
   </LocaleResource>
-  <LocaleResource Name="Products.Availability.OutOfStock">
-    <Value>Fora de estoque</Value>
+  <LocaleResource Name="products.availability.outofstock">
+    <Value>Sem estoque</Value>
   </LocaleResource>
   <LocaleResource Name="Products.BasePrice">
     <Value>Equivale a {0} por {1} {2}</Value>
   </LocaleResource>
-  <LocaleResource Name="Products.Breadcrumb.Top">
-    <Value>Casa</Value>
+  <LocaleResource Name="products.breadcrumb.top">
+    <Value>Início</Value>
   </LocaleResource>
-  <LocaleResource Name="Products.CallForPrice">
-    <Value>Chamada de preços</Value>
+  <LocaleResource Name="products.callforprice">
+    <Value>Orçamento por telefone</Value>
   </LocaleResource>
   <LocaleResource Name="Products.Compare">
     <Value>Comparar produtos</Value>
@@ -17025,8 +17169,8 @@
   <LocaleResource Name="Products.Compare.FullDescription">
     <Value>Descrição completa</Value>
   </LocaleResource>
-  <LocaleResource Name="Products.Compare.List">
-    <Value>Comparar a lista de produtos</Value>
+  <LocaleResource Name="products.compare.list">
+    <Value>Comparação de itens</Value>
   </LocaleResource>
   <LocaleResource Name="Products.Compare.Name">
     <Value>Nome</Value>
@@ -17226,11 +17370,11 @@
   <LocaleResource Name="products.sku">
     <Value>Código SKU</Value>
   </LocaleResource>
-  <LocaleResource Name="Products.Specs">
-    <Value>especificações de produtos</Value>
+  <LocaleResource Name="products.specs">
+    <Value>Especificações do produto</Value>
   </LocaleResource>
-  <LocaleResource Name="Products.Tags">
-    <Value>Etiquetas de Produtos</Value>
+  <LocaleResource Name="products.tags">
+    <Value>TAG de Produtos</Value>
   </LocaleResource>
   <LocaleResource Name="Products.Tags.All">
     <Value>Todos os Tag do produto</Value>
@@ -17244,8 +17388,8 @@
   <LocaleResource Name="Products.Tags.PageSize.PerPage">
     <Value>por página</Value>
   </LocaleResource>
-  <LocaleResource Name="Products.Tags.Popular">
-    <Value>tags mais populares</Value>
+  <LocaleResource Name="products.tags.popular">
+    <Value>TAGs mais populares</Value>
   </LocaleResource>
   <LocaleResource Name="Products.Tags.Popular.ViewAll">
     <Value>Ver tudo</Value>
@@ -17388,8 +17532,8 @@
   <LocaleResource Name="Reviews.OnlyRegisteredUsersCanWriteReviews">
     <Value>Somente usuários registrados podem escrever comentários</Value>
   </LocaleResource>
-  <LocaleResource Name="Reviews.Overview.AddNew">
-    <Value>Dê sua opinião</Value>
+  <LocaleResource Name="reviews.overview.addnew">
+    <Value>Queremos sua opinião</Value>
   </LocaleResource>
   <LocaleResource Name="Reviews.Overview.First">
     <Value>Seja o primeiro a comentar este produto</Value>
@@ -17487,8 +17631,8 @@
   <LocaleResource Name="Search.PriceRange.To">
     <Value>para</Value>
   </LocaleResource>
-  <LocaleResource Name="Search.SearchBox.Tooltip">
-    <Value>Loja Search</Value>
+  <LocaleResource Name="search.searchbox.tooltip">
+    <Value>Pesquisar</Value>
   </LocaleResource>
   <LocaleResource Name="Search.SearchInDescriptions">
     <Value>Pesquisar nas descrições dos produtos</Value>
@@ -17571,20 +17715,20 @@
   <LocaleResource Name="ShoppingCart.Discount.NotStartedYet">
     <Value>Desculpe, esta oferta não é iniciado ainda</Value>
   </LocaleResource>
-  <LocaleResource Name="ShoppingCart.DiscountCouponCode">
-    <Value>Código de desconto</Value>
+  <LocaleResource Name="shoppingcart.discountcouponcode">
+    <Value>Cupom de desconto</Value>
   </LocaleResource>
-  <LocaleResource Name="ShoppingCart.DiscountCouponCode.Applied">
-    <Value>O código de cupom foi aplicada</Value>
+  <LocaleResource Name="shoppingcart.discountcouponcode.applied">
+    <Value>O código do cupom foi aceito</Value>
   </LocaleResource>
-  <LocaleResource Name="ShoppingCart.DiscountCouponCode.Button">
-    <Value>Aplicar cupom</Value>
+  <LocaleResource Name="shoppingcart.discountcouponcode.button">
+    <Value>Adicionar</Value>
   </LocaleResource>
-  <LocaleResource Name="ShoppingCart.DiscountCouponCode.CurrentCode">
-    <Value>Código inserido cupom - {0}</Value>
+  <LocaleResource Name="shoppingcart.discountcouponcode.currentcode">
+    <Value>Cupom ativo - {0}</Value>
   </LocaleResource>
   <LocaleResource Name="shoppingcart.discountcouponcode.tooltip">
-    <Value>Digite seu cupom aqui</Value>
+    <Value>Informe o código do cupom de desconto</Value>
   </LocaleResource>
   <LocaleResource Name="ShoppingCart.DiscountCouponCode.WrongDiscount">
     <Value>O código de cupom digitado não poderia ser aplicado a seu pedido</Value>
@@ -17613,20 +17757,20 @@
   <LocaleResource Name="ShoppingCart.FileUploaded">
     <Value>O arquivo enviado com sucesso!</Value>
   </LocaleResource>
-  <LocaleResource Name="ShoppingCart.GiftCardCouponCode">
-    <Value>Cartões de presente</Value>
+  <LocaleResource Name="shoppingcart.giftcardcouponcode">
+    <Value>Cartão presente</Value>
   </LocaleResource>
   <LocaleResource Name="ShoppingCart.GiftCardCouponCode.Applied">
     <Value>O código de cartão de presente foi aplicada</Value>
   </LocaleResource>
-  <LocaleResource Name="ShoppingCart.GiftCardCouponCode.Button">
-    <Value>Adicionar cartão de presente</Value>
+  <LocaleResource Name="shoppingcart.giftcardcouponcode.button">
+    <Value>Adicionar</Value>
   </LocaleResource>
   <LocaleResource Name="ShoppingCart.GiftCardCouponCode.DontWorkWithAutoshipProducts">
     <Value>Você não pode usar cartões do presente com auto-navio (recorrente) itens.</Value>
   </LocaleResource>
-  <LocaleResource Name="ShoppingCart.GiftCardCouponCode.Tooltip">
-    <Value>Introduza o código do cartão do presente</Value>
+  <LocaleResource Name="shoppingcart.giftcardcouponcode.tooltip">
+    <Value>Informe o código do cartão presente</Value>
   </LocaleResource>
   <LocaleResource Name="ShoppingCart.GiftCardCouponCode.WrongGiftCard">
     <Value>O código de cupom digitado não poderia ser aplicado a seu pedido</Value>
@@ -17691,8 +17835,8 @@
   <LocaleResource Name="ShoppingCart.NotAvailable">
     <Value>O produto não está disponível</Value>
   </LocaleResource>
-  <LocaleResource Name="ShoppingCart.OutOfStock">
-    <Value>Fora de estoque</Value>
+  <LocaleResource Name="shoppingcart.outofstock">
+    <Value>Sem estoque</Value>
   </LocaleResource>
   <LocaleResource Name="ShoppingCart.PreOrder">
     <Value>Pedido antecipado</Value>
@@ -17724,8 +17868,8 @@
   <LocaleResource Name="ShoppingCart.RecurringPeriod">
     <Value>[Auto-envio, cada {0} {1}]</Value>
   </LocaleResource>
-  <LocaleResource Name="ShoppingCart.Remove">
-    <Value>Remover</Value>
+  <LocaleResource Name="shoppingcart.remove">
+    <Value>Remover Item</Value>
   </LocaleResource>
   <LocaleResource Name="ShoppingCart.Rent">
     <Value>Aluguel</Value>
